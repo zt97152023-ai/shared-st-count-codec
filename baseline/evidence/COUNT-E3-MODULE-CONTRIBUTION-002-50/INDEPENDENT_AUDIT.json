@@ -1,0 +1,68 @@
+{
+  "task": "COUNT-E3-MODULE-CONTRIBUTION-002-50",
+  "rows": 250,
+  "datasets": 50,
+  "arm_counts": {
+    "full": 50,
+    "no_support": 50,
+    "no_value": 50,
+    "no_spatial": 50,
+    "no_sharing": 50
+  },
+  "all_exact": true,
+  "all_ledgers_sum": true,
+  "per_dataset_canonical_identity_consistent": true,
+  "run_failures": 0,
+  "verify_failures": 0,
+  "reproduction": {
+    "INT17_no_support": true,
+    "MEND124_no_sharing": true,
+    "full_anchor_hash_recorded": true
+  },
+  "pooled_increase_percent": {
+    "no_support": {
+      "total_delta_bytes": 4132980,
+      "mean_delta_bytes": 82659.6,
+      "median_delta_bytes": 18509.5,
+      "min_delta_bytes": -200,
+      "max_delta_bytes": 843531,
+      "n_increase": 46,
+      "n_decrease": 4,
+      "n_tie": 0,
+      "pooled_increase_percent": 4.649855208005917
+    },
+    "no_value": {
+      "total_delta_bytes": 559247915,
+      "mean_delta_bytes": 11184958.3,
+      "median_delta_bytes": 4864100.5,
+      "min_delta_bytes": 492310,
+      "max_delta_bytes": 63857116,
+      "n_increase": 50,
+      "n_decrease": 0,
+      "n_tie": 0,
+      "pooled_increase_percent": 629.1880991752199
+    },
+    "no_spatial": {
+      "total_delta_bytes": 5434027,
+      "mean_delta_bytes": 108680.54,
+      "median_delta_bytes": 17023.0,
+      "min_delta_bytes": -11623,
+      "max_delta_bytes": 1203343,
+      "n_increase": 36,
+      "n_decrease": 14,
+      "n_tie": 0,
+      "pooled_increase_percent": 6.1136126345626565
+    },
+    "no_sharing": {
+      "total_delta_bytes": 851232,
+      "mean_delta_bytes": 17024.64,
+      "median_delta_bytes": 19137.5,
+      "min_delta_bytes": -2866,
+      "max_delta_bytes": 33806,
+      "n_increase": 48,
+      "n_decrease": 2,
+      "n_tie": 0,
+      "pooled_increase_percent": 0.957688047951186
+    }
+  }
+}

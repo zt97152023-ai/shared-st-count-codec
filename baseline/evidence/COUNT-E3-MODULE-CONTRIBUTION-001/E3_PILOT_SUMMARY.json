@@ -1,0 +1,50 @@
+{
+  "task": "COUNT-E3-MODULE-CONTRIBUTION-001",
+  "phase": "direct_pilot_v1",
+  "samples": [
+    "INT17",
+    "MEND124",
+    "MEND140"
+  ],
+  "arms": {
+    "full": {
+      "n": 3,
+      "total_archive_bytes": 13833431,
+      "all_exact": true
+    },
+    "no_support": {
+      "n": 3,
+      "total_archive_bytes": 14033591,
+      "all_exact": true
+    },
+    "no_value": {
+      "n": 3,
+      "total_archive_bytes": 109510612,
+      "all_exact": true
+    },
+    "no_spatial": {
+      "n": 3,
+      "total_archive_bytes": 14193215,
+      "all_exact": true
+    },
+    "no_sharing": {
+      "n": 3,
+      "total_archive_bytes": 13904272,
+      "all_exact": true
+    }
+  },
+  "delta_bytes_vs_full": {
+    "no_support": 200160,
+    "no_value": 95677181,
+    "no_spatial": 359784,
+    "no_sharing": 70841
+  },
+  "percent_increase_vs_full": {
+    "no_support": 1.4469295433649108,
+    "no_value": 691.6373891625295,
+    "no_spatial": 2.6008298302857766,
+    "no_sharing": 0.5120999989084415
+  },
+  "all_rows_exact": true,
+  "all_ledgers_sum": true
+}

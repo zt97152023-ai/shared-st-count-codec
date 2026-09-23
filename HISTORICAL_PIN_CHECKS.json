@@ -1,0 +1,353 @@
+[
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\matched_ready\\shared.py",
+    "expected": "e5646850c384bbee4de30bf5ef60a7ae2ca35cb11f8077ab4c58eabb176484e2",
+    "actual": "e5646850c384bbee4de30bf5ef60a7ae2ca35cb11f8077ab4c58eabb176484e2",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\matched_ready\\decoder.py",
+    "expected": "3a5b29dade8481e3771a92f472fcf1c848db3b0ad2ab2d195e98b8ee3fb115f5",
+    "actual": "3a5b29dade8481e3771a92f472fcf1c848db3b0ad2ab2d195e98b8ee3fb115f5",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\matched_ready\\archive.py",
+    "expected": "f9b7f2dd0708076d121a109949c0801d0b46a9cb47dfe4e2d9ab5778da5cae36",
+    "actual": "f9b7f2dd0708076d121a109949c0801d0b46a9cb47dfe4e2d9ab5778da5cae36",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\matched_ready\\runtime.py",
+    "expected": "4b924545523b73ecc3d6b1f4e4254bffd086148c053ef4f0eada84f17ad063ef",
+    "actual": "4b924545523b73ecc3d6b1f4e4254bffd086148c053ef4f0eada84f17ad063ef",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\qpatchcodec\\model.py",
+    "expected": "7abd069a9d924d3c7f2e4b3e4239be5f117e9c6846a4de03ba5c35ba882b31c4",
+    "actual": "7abd069a9d924d3c7f2e4b3e4239be5f117e9c6846a4de03ba5c35ba882b31c4",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\qpatchcodec\\qshare_model.py",
+    "expected": "afaf2542ea27554509bd3ed8ab5a78b41ddc6cc670581dba34c56aec12bb82ce",
+    "actual": "afaf2542ea27554509bd3ed8ab5a78b41ddc6cc670581dba34c56aec12bb82ce",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\qpatchcodec\\values.py",
+    "expected": "a0cbe78acc76fe61c2a227315b4d7d1823add785ff11008af596e2fceeb39532",
+    "actual": "a0cbe78acc76fe61c2a227315b4d7d1823add785ff11008af596e2fceeb39532",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\sharedcodec\\model.py",
+    "expected": "1b4929f82d80ec5762e26f9fc13a13c330bbe2908cebe6f3e0ff242eacc9c458",
+    "actual": "1b4929f82d80ec5762e26f9fc13a13c330bbe2908cebe6f3e0ff242eacc9c458",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\adapter.py",
+    "expected": "2b09033241a9e7c897fd583f2d31f6e2f7517f9839f85fee9569e8d8337b63a4",
+    "actual": "2b09033241a9e7c897fd583f2d31f6e2f7517f9839f85fee9569e8d8337b63a4",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\archive.py",
+    "expected": "7cfd97a4cc40690711250aabf0f5cc0d023d900c0bda53cbb80cdeeaae35b035",
+    "actual": "7cfd97a4cc40690711250aabf0f5cc0d023d900c0bda53cbb80cdeeaae35b035",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\cli.py",
+    "expected": "a9c1a79d14e29872c9e4b99803123d2cc13dcbc8dbd2dedd3910a69453789bde",
+    "actual": "a9c1a79d14e29872c9e4b99803123d2cc13dcbc8dbd2dedd3910a69453789bde",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\decoder.py",
+    "expected": "3a5b29dade8481e3771a92f472fcf1c848db3b0ad2ab2d195e98b8ee3fb115f5",
+    "actual": "3a5b29dade8481e3771a92f472fcf1c848db3b0ad2ab2d195e98b8ee3fb115f5",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\limits.py",
+    "expected": "c1ddc8ef3858536e3de4b75c7187d3b0292d665f8eba8d0003903f7d53fe05f0",
+    "actual": "c1ddc8ef3858536e3de4b75c7187d3b0292d665f8eba8d0003903f7d53fe05f0",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\runtime.py",
+    "expected": "4b924545523b73ecc3d6b1f4e4254bffd086148c053ef4f0eada84f17ad063ef",
+    "actual": "4b924545523b73ecc3d6b1f4e4254bffd086148c053ef4f0eada84f17ad063ef",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\shared.py",
+    "expected": "5bd49368be01b955ece089417de697b6e6eeb137a7011ba5fc4b53a76d18f0d0",
+    "actual": "5bd49368be01b955ece089417de697b6e6eeb137a7011ba5fc4b53a76d18f0d0",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\test_limits.py",
+    "expected": "28fa452c968c8d8cfff4552e3a5cefb0a595aef1c476cef8c8636705349d0d06",
+    "actual": "28fa452c968c8d8cfff4552e3a5cefb0a595aef1c476cef8c8636705349d0d06",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\__init__.py",
+    "expected": "5d4850b1599186afab925c3b94176fd06bd351394264383e0485e3a80300676d",
+    "actual": "5d4850b1599186afab925c3b94176fd06bd351394264383e0485e3a80300676d",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\hest_large_runtime\\__main__.py",
+    "expected": "6a170fc866c867a1e5812daad308396f0940a23f2ecf55e56be39d5d67d23f10",
+    "actual": "6a170fc866c867a1e5812daad308396f0940a23f2ecf55e56be39d5d67d23f10",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\adapter.py",
+    "expected": "d387b6282edd7b48fddfddf1aec2904f6290addf44e54d1a30c0117b9dd2174f",
+    "actual": "d387b6282edd7b48fddfddf1aec2904f6290addf44e54d1a30c0117b9dd2174f",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\archive.py",
+    "expected": "6651913551d39c016f9d215d4bbb8c323227ac33f9fbe945a770908683801436",
+    "actual": "6651913551d39c016f9d215d4bbb8c323227ac33f9fbe945a770908683801436",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\cli.py",
+    "expected": "3ab9c60eb295f35997b9c2a2132a1bfface3d0d3d67aa62c01b6ba658eed9027",
+    "actual": "3ab9c60eb295f35997b9c2a2132a1bfface3d0d3d67aa62c01b6ba658eed9027",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\decoder.py",
+    "expected": "91f453fc83d76cf4ebb021b33d71ba40c8d5659265af8602e61828869e71caca",
+    "actual": "91f453fc83d76cf4ebb021b33d71ba40c8d5659265af8602e61828869e71caca",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\gate.py",
+    "expected": "7f47df40649901cd76c45b332c28d7195f0cfe13ad867617114504f391d5b608",
+    "actual": "7f47df40649901cd76c45b332c28d7195f0cfe13ad867617114504f391d5b608",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\prepare.py",
+    "expected": "e0f5559efff0fb5c8ed9fe6dbfdb2c7ef336c51d49011cf5f56614eaedfa256a",
+    "actual": "e0f5559efff0fb5c8ed9fe6dbfdb2c7ef336c51d49011cf5f56614eaedfa256a",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\runtime.py",
+    "expected": "dfae8a5e8dd23e0025e59ada951e2d8907e58853c18b0358cf78f0b2858d81ed",
+    "actual": "dfae8a5e8dd23e0025e59ada951e2d8907e58853c18b0358cf78f0b2858d81ed",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\test_execution_ready.py",
+    "expected": "0398865d0a0faee56c484124203163f36e3348ca968003f4e3d80ed3ef70aac5",
+    "actual": "0398865d0a0faee56c484124203163f36e3348ca968003f4e3d80ed3ef70aac5",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\__init__.py",
+    "expected": "b8b8589c84068fc6b15f6e6e9c984a52a49e1da0d3dc376775e21254b029ea55",
+    "actual": "b8b8589c84068fc6b15f6e6e9c984a52a49e1da0d3dc376775e21254b029ea55",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "path": "E:\\count压缩\\baseline\\execution_ready\\__main__.py",
+    "expected": "6a170fc866c867a1e5812daad308396f0940a23f2ecf55e56be39d5d67d23f10",
+    "actual": "6a170fc866c867a1e5812daad308396f0940a23f2ecf55e56be39d5d67d23f10",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\setup.py",
+    "expected": "7301f07b2252b06abfcb3ce52b95e96f84de366618ed80ad73959deb4ad468de",
+    "actual": "7301f07b2252b06abfcb3ce52b95e96f84de366618ed80ad73959deb4ad468de",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\worker.py",
+    "expected": "3cf3215b4add57272a7a24bbda1ce5824d621e3038cdbdece87b5b305e31e738",
+    "actual": "3cf3215b4add57272a7a24bbda1ce5824d621e3038cdbdece87b5b305e31e738",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\run_core.py",
+    "expected": "a5b8cba953a737ec14c63b39e8dea500d07f2240d59714a5fa7b1713ccadfce7",
+    "actual": "a5b8cba953a737ec14c63b39e8dea500d07f2240d59714a5fa7b1713ccadfce7",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\helpers.py",
+    "expected": "d819a9576c0c9efcf0d805843067e98727f81bbdc3309d538571adb9d5b765dd",
+    "actual": "d819a9576c0c9efcf0d805843067e98727f81bbdc3309d538571adb9d5b765dd",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\common.py",
+    "expected": "a00fc2873cd3b0275e329896efa79ecdfb0f7a903dd82ba1793137f9aae6f1da",
+    "actual": "a00fc2873cd3b0275e329896efa79ecdfb0f7a903dd82ba1793137f9aae6f1da",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\preflight.py",
+    "expected": "47aaad46122ffea2c69da22e5a9b9f042f55741d2f3764972fed846b89afe777",
+    "actual": "47aaad46122ffea2c69da22e5a9b9f042f55741d2f3764972fed846b89afe777",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\run.py",
+    "expected": "f3be92b0e02894b837e652c9f4d03799a421ca1009d6d8df9c05561a9a8133ec",
+    "actual": "f3be92b0e02894b837e652c9f4d03799a421ca1009d6d8df9c05561a9a8133ec",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\summarize.py",
+    "expected": "fdc68b6903c7c6a04eaa8e3e7447b26d4eec49ee52668d556e8967165a68d3a0",
+    "actual": "fdc68b6903c7c6a04eaa8e3e7447b26d4eec49ee52668d556e8967165a68d3a0",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PROTOCOL.json",
+    "expected": "b014fa620992f14e3710bdf9d762ec0f5ebfdff6b1b99b0a93b116cfb516af4c",
+    "actual": "b014fa620992f14e3710bdf9d762ec0f5ebfdff6b1b99b0a93b116cfb516af4c",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\DATA_SPLIT.csv",
+    "expected": "44ecf2ffe430bf3cf1056170ca5927edf5790e8859c82fe3d38ad58338726fc0",
+    "actual": "44ecf2ffe430bf3cf1056170ca5927edf5790e8859c82fe3d38ad58338726fc0",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  },
+  {
+    "pinfile": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "expected": "f1f340e283332a2cf5dce8c69d946606abcc24e52b5a794e78a5363edda3fa13",
+    "actual": "f1f340e283332a2cf5dce8c69d946606abcc24e52b5a794e78a5363edda3fa13",
+    "matches": true,
+    "included": true,
+    "copy_matches": true
+  }
+]

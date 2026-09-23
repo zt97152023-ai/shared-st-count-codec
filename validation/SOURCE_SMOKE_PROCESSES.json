@@ -1,0 +1,128 @@
+[
+  {
+    "K": 8,
+    "stage": "encode",
+    "exit_code": 0,
+    "seconds": 5.577999999994063,
+    "command": [
+      "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+      "-B",
+      "-X",
+      "utf8",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\PRODUCTION_SHARED_SOURCE\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\worker.py",
+      "encode",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\synthetic.h5ad",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8.cnt",
+      "--K",
+      "8",
+      "--report",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8_encode.json"
+    ],
+    "report": "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8_encode.json"
+  },
+  {
+    "K": 8,
+    "stage": "decode",
+    "exit_code": 0,
+    "seconds": 2.063000000009197,
+    "command": [
+      "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+      "-B",
+      "-X",
+      "utf8",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\PRODUCTION_SHARED_SOURCE\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\worker.py",
+      "decode",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8.cnt",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8_decoded",
+      "--K",
+      "8",
+      "--report",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8_decode.json"
+    ],
+    "report": "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8_decode.json"
+  },
+  {
+    "K": 8,
+    "stage": "verify",
+    "exit_code": 0,
+    "seconds": 0.4529999999940628,
+    "command": [
+      "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+      "-B",
+      "-X",
+      "utf8",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\PRODUCTION_SHARED_SOURCE\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\worker.py",
+      "verify",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\synthetic.h5ad",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8_decoded",
+      "--K",
+      "8",
+      "--report",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8_verify.json"
+    ],
+    "report": "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K8_verify.json"
+  },
+  {
+    "K": 32,
+    "stage": "encode",
+    "exit_code": 0,
+    "seconds": 1.5780000000086147,
+    "command": [
+      "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+      "-B",
+      "-X",
+      "utf8",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\PRODUCTION_SHARED_SOURCE\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\worker.py",
+      "encode",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\synthetic.h5ad",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32.cnt",
+      "--K",
+      "32",
+      "--report",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32_encode.json"
+    ],
+    "report": "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32_encode.json"
+  },
+  {
+    "K": 32,
+    "stage": "decode",
+    "exit_code": 0,
+    "seconds": 0.9219999999913853,
+    "command": [
+      "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+      "-B",
+      "-X",
+      "utf8",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\PRODUCTION_SHARED_SOURCE\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\worker.py",
+      "decode",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32.cnt",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32_decoded",
+      "--K",
+      "32",
+      "--report",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32_decode.json"
+    ],
+    "report": "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32_decode.json"
+  },
+  {
+    "K": 32,
+    "stage": "verify",
+    "exit_code": 0,
+    "seconds": 0.4220000000059372,
+    "command": [
+      "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+      "-B",
+      "-X",
+      "utf8",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\PRODUCTION_SHARED_SOURCE\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\worker.py",
+      "verify",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\synthetic.h5ad",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32_decoded",
+      "--K",
+      "32",
+      "--report",
+      "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32_verify.json"
+    ],
+    "report": "E:\\count\u538b\u7f29\\outputs\\FINAL_COMPLETENESS_SOURCE_AUDIT_20260923\\source_smoke\\K32_verify.json"
+  }
+]

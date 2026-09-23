@@ -1,0 +1,18 @@
+{
+  "task_id":"COUNT-SHARED-MDL-GROUP-001",
+  "status":"approved",
+  "project_type":"research",
+  "risk":"high",
+  "objective":"Test paid adaptive singleton-rate grouping against frozen Shared complete count archives; isolate q1 grouping while keeping spatial/support/tail models unchanged.",
+  "approval":{"status":"approved","by":"Explicit user request to start MDL grouping experiment","date":"2026-09-16"},
+  "inputs":["NCBI692","NCBI715","NCBI618","Existing Shared archives and matching complete canonical counts/metadata"],
+  "protocol":"evidence/COUNT-SHARED-MDL-GROUP-001/PROTOCOL.md",
+  "allowed_changes":["New evidence directory and task records only"],
+  "forbidden_changes":["Historical results or codecs","Protected148/new samples","Image/neural training","Post-result K/threshold/endpoint tuning"],
+  "acceptance_criteria":["Frozen source/input hashes","Independent pre-main review","42 new actual archives and fresh exact decode plus3 original checks","All grouping/exception costs and search time paid","Independent representative reencode byte-identical and raw fee audit"],
+  "primary_endpoint":"Pooled ADAPTIVE_MDL complete bytes at least1% below original Shared and no slice worse",
+  "failure_rules":["Nonfinite/resource/source drift/exactness failure stops or records incomplete","No failed runs in statistics","No outcome tuning"],
+  "resources":{"wall_seconds":7200,"worker_seconds":600,"worker_RSS_bytes":8589934592,"new_disk_bytes":8589934592,"parallel":1,"upload":false},
+  "inference_unit":"Three exposed biological slices, descriptive mechanism experiment",
+  "claim_boundaries":["Singleton grouping only, not global MDL optimum","Actual finite-candidate search pays mappings and model costs","No unseen generalization or SOTA claim","Lloyd fitting proxy ignores original conditional odds but actual rANS selection determines final rate"]
+}

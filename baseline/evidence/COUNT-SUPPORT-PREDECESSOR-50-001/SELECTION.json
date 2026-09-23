@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "arm": "SPATIAL_M06",
+    "kind": "spatial",
+    "width": 6,
+    "n": 50,
+    "total_archive_bytes": 88884058,
+    "delta_bytes_vs_spatial_m6": 0,
+    "percent_change_vs_spatial_m6": 0.0,
+    "wins_vs_spatial_m6": 0,
+    "losses_vs_spatial_m6": 0,
+    "ties_vs_spatial_m6": 50,
+    "median_percent_change_vs_spatial_m6": 0.0,
+    "q25_percent_change_vs_spatial_m6": 0.0,
+    "q75_percent_change_vs_spatial_m6": 0.0,
+    "min_percent_change_vs_spatial_m6": 0.0,
+    "max_percent_change_vs_spatial_m6": 0.0,
+    "support_stream_bytes": 42717492,
+    "support_model_bytes": 898355,
+    "support_graph_increment_bytes": 0,
+    "support_nll_bits": 341738556.9551578,
+    "largest_saving_sample": "NCBI180",
+    "leave_largest_saver_out_delta_bytes": 0
+  },
+  "rule": "minimum pooled bytes; within 0.05% prefer smaller M"
+}

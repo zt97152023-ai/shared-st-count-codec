@@ -1,0 +1,3 @@
+﻿sample_id,identifier,source,field,source_value,validation
+NCBI855,GSM7659430,HEST_v1_0_0.csv,subseries,GSM7659430,exact token in supplied provider metadata; upstream page not individually audited
+NCBI855,GSM7659430,metadata/NCBI855.json,subseries,GSM7659430,exact token in supplied provider metadata; upstream page not individually audited

@@ -1,0 +1,28 @@
+{
+  "id": "COUNT-SUPPORT-PREDECESSOR-50-001",
+  "question": "With value K fixed at 32, which fixed causal spatial predecessor count minimizes the paid physical archive over the same 50 exposed HEST development slices?",
+  "data_role": "exposed development calibration; not independent confirmation",
+  "samples": 50,
+  "value_group_count": 32,
+  "spatial_m_candidates": [0, 2, 4, 6, 8, 12, 16],
+  "diagnostic_controls": ["ROW_M06"],
+  "support_buckets": 8,
+  "support_bucket_edges_q12": [1, 4, 16, 64, 256, 1024, 2048, 3072, 4096],
+  "probability_precision_bits": 12,
+  "warmup_rule": "Rows with fewer than M predecessors use the gene base probability; conditional odds are used once M predecessors are available.",
+  "graph_rule": "For row i, select up to M prior rows j<i by squared Euclidean distance; ties use ascending prior row index. Source row order is preserved.",
+  "graph_accounting": "The production six-neighbor graph is retained for the fixed value branch. Spatial M<=6 reuses its first M columns at zero incremental graph cost; spatial M>6 stores and pays only columns 6:M. ROW_M06 is regenerated from row index and M without a stored graph.",
+  "primary_endpoint": "pooled full physical archive bytes for each fixed spatial M",
+  "selection_rule": "Compute 100*(candidate_bytes-minimum_bytes)/minimum_bytes for spatial arms; values <=0.05 percent are tied and the smaller M is selected. Leave-largest-saver-out removes the most negative per-slice byte delta versus M6 before re-summing.",
+  "secondary_endpoints": [
+    "paired wins/losses/ties versus M6",
+    "median, Q1 and Q3 of per-slice percent change; quartiles use linear interpolation at sorted index (n-1)*p",
+    "leave-largest-saving-slice-out pooled change",
+    "support stream, support model, graph and total archive decomposition",
+    "platform/species/organ descriptive strata",
+    "ROW_M06 versus SPATIAL_M06 mechanism contrast"
+  ],
+  "failure_rule": "Retain every attempt. One fresh-process retry is allowed only for a native access violation or Numba import/cache failure. Integrity, resource, exactness or second failures stop the run without replacing a sample.",
+  "claim_boundary": "The selected M is a development-panel fixed default within the tested candidate set, not a universal optimum or independent biological validation.",
+  "output_root": "D:/HEST1000BenchRun/COUNT-SUPPORT-PREDECESSOR-50-001"
+}

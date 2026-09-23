@@ -1,0 +1,55 @@
+{
+  "task_id": "COUNT-PRODUCTION-SHARED-CLOSURE-001",
+  "project_type": "research",
+  "risk": "high-publication-result",
+  "state": "accepted",
+  "objective": "Close the sequential-selection and support/value interaction gaps identified after COUNT-PRODUCTION-SHARED-ABLATIONS-50-001 without changing K=32, the canonical recovery contract, historical evidence, or protected-data boundary.",
+  "inputs": {
+    "sample_manifest": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/DATA_SPLIT.csv",
+    "prior_evidence": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001",
+    "frozen_value_groups": 32,
+    "frozen_support_predecessors_initial": 6,
+    "development_scope": "same 50 exposed HEST slices; no protected confirmation data"
+  },
+  "pre_registration": {
+    "bucket_scan": {
+      "primary": [32],
+      "conditional_extension": [64],
+      "b32_edges": "insert floor midpoint between adjacent B16 edges, retaining endpoints and all B16 edges",
+      "b64_stop_rule": "run only if B32 pooled full bytes are >0.05% below B16 and the B32 incremental graph/model cost is smaller than its support-stream saving versus B16",
+      "selection": "minimum pooled full physical bytes; <=0.05% tie selects smaller B"
+    },
+    "support_value_joint": {
+      "initial_grid": "final bucket candidate crossed with M_s in {4,6,8}; M6 is reused where byte-identical",
+      "extension": "if B32 is selected, repeat M_s={4,6,8} at B32; otherwise use B16",
+      "support_graph": "M_s<=6 reuses production graph prefix; M_s>6 stores and pays only the incremental graph tail"
+    },
+    "value_context_scan": {
+      "Mv": [0, 2, 4, 6, 8, 12],
+      "extension": "test M_v=16 only if M_v=12 is the boundary winner by >0.05% versus M_v=6",
+      "graph": "M_v<=6 reuses shared graph prefix; M_v>6 stores and pays incremental value graph tail",
+      "reuse_audit": "M_v=0 and M_v=6 require member-level semantic comparison to existing value-context anchors"
+    },
+    "threshold_scan": "do not run unless final M_v scan leaves a >0.05% pooled context gain that cannot be attributed to graph/model cost; otherwise classify existing thresholds as design constants"
+  },
+  "acceptance_criteria": [
+    "All executed arms use real archives, fresh archive-only decoding, exact recovery and physical ledgers",
+    "B32 and any conditional B64 decision are frozen before execution of that arm",
+    "Support/value joint grid is reported without calling sequential single-variable minima jointly optimal",
+    "All failures and retries are retained",
+    "Independent read-only audit and at least three fresh-process reproductions pass",
+    "Existing 1000-sample B8 result remains headline unless the full 1000-sample Shared method is rerun; a new development candidate is not relabeled as the old production result",
+    "METHOD_COVERAGE_AUDIT, RESULT, PAPER_TABLES and frozen-config decision are updated"
+  ],
+  "forbidden_changes": [
+    "modify prior evidence or source data",
+    "access protected confirmatory data",
+    "change K=32 or canonical recovery semantics",
+    "post-result boundary/threshold redesign",
+    "rerun external baselines"
+  ],
+  "current_gate": "accepted",
+  "closure_evidence": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001",
+  "final_verification": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/FINAL_VERIFICATION.json",
+  "result": "K32 Shared B32/M_s=6/M_v=6 is a development candidate; historical 1000-sample B8 remains headline."
+}

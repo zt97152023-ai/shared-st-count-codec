@@ -1,0 +1,91 @@
+{
+  "task_id": "COUNT-PRODUCTION-SHARED-ABLATIONS-50-001",
+  "project_type": "research",
+  "risk": "high-publication-result",
+  "state": "accepted",
+  "objective": "Complete the remaining method ablations for Production Shared count codec on the fixed 50 exposed HEST development slices without changing K=32, M_s=6, historical evidence, protected data, or the canonical recovery contract.",
+  "inputs": {
+    "sample_manifest": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/DATA_SPLIT.csv",
+    "support_anchor_root": "D:/HEST1000BenchRun/COUNT-SUPPORT-PREDECESSOR-50-001/main",
+    "value_anchor_root": "baseline/evidence/VALUE_K64_K128_50_006 and VALUE_BEST_OF_9_50_005",
+    "source_role": "same exposed 50-slice development/calibration panel; no protected confirmation data",
+    "frozen_value_groups": 32,
+    "frozen_support_predecessors": 6
+  },
+  "primary_hypotheses": [
+    "H_order: Production Shared rate is not materially dependent on arbitrary storage row order after paying the mapping required for original-order recovery.",
+    "H_context: support and value spatial contexts contribute separable physical-byte savings and may interact.",
+    "H_bucket: a fixed support Q12 bucket count other than 8 can reduce pooled physical archive bytes under a nested pre-registered boundary rule."
+  ],
+  "null_hypotheses": [
+    "Arbitrary row order changes only the representation and mapping cost, with no practically relevant codec advantage for canonical spatial traversal.",
+    "Turning either context off does not reduce total physical archive bytes once all model and graph costs are paid.",
+    "B_s=8 is not improved by the tested nested alternatives."
+  ],
+  "arms": {
+    "order": ["ORIGINAL", "CANONICAL_SPATIAL", "RANDOM_SEED_11", "RANDOM_SEED_23", "RANDOM_SEED_37"],
+    "context_2x2": ["S0V0", "S1V0", "S0V1", "S1V1"],
+    "support_buckets": [1, 2, 4, 8, 16]
+  },
+  "primary_endpoints": {
+    "order": "full physical archive bytes including mapping; exact original-order recovery after independent decode",
+    "context_2x2": "pooled full physical archive bytes, with support/value streams, model members, graph and metadata separately reconciled",
+    "support_buckets": "pooled full physical archive bytes; B=8 must reproduce the Production anchor byte-for-byte"
+  },
+  "frozen_bucket_rule": {
+    "name": "nested-q12-v1",
+    "b8_edges": [1, 4, 16, 64, 256, 1024, 2048, 3072, 4096],
+    "lower_counts": "select every (8/B)th B=8 edge, retaining 1 and 4096",
+    "b16_edges": "insert floor((a+b)/2) between each adjacent B=8 edge, retaining the original edges",
+    "selection": "minimum pooled full bytes; <=0.05 percent tied, choose smaller B"
+  },
+  "allowed_changes": [
+    "new isolated evidence directory and codec wrappers",
+    "new output archives and ledgers under the new task only",
+    "reuse hash-verified historical S0V1/S1V1 archives for semantic audit and B=8 anchor"
+  ],
+  "forbidden_changes": [
+    "modify or replace historical evidence, archives, source data, protected confirmation data, K=32, M_s=6, Production metadata schema, or rANS precision",
+    "select samples, boundaries, seeds, or endpoints after viewing final sizes",
+    "drop failures, replace samples, or report NLL without full physical bytes",
+    "claim universal optimality, causal biological generalization, or arbitrary-order invariance beyond this panel"
+  ],
+  "resource_ceiling": {
+    "per_process_seconds": 1800,
+    "total_seconds": 43200,
+    "per_process_rss_bytes": 8589934592,
+    "minimum_free_disk_bytes": 10737418240,
+    "concurrency": 2,
+    "stop_on_integrity_or_reproduction_failure": true
+  },
+  "acceptance_criteria": [
+    "framing and reviewer challenge are recorded before implementation",
+    "source, manifest, anchor, runtime and new-code SHA256 pins are recorded",
+    "preflight passes synthetic edge cases and at least one real slice per new arm",
+    "all planned successful archives are independently decoded in fresh processes and exact recovery is verified",
+    "all failures, interruptions and retries are retained",
+    "each archive has a physical ledger summing exactly to file size",
+    "independent read-only audit and separate reproduction pass",
+    "method coverage audit marks 50-sample, 3-sample, design-constant, invariant and unverified items"
+  ],
+  "outputs": [
+    "ORDER_PER_SAMPLE.csv",
+    "CONTEXT_PER_SAMPLE.csv",
+    "BUCKET_PER_SAMPLE.csv",
+    "stage summaries and physical ledgers",
+    "RESULT.md",
+    "METHOD_COVERAGE_AUDIT.csv",
+    "FINAL_VERIFICATION.json",
+    "REPRODUCTION.json"
+  ],
+  "current_gate": "accepted",
+  "completion": {
+    "new_main_cases": 550,
+    "accepted_effective_cases": 550,
+    "preserved_main_v3_failures": 1,
+    "isolated_successful_retries": 1,
+    "final_verification": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/FINAL_VERIFICATION.json",
+    "result": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/RESULT.md",
+    "frozen_config": {"value_groups": 32, "support_predecessors": 6, "support_buckets": 16, "order_policy": "ORIGINAL"}
+  }
+}

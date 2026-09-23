@@ -1,0 +1,130 @@
+{
+  "all_pass": true,
+  "sample_id": "NCBI180",
+  "arms": [
+    {
+      "arm": "SPATIAL_M00",
+      "width": 0,
+      "checks": {
+        "exact": true,
+        "ledger": true,
+        "graph_increment_presence": true,
+        "m6_anchor_stream": true,
+        "m6_anchor_model": true,
+        "archive_only": true
+      },
+      "all": true,
+      "archive_bytes": 257400,
+      "support_graph_increment_bytes": 0
+    },
+    {
+      "arm": "SPATIAL_M02",
+      "width": 2,
+      "checks": {
+        "exact": true,
+        "ledger": true,
+        "graph_increment_presence": true,
+        "m6_anchor_stream": true,
+        "m6_anchor_model": true,
+        "archive_only": true
+      },
+      "all": true,
+      "archive_bytes": 257234,
+      "support_graph_increment_bytes": 0
+    },
+    {
+      "arm": "SPATIAL_M04",
+      "width": 4,
+      "checks": {
+        "exact": true,
+        "ledger": true,
+        "graph_increment_presence": true,
+        "m6_anchor_stream": true,
+        "m6_anchor_model": true,
+        "archive_only": true
+      },
+      "all": true,
+      "archive_bytes": 257264,
+      "support_graph_increment_bytes": 0
+    },
+    {
+      "arm": "SPATIAL_M06",
+      "width": 6,
+      "checks": {
+        "exact": true,
+        "ledger": true,
+        "graph_increment_presence": true,
+        "m6_anchor_stream": true,
+        "m6_anchor_model": true,
+        "archive_only": true
+      },
+      "all": true,
+      "archive_bytes": 257323,
+      "support_graph_increment_bytes": 0
+    },
+    {
+      "arm": "SPATIAL_M08",
+      "width": 8,
+      "checks": {
+        "exact": true,
+        "ledger": true,
+        "graph_increment_presence": true,
+        "m6_anchor_stream": true,
+        "m6_anchor_model": true,
+        "archive_only": true
+      },
+      "all": true,
+      "archive_bytes": 258582,
+      "support_graph_increment_bytes": 929
+    },
+    {
+      "arm": "SPATIAL_M12",
+      "width": 12,
+      "checks": {
+        "exact": true,
+        "ledger": true,
+        "graph_increment_presence": true,
+        "m6_anchor_stream": true,
+        "m6_anchor_model": true,
+        "archive_only": true
+      },
+      "all": true,
+      "archive_bytes": 260108,
+      "support_graph_increment_bytes": 2280
+    },
+    {
+      "arm": "SPATIAL_M16",
+      "width": 16,
+      "checks": {
+        "exact": true,
+        "ledger": true,
+        "graph_increment_presence": true,
+        "m6_anchor_stream": true,
+        "m6_anchor_model": true,
+        "archive_only": true
+      },
+      "all": true,
+      "archive_bytes": 261477,
+      "support_graph_increment_bytes": 3486
+    },
+    {
+      "arm": "ROW_M06",
+      "width": 6,
+      "checks": {
+        "exact": true,
+        "ledger": true,
+        "graph_increment_presence": true,
+        "m6_anchor_stream": true,
+        "m6_anchor_model": true,
+        "archive_only": true
+      },
+      "all": true,
+      "archive_bytes": 257488,
+      "support_graph_increment_bytes": 0
+    }
+  ],
+  "failed_preflights_retained": [
+    "preflight_m6",
+    "preflight_m6_v2"
+  ]
+}

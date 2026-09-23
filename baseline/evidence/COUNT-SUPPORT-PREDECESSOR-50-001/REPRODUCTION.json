@@ -1,0 +1,8 @@
+{
+  "sample_id": "NCBI180",
+  "arm": "SPATIAL_M06",
+  "main_sha256": "2d3dc4d0a9f454d87dda07c9adb9028ad5d7fed5d5aadc28d3ada41ac725c67d",
+  "reproduction_sha256": "2d3dc4d0a9f454d87dda07c9adb9028ad5d7fed5d5aadc28d3ada41ac725c67d",
+  "byte_identical": true,
+  "record_path": "D:\\HEST1000BenchRun\\COUNT-SUPPORT-PREDECESSOR-50-001\\reproduction\\NCBI180\\SPATIAL_M06\\attempt01\\RESULT.json"
+}

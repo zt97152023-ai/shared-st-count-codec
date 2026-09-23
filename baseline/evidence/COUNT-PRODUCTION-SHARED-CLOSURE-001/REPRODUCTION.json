@@ -1,0 +1,38 @@
+{
+  "all": true,
+  "cases": [
+    {
+      "case": "bucket_B32",
+      "stage": "bucket",
+      "sample_id": "NCBI180",
+      "arm": "B32",
+      "archive_sha256": "71f7fa36821a920ba4055b0f530aaeb17948fe7bbb8c8ffcb47f9fb520371623",
+      "archive_sha_matches_effective": true,
+      "verify_all": true,
+      "fresh_process": true,
+      "pass": true
+    },
+    {
+      "case": "joint_B16_M8",
+      "stage": "joint",
+      "sample_id": "NCBI180",
+      "arm": "B16_M8",
+      "archive_sha256": "7b85a75116d74f27b52e3cdb2ac5518e26893d8555fd098a54f0bc2704eb9be9",
+      "archive_sha_matches_effective": true,
+      "verify_all": true,
+      "fresh_process": true,
+      "pass": true
+    },
+    {
+      "case": "b32_value_MV6",
+      "stage": "b32_value",
+      "sample_id": "NCBI180",
+      "arm": "MV6",
+      "archive_sha256": "18389a29108a602e57a3bff6ea955b89bb6a1897660d4e347a4247f59a8b92e3",
+      "archive_sha_matches_effective": true,
+      "verify_all": true,
+      "fresh_process": true,
+      "pass": true
+    }
+  ]
+}

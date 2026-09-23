@@ -1,0 +1,14 @@
+check,status,detail
+protected_data,PASS,No protected data used; fixed 50 exposed HEST development slices.
+external_baseline_rerun,PASS,No external baseline rerun; historical B8/B16 retained.
+K_and_recovery,PASS,K=32 and canonical recovery unchanged.
+bucket_B32_coverage,PASS,50
+B32_support_width_coverage,PASS,100
+joint_B16_width_coverage,PASS,100
+B16_value_context_coverage,PASS,300
+B32_value_context_coverage,PASS,300
+B64_gate,PASS,B32 vs B16=0.010005% (<0.05% gate)
+Mv16_gate,PASS,Mv12 vs Mv6=-1.511403% (not >0.05% gate)
+fresh_process_reproduction,PASS,3/3
+member_audit,PASS,200 audit rows for B16/B32 x Mv0/Mv6
+headline_label,PASS,1000-sample K32 Shared B8 not relabeled as closure candidate.

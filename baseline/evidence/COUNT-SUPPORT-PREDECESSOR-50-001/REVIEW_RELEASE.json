@@ -1,0 +1,15 @@
+{
+  "approved": true,
+  "reviewer": "independent evidence reviewer",
+  "decision": "APPROVE",
+  "unresolved_p0": 0,
+  "unresolved_p1": 0,
+  "checks": [
+    "RUN_PINS including PREFLIGHT.json match current SHA-256 hashes",
+    "all eight preflight arms pass real archive, exact recovery, ledger and graph-accounting checks",
+    "Q1 and Q3 implementation matches the frozen linear-interpolation convention",
+    "retry eligibility is restricted to the failed-stage access-violation or Numba import/cache signature",
+    "dynamic-width unit test passes",
+    "K32 anchoring and M6 compatibility remain pinned and preflight-verified"
+  ]
+}

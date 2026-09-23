@@ -1,0 +1,19 @@
+[
+  {
+    "scope": "HEST provider and library",
+    "url": "https://github.com/mahmoodlab/HEST",
+    "checked": "2026-09-23",
+    "license": "CC-BY-NC-SA-4.0"
+  },
+  {
+    "scope": "HEST dataset card and access conditions",
+    "url": "https://huggingface.co/datasets/MahmoodLab/hest",
+    "checked": "2026-09-23",
+    "license": "CC-BY-NC-SA-4.0"
+  },
+  {
+    "scope": "HEST exact license text",
+    "url": "https://raw.githubusercontent.com/mahmoodlab/HEST/main/LICENSE.md",
+    "checked": "2026-09-23"
+  }
+]

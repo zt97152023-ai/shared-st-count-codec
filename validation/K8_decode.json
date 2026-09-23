@@ -1,0 +1,9 @@
+{
+  "archive_only": true,
+  "canonical_sha256": "b1be85708667a11a42479bef28101339e6c9322ec1710356dafba74318d6ae0d",
+  "metadata_sha256": "2ace0619eb0e44892eecd507ec3ad545a5023d903b2e3012f6ec3ddef413e58b",
+  "value_cdf_sha256": "01189a435562118c9773626c96689db93337c85dbb71ea3c24fa9ad97c4d76a7",
+  "tail_events": 11,
+  "remainder_bits": 54,
+  "worker_seconds": 1.858735500005423
+}

@@ -1,0 +1,6 @@
+arm,coverage,available_archive_size,available_component_ledger,exact_recovery,comparability,source_family,notes
+full,1000,yes,yes,yes,full-arm-only,COUNT-HEST-SHARED-K32-001,Accepted K32 Shared full physical ledger; not a counterfactual.
+no_support,0,no,no,no,not_available,,Direct arm is not yet run. Existing S0V1 is no_support_context: gene-only support probabilities with value context retained.
+no_value,0,no,no,no,not_available,,Direct arm is not yet run. Existing tail alternatives change only the positive tail family and are not removal of the whole positive-value model.
+no_spatial,50,yes,yes,yes,direct_context_arm,COUNT-PRODUCTION-SHARED-ABLATIONS-50-001,S0V0 removes support and value spatial predecessors; model families remain active.
+no_sharing,0,no,no,no,not_available,,Direct per-gene parameter arm is not yet run. Existing B_INDEPENDENT_FACTORIZED is a simplified q1-sharing control only.

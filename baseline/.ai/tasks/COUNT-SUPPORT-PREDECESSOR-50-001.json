@@ -1,0 +1,62 @@
+{
+  "task_id": "COUNT-SUPPORT-PREDECESSOR-50-001",
+  "project_type": "research",
+  "risk": "high-publication-result",
+  "state": "accepted",
+  "objective": "Calibrate the fixed number of causal spatial predecessors used by the support entropy model on the same 50 exposed HEST development slices used for value-group selection, with value K fixed at 32 and all physical archive costs paid.",
+  "inputs": {
+    "sample_manifest": "evidence/VALUE_K64_K128_50_006/DATA_SPLIT.csv",
+    "anchor_index": "evidence/VALUE_K64_K128_50_006/INDEX.json",
+    "anchor_value_group_count": 32,
+    "data_role": "exposed development/calibration only"
+  },
+  "arms": [
+    "SPATIAL_M00",
+    "SPATIAL_M02",
+    "SPATIAL_M04",
+    "SPATIAL_M06",
+    "SPATIAL_M08",
+    "SPATIAL_M12",
+    "SPATIAL_M16",
+    "ROW_M06"
+  ],
+  "primary_endpoint": "Sum of full physical archive bytes over all 50 slices for each fixed spatial M candidate; ROW_M06 is diagnostic and cannot be selected as the spatial default.",
+  "selection_rule": "Among spatial M candidates compute 100*(candidate_bytes-minimum_bytes)/minimum_bytes; candidates at or below 0.05 percent are tied and the smaller M is selected. Leave-largest-saver-out removes the single most negative per-slice byte delta versus M6 before re-summing. Report per-slice wins, median paired change and platform/species/organ descriptive strata.",
+  "allowed_changes": [
+    "New isolated experimental codec wrapper and dynamic support-context implementation",
+    "New evidence under evidence/COUNT-SUPPORT-PREDECESSOR-50-001 and D:/HEST1000BenchRun/COUNT-SUPPORT-PREDECESSOR-50-001",
+    "Reuse hash-verified K32 value members without changing them"
+  ],
+  "forbidden_changes": [
+    "Modify historical archives or Production Shared source",
+    "Change value K=32, value context, magnitude classes, support bucket edges, probability precision, metadata, source order, or coordinates",
+    "Use protected confirmatory samples",
+    "Drop losing or failed samples",
+    "Call the selected M universally optimal",
+    "Treat ROW_M06 as a spatial candidate"
+  ],
+  "acceptance_criteria": [
+    "A frozen preflight reproduces the K32 anchor support stream and support odds byte-for-byte for SPATIAL_M06.",
+    "All 400 planned archives are physically written and independently decoded in fresh processes.",
+    "Counts, dtype, shape, ordered spot/gene identities, coordinates and contract metadata match exactly.",
+    "Every archive ledger reconciles exactly to physical file size and unchanged value members match the K32 anchor hashes.",
+    "All failures and retries are retained; no sample replacement.",
+    "Independent review has no unresolved P0/P1 finding.",
+    "One separately produced archive matches the main archive byte-for-byte."
+  ],
+  "resource_ceiling": {
+    "per_process_seconds": 1800,
+    "total_seconds": 43200,
+    "per_process_rss_bytes": 8589934592,
+    "minimum_free_disk_bytes": 32212254720,
+    "concurrency": 2
+  },
+  "outputs": [
+    "PER_SAMPLE_RESULTS.csv",
+    "FIXED_M_SUMMARY.csv",
+    "STRATIFIED_SUMMARY.csv",
+    "RESULT.md",
+    "FINAL_VERIFICATION.json",
+    "REPRODUCTION.json"
+  ]
+}

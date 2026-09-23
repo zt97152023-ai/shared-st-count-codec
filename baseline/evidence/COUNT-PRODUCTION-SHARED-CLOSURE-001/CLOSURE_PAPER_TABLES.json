@@ -1,0 +1,162 @@
+{
+  "table_1_bucket_and_support_width": [
+    {
+      "arm": "B8_historical",
+      "pooled_total_bytes": 88884058,
+      "coverage": 50
+    },
+    {
+      "arm": "B16_historical",
+      "pooled_total_bytes": 88793409,
+      "coverage": 50
+    },
+    {
+      "arm": "B32",
+      "pooled_total_bytes": 88784525,
+      "coverage": 50
+    },
+    {
+      "arm": "B32_M4",
+      "pooled_total_bytes": 89116182,
+      "coverage": 50
+    },
+    {
+      "arm": "B32_M8",
+      "pooled_total_bytes": 88976068,
+      "coverage": 50
+    },
+    {
+      "arm": "B16_M4",
+      "pooled_total_bytes": 89124854,
+      "coverage": 50
+    },
+    {
+      "arm": "B16_M8",
+      "pooled_total_bytes": 88983830,
+      "coverage": 50
+    },
+    {
+      "arm": "B32_M6_MV6",
+      "pooled_total_bytes": 88773345,
+      "coverage": 50
+    }
+  ],
+  "table_2_value_context_B16_base": [
+    {
+      "arm": "MV0",
+      "pooled_total_bytes": 91023465,
+      "coverage": 50
+    },
+    {
+      "arm": "MV2",
+      "pooled_total_bytes": 89588235,
+      "coverage": 50
+    },
+    {
+      "arm": "MV4",
+      "pooled_total_bytes": 89247430,
+      "coverage": 50
+    },
+    {
+      "arm": "MV6",
+      "pooled_total_bytes": 88782284,
+      "coverage": 50
+    },
+    {
+      "arm": "MV8",
+      "pooled_total_bytes": 89517108,
+      "coverage": 50
+    },
+    {
+      "arm": "MV12",
+      "pooled_total_bytes": 90124007,
+      "coverage": 50
+    }
+  ],
+  "table_3_value_context_B32_base": [
+    {
+      "arm": "MV0",
+      "pooled_total_bytes": 91014526,
+      "coverage": 50
+    },
+    {
+      "arm": "MV2",
+      "pooled_total_bytes": 89579296,
+      "coverage": 50
+    },
+    {
+      "arm": "MV4",
+      "pooled_total_bytes": 89238491,
+      "coverage": 50
+    },
+    {
+      "arm": "MV6",
+      "pooled_total_bytes": 88773345,
+      "coverage": 50
+    },
+    {
+      "arm": "MV8",
+      "pooled_total_bytes": 89508169,
+      "coverage": 50
+    },
+    {
+      "arm": "MV12",
+      "pooled_total_bytes": 90115068,
+      "coverage": 50
+    }
+  ],
+  "table_4_member_audit": [
+    {
+      "context": "B16_base",
+      "arm": "MV0",
+      "n": 50,
+      "all_members_equal_n": 0,
+      "changed_member_union": [
+        "manifest.json",
+        "value_cond_k.bz2",
+        "value_odds.u32",
+        "values.rans"
+      ]
+    },
+    {
+      "context": "B16_base",
+      "arm": "MV6",
+      "n": 50,
+      "all_members_equal_n": 0,
+      "changed_member_union": [
+        "manifest.json"
+      ]
+    },
+    {
+      "context": "B32_base",
+      "arm": "MV0",
+      "n": 50,
+      "all_members_equal_n": 0,
+      "changed_member_union": [
+        "manifest.json",
+        "value_cond_k.bz2",
+        "value_odds.u32",
+        "values.rans"
+      ]
+    },
+    {
+      "context": "B32_base",
+      "arm": "MV6",
+      "n": 50,
+      "all_members_equal_n": 0,
+      "changed_member_union": [
+        "manifest.json"
+      ]
+    }
+  ],
+  "decision": {
+    "headline": "K32 Shared B8 historical 1000-sample headline remains frozen",
+    "development_candidate": "K32 Shared B32 / M_s=6 / M_v=6",
+    "b64_run": false,
+    "mv16_run": false,
+    "b32_vs_b16_savings_pct": 0.010005247123691354,
+    "b32_vs_b8_savings_pct": 0.1119807108716841,
+    "b32_mv6_vs_b32_savings_pct": 0.012592284522556155,
+    "b32_mv12_vs_mv6_savings_pct": -1.511403000529044
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "NCBI180": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\NCBI180\\VALUE_K32\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\NCBI180\\VALUE_K32\\archive.cnt",
+    "archive_sha256": "6e0635ad7d4a99dae729fb709aad8efe4e946b1ac68b06fca5ad18466c55c765",
+    "archive_bytes": 256978,
+    "source_path": "E:\\Hestdata\\st\\NCBI180.h5ad",
+    "source_sha256": "f7565f113f5f59b6c78146811aac9ee1e9ad46affbafd337fea0d66624e66f34"
+  },
+  "SPA58": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\SPA58\\VALUE_K32\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\SPA58\\VALUE_K32\\archive.cnt",
+    "archive_sha256": "b248098b67fc1b5bc6bc93ec4ad84d04d774a975a4dac6a90529e0918031808c",
+    "archive_bytes": 588678,
+    "source_path": "E:\\Hestdata\\st\\SPA58.h5ad",
+    "source_sha256": "d74cb550e659857f601ec4c7e86725e7f97eff3fdc625fb25088f446014dee8f"
+  },
+  "SPA37": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\SPA37\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\SPA37\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "9290bfa843003f992cf4f7bd27d7a815325e8dfc251ba667e0841ac0b1dac438",
+    "archive_bytes": 413916,
+    "source_path": "E:\\Hestdata\\st\\SPA37.h5ad",
+    "source_sha256": "7fe6e43b93d513a31f45c88bd6aba61425901dbf6eba4541f7ff312d45d9b565"
+  },
+  "NCBI383": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI383\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI383\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "9f35cbea61396efa820db3058a4639fc7c470006f9e7eaff007d17d8ffb8e192",
+    "archive_bytes": 1038068,
+    "source_path": "E:\\Hestdata\\st\\NCBI383.h5ad",
+    "source_sha256": "eae056d0d9ae098b6e1d3bbf05d6b6181104a706449b744fcc9ba52a0fa338bc"
+  },
+  "MEND24": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\MEND24\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\MEND24\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "cb0a2d29f89a584aa2a14361b993e628aa9e41248c02edd294ae2f86a74664cb",
+    "archive_bytes": 409787,
+    "source_path": "E:\\Hestdata\\st\\MEND24.h5ad",
+    "source_sha256": "82371e92def732905b40a5e19e9cacf3883367c1e413c558cac324354efc2068"
+  },
+  "SPA8": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\SPA8\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\SPA8\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "52203d74137f0977e3f1b81ed821843d7de67532b036d245ffb9adfe3d9d1281",
+    "archive_bytes": 582096,
+    "source_path": "E:\\Hestdata\\st\\SPA8.h5ad",
+    "source_sha256": "782befbf76200d70efbf9a63791824e087bcdb21b6a71022f8d8a55294ad6d6c"
+  },
+  "NCBI761": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI761\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI761\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "816ea43d113c4bd1513c4eb67c3405fcc24398a4c91182ae0f4d2c3194d6f807",
+    "archive_bytes": 408153,
+    "source_path": "E:\\Hestdata\\st\\NCBI761.h5ad",
+    "source_sha256": "319404c208c6d8f456266d806ffb5ff6d9fc04da964e4e060a714d906d8f445d"
+  },
+  "NCBI289": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI289\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI289\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "6ae1a8808a0412d4ef0c0d22d2ba731f4d3914f1be77fee4b93e8cb4a21f5d8f",
+    "archive_bytes": 155887,
+    "source_path": "E:\\Hestdata\\st\\NCBI289.h5ad",
+    "source_sha256": "b7d8b06cd900498f75a05b2acb527e17b2506167590e3d065d4132852e5957dc"
+  },
+  "SPA149": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\SPA149\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\SPA149\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "ef345b3deb15696d50c66086e32437844df3141e7f78e87bb6ff1a2f170a5048",
+    "archive_bytes": 644963,
+    "source_path": "E:\\Hestdata\\st\\SPA149.h5ad",
+    "source_sha256": "cb8f64a201011a1eb3fcbdc35cc91428972adbec6d425770d527e4b56df450d8"
+  },
+  "NCBI410": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI410\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI410\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "2d4e0da1d527b691fb448475e78e6acb7db12db8bad2bcf3e92557dd6ab709c4",
+    "archive_bytes": 433557,
+    "source_path": "E:\\Hestdata\\st\\NCBI410.h5ad",
+    "source_sha256": "1f65fdbc5875514cf91e7e14bddc5b5e96c555756e1993902fee81fc871024c0"
+  },
+  "MEND23": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\MEND23\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\MEND23\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "633dc60c12c839091033113e6fcc13bfa3d877b477e34bad69694058774f69a9",
+    "archive_bytes": 306966,
+    "source_path": "E:\\Hestdata\\st\\MEND23.h5ad",
+    "source_sha256": "dde89358570ca2a66419580968de94833ed4af2268d830130f3a5e3bc93a0d53"
+  },
+  "NCBI299": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI299\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI299\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "1949155eb94de14607797360b83412f98f49e0b64bea2b38e945ec554ab728e8",
+    "archive_bytes": 180445,
+    "source_path": "E:\\Hestdata\\st\\NCBI299.h5ad",
+    "source_sha256": "1a5d6c173dfcf6a5f74b9a8d6c462f519ad46a5a8810c000c2f122f3ac0bc74f"
+  },
+  "NCBI770": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI770\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI770\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "9aa34149f37267c70c5e75991774f5c83ed93db2fbedc0491d6fdfc0b4cb698b",
+    "archive_bytes": 1148346,
+    "source_path": "E:\\Hestdata\\st\\NCBI770.h5ad",
+    "source_sha256": "e92643106972dc8fc88feb2724c1e4c2dd5c590a1df7b00722bea31b57cf0d83"
+  },
+  "NCBI337": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI337\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI337\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "212553c7193ed4721e81ecc9e763a66674fe7988fa442969b90b0529933983ba",
+    "archive_bytes": 492193,
+    "source_path": "E:\\Hestdata\\st\\NCBI337.h5ad",
+    "source_sha256": "2d750e8b234c974032605b339ba07ba02185b4c99b374486c4674196ddaf886b"
+  },
+  "SPA33": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\SPA33\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\SPA33\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "a8992374e7621cac814de21a4bc70fa17368256f94b0d1f68ba440ae57f3e626",
+    "archive_bytes": 430734,
+    "source_path": "E:\\Hestdata\\st\\SPA33.h5ad",
+    "source_sha256": "a48faaf4fc56f9d088135736f2e075aae410757cb590dda99b52122185a05799"
+  },
+  "NCBI176": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI176\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\NCBI176\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "c2ec2e9c436ce86ce53d966566c3dd3683f6347ea6c32f0810e7c087c9dfb8df",
+    "archive_bytes": 240674,
+    "source_path": "E:\\Hestdata\\st\\NCBI176.h5ad",
+    "source_sha256": "6f44c00de1ae813d4ef5c4f504f1d22f536bc0326c707024eda341260e79cade"
+  },
+  "SPA96": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\SPA96\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\SPA96\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "6baa22d98694a861a76f415c63b4af2ea5d6e531f88d99e14911f66efff551f1",
+    "archive_bytes": 492857,
+    "source_path": "E:\\Hestdata\\st\\SPA96.h5ad",
+    "source_sha256": "61df21abf49db1f320588e2d6b55532fc106a69ff24fe7a2cbd57e48d71c3c40"
+  },
+  "SPA14": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\SPA14\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\SPA14\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "31225ef5aea22fbb82334a3ae4a0a58f0deb9f9e15fca4d746c366a84feefae3",
+    "archive_bytes": 673169,
+    "source_path": "E:\\Hestdata\\st\\SPA14.h5ad",
+    "source_sha256": "77e5069d5cc678d2b0fd8b4721537aefa4882973f91a4fbba0b6960831d656c2"
+  },
+  "NCBI491": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\NCBI491\\VALUE_K32\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\NCBI491\\VALUE_K32\\archive.cnt",
+    "archive_sha256": "ba0f0a7a9ea415fccbd01901ed34036bc2f340302bed4fc2a8a70401bb2effec",
+    "archive_bytes": 1395642,
+    "source_path": "E:\\Hestdata\\st\\NCBI491.h5ad",
+    "source_sha256": "ec7332a8d752b04c608ff750fe543affd6bb4fe9dca963f218347e3782cafba8"
+  },
+  "MEND124": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\MEND124\\VALUE_K32\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\MEND124\\VALUE_K32\\archive.cnt",
+    "archive_sha256": "728e67c4c5e931563449ad0e5e0ca5676718f9b8eb26df360a0a658aab89a7ba",
+    "archive_bytes": 5577323,
+    "source_path": "E:\\Hestdata\\st\\MEND124.h5ad",
+    "source_sha256": "d288ce60d2ff3c78ceb48ab4be62f66b6fd9c14878418b67bbdc7fd396effd3c"
+  },
+  "NCBI709": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI709\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI709\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "faaab77e8fd193b002d979c9e73c911964a4402181c4a7b5bfb973356a0704d6",
+    "archive_bytes": 1521080,
+    "source_path": "E:\\Hestdata\\st\\NCBI709.h5ad",
+    "source_sha256": "6a2cecdb3f62a8e9b053ef1b32ab740590a0d48998718ab0d09b3d0221401a76"
+  },
+  "NCBI844": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI844\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI844\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "a3c63d3addcb62144f99ca639ce4c493c745077d2083648a222480b179b5ccb1",
+    "archive_bytes": 6225873,
+    "source_path": "E:\\Hestdata\\st\\NCBI844.h5ad",
+    "source_sha256": "dd1c481338754003b3264eefd672f37e8db673d327ecb6031eb26a258cc550f6"
+  },
+  "NCBI435": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI435\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI435\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "a2a90124e1ac41e250a0a5fbcf616de7a4773d3685efedab5fea994d1314adce",
+    "archive_bytes": 1448513,
+    "source_path": "E:\\Hestdata\\st\\NCBI435.h5ad",
+    "source_sha256": "b2571dd0eca8b8f581fa94fa52e05f62b761647eb6fe5a9364f7fa09e005c41c"
+  },
+  "NCBI812": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI812\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI812\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "f80c9c92e87ec7897df03441396f5bc5e35c25f4b1f107fb8f4339091e9e594e",
+    "archive_bytes": 3544421,
+    "source_path": "E:\\Hestdata\\st\\NCBI812.h5ad",
+    "source_sha256": "2b3bb8e27feac84fb7001423278c5d8aaffde95ef1376bc566bcdb7b682ee393"
+  },
+  "NCBI629": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI629\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI629\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "6ba76c76b00e52fd62ad6c5c24e96bcb012278d2a6a48e6141dfccbeb4da4be7",
+    "archive_bytes": 6729743,
+    "source_path": "E:\\Hestdata\\st\\NCBI629.h5ad",
+    "source_sha256": "bb692ffc9f583ce689e6276a7ee2b879ff8263c146aa913718cf2ddced3af60e"
+  },
+  "NCBI796": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI796\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI796\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "d4f19920202697987ab03a05c3e589c41799c8217a5f1dec2ea05f9be61e8142",
+    "archive_bytes": 1119786,
+    "source_path": "E:\\Hestdata\\st\\NCBI796.h5ad",
+    "source_sha256": "255aae275b385a06e672d66db2f838d811cbffe5f83ebe708914084bfb2e7717"
+  },
+  "NCBI452": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI452\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI452\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "f335a79274ea5346e64ea1cc6f08663c9ce11776de52c9a8908150ff6bfb4df8",
+    "archive_bytes": 1416748,
+    "source_path": "E:\\Hestdata\\st\\NCBI452.h5ad",
+    "source_sha256": "37c7c1583cafba7d50fcb901e2293a4cdd89c162d1f2ad13dd5fca921e314cb3"
+  },
+  "MEND140": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\MEND140\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\MEND140\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "cc879ceea2269ffbdc2b4a4c88b8524de42a3e65a6a76a8d5284314221fcdaba",
+    "archive_bytes": 3288096,
+    "source_path": "E:\\Hestdata\\st\\MEND140.h5ad",
+    "source_sha256": "25b80ca3e83454ad7f6cb5f791aaf5e2f9d07a09506698ce82274e108e799d8e"
+  },
+  "TENX50": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX50\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX50\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "c3f8a11dca010b49e39c190499a94c5a6730012fd3776c42e925fa5497b0c4e0",
+    "archive_bytes": 8295214,
+    "source_path": "E:\\Hestdata\\st\\TENX50.h5ad",
+    "source_sha256": "bdf434ca2612f6147fac400808dc51f6adc5e8f125f113fe8bdc6e85efe39206"
+  },
+  "ZEN65": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\ZEN65\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_K8_CANDIDATE_SCAN_004\\main\\ZEN65\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "747743cea9c9a18877c4a125a9ba965741f409d0e6e11d4878de62d1036f2766",
+    "archive_bytes": 564973,
+    "source_path": "E:\\Hestdata\\st\\ZEN65.h5ad",
+    "source_sha256": "d9f44f6c058a9a3bc4810c2caadfe2dda16c84bf6a9f157b6f93c90402d72ac5"
+  },
+  "MISC14": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\MISC14\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\MISC14\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "01c6f913a8457083e0e85ebc1a3078caef8a3fb7e504b1a99a7023a02564c72a",
+    "archive_bytes": 2230696,
+    "source_path": "E:\\Hestdata\\st\\MISC14.h5ad",
+    "source_sha256": "e09884666b90518a6322e16c45a309438f3c2f3718d58cdf81777c97b5b87da0"
+  },
+  "NCBI729": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI729\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI729\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "630fce7f9f4b89efdbe6d9e484d407fc696624010d6ffaf02beabaa0c9207a36",
+    "archive_bytes": 6018776,
+    "source_path": "E:\\Hestdata\\st\\NCBI729.h5ad",
+    "source_sha256": "42d0ab57689eda1311302440338484ed0eeb4a829cc32ca3c09218ad1649c0c3"
+  },
+  "ZEN47": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\ZEN47\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\ZEN47\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "bc83a0294f960fbf678c2dcc6bc9f133562fd4d4c2d05da31a03a69f7f61c903",
+    "archive_bytes": 4987152,
+    "source_path": "E:\\Hestdata\\st\\ZEN47.h5ad",
+    "source_sha256": "0af8141beead7097bb9b37035dcf06fdcd312d76ecd22a6f841e9c3c843df710"
+  },
+  "MEND84": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\MEND84\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\MEND84\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "434db4211a821af0dfe695a1b97294963fb3f72b5d0281f2954781581bf564bf",
+    "archive_bytes": 909893,
+    "source_path": "E:\\Hestdata\\st\\MEND84.h5ad",
+    "source_sha256": "c39ebc4540d9fe9214c0ce6e73aac7d417036213bf165f510edb3591bad644bf"
+  },
+  "NCBI542": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI542\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\NCBI542\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "53373d39b9aa48b9f0e17c0d6be105f0874b230edd4cf0bae6a0d1e37ccf848f",
+    "archive_bytes": 2802995,
+    "source_path": "E:\\Hestdata\\st\\NCBI542.h5ad",
+    "source_sha256": "f81337f063deadbb294d73632c915f96f24d8b264a98a8b960934cf3fea23257"
+  },
+  "INT17": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\INT17\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\INT17\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "56814bb99d01b4473237038833b794ddcb08b827cc66d8b78add6174553e968d",
+    "archive_bytes": 4966977,
+    "source_path": "E:\\Hestdata\\st\\INT17.h5ad",
+    "source_sha256": "4b84c7e021f517bf24c32f24ee6db2e2fdcca5c31823183911d421b883fab1e0"
+  },
+  "TENX118": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\TENX118\\VALUE_K32\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\TENX118\\VALUE_K32\\archive.cnt",
+    "archive_sha256": "f92d01c2d660324bc0edb61b9ffab64902817a6c7340fc340b2fdf3aafcf05d4",
+    "archive_bytes": 459759,
+    "source_path": "E:\\Hestdata\\st\\TENX118.h5ad",
+    "source_sha256": "36b7026375a66b2643471d8a91437a9be862a46b909b9a25db060c9014f34697"
+  },
+  "TENX96": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\TENX96\\VALUE_K32\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\TENX96\\VALUE_K32\\archive.cnt",
+    "archive_sha256": "b8c2eec1ffda50739d4d38115b67e7e7f29f222cbf4ebafcca604b6008630da7",
+    "archive_bytes": 1329804,
+    "source_path": "E:\\Hestdata\\st\\TENX96.h5ad",
+    "source_sha256": "42851a9332b875dcad2bda50de61a56ff8460c9379b8808736ae500fec50a544"
+  },
+  "TENX135": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX135\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX135\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "f762043407ed1dbb6939c21fe01b4313236340d4c0b46ec6d5c2b383cde49e0b",
+    "archive_bytes": 785995,
+    "source_path": "E:\\Hestdata\\st\\TENX135.h5ad",
+    "source_sha256": "8bca49c20b3d4c4a8991f8777b30860ea2578e358275ece93225a944ea303607"
+  },
+  "TENX110": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX110\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX110\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "7977cc546a2456345dc5eeda7147522b6d3f61266e3d60176383e4b7d9a01f84",
+    "archive_bytes": 4031232,
+    "source_path": "E:\\Hestdata\\st\\TENX110.h5ad",
+    "source_sha256": "1d6fafcd9b34787e3186308c8ee2ffa0cbb487a6c5b7b150a019f2c274df3300"
+  },
+  "TENX124": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX124\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX124\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "1a6e7ce4d5dd87d85f8ae48c4f0ed5a689d9c896a20318899035644defb8fb76",
+    "archive_bytes": 1582610,
+    "source_path": "E:\\Hestdata\\st\\TENX124.h5ad",
+    "source_sha256": "9bb86d000e22b1537392271dd23f95bc17dc1e780ba6a9d2b545c9a5869dd907"
+  },
+  "TENX127": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX127\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX127\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "cf0218daa7dbe3ab454528c30a77cdb6a4c2dfb94f415b06f533749214fa0815",
+    "archive_bytes": 780666,
+    "source_path": "E:\\Hestdata\\st\\TENX127.h5ad",
+    "source_sha256": "cb61edaaa3355bb0dc1ab90954f7575170e9e60077947a26b1cf58db5de30d3f"
+  },
+  "TENX126": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX126\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX126\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "495615e4900ce88751a2f53949c0aaa4c9add256d5135874d895b58fb092bff8",
+    "archive_bytes": 353526,
+    "source_path": "E:\\Hestdata\\st\\TENX126.h5ad",
+    "source_sha256": "cd3ee486f5dfe2eb20b6439632eba1f1f0000cf2b34d7a74ae59ba57780cdd59"
+  },
+  "TENX136": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX136\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX136\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "ed55c14fd7d8fbbbbf5807c4311b024466a390740ad466e07dd6ed28fcbf74bb",
+    "archive_bytes": 1120828,
+    "source_path": "E:\\Hestdata\\st\\TENX136.h5ad",
+    "source_sha256": "593dd98a0d576d2e25f68198ffb9d0c3bf4b39f6214be2a23492607e83eb346f"
+  },
+  "TENX117": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX117\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX117\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "49d46b47317f7ce0bb0b64e2f6b0fc26e025a6970a1ab49bb0fe775f13b30af3",
+    "archive_bytes": 299164,
+    "source_path": "E:\\Hestdata\\st\\TENX117.h5ad",
+    "source_sha256": "8b70c48d556be8358686f83ee7c5f65d9bba8fd3c544a64686d1da520073fff8"
+  },
+  "TENX137": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX137\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX137\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "2f2ddaa3cee1dc0883c7cd8b7a87fb3d48a8e44184abfc5a6ce3067aabaf157e",
+    "archive_bytes": 901892,
+    "source_path": "E:\\Hestdata\\st\\TENX137.h5ad",
+    "source_sha256": "d47ac47cb80375f3efad771b69d3b500b41e0e77c9dcb5f3f71e8426a90c332e"
+  },
+  "TENX111": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX111\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX111\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "c102cc143345bb58b3303b810643fdc16e6cfa671f842b2cda34b32ffac379ed",
+    "archive_bytes": 1368462,
+    "source_path": "E:\\Hestdata\\st\\TENX111.h5ad",
+    "source_sha256": "7d29a58122b6580d11aa116ebeb16894a089b6df24216a70b98df73b3176fd25"
+  },
+  "TENX131": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\TENX131\\VALUE_K32\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\TENX131\\VALUE_K32\\archive.cnt",
+    "archive_sha256": "8fd900b391c07703e948026e917672b63dd3f828852966937d399194f7fa353f",
+    "archive_bytes": 868068,
+    "source_path": "E:\\Hestdata\\st\\TENX131.h5ad",
+    "source_sha256": "52676af58ccc9b9703d82f2db34893feca5dc50d5329d37b02a3e27206d3b222"
+  },
+  "TENX129": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\TENX129\\VALUE_K32\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_GROUP_K_ABLATION_001\\main_v2\\TENX129\\VALUE_K32\\archive.cnt",
+    "archive_sha256": "ef270164205dc8ed3812d97e52a0df96c23d12063ba11b308e76247fdd9488e2",
+    "archive_bytes": 1133598,
+    "source_path": "E:\\Hestdata\\st\\TENX129.h5ad",
+    "source_sha256": "a36bc0f99ee31ebc6541a0e46d17cd29327b2e061e61ec51af73766dd3d39f8b"
+  },
+  "TENX128": {
+    "record_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX128\\VALUE_K32\\attempt01\\RESULT.json",
+    "archive_path": "E:\\count\u538b\u7f29\\baseline\\evidence\\VALUE_BEST_OF_9_50_005\\main\\TENX128\\VALUE_K32\\attempt01\\archive.cnt",
+    "archive_sha256": "507a59f6108e9f4aa58779c28b3517e24518644d31edf7aecb51c1635ccdce61",
+    "archive_bytes": 1909836,
+    "source_path": "E:\\Hestdata\\st\\TENX128.h5ad",
+    "source_sha256": "ef91c140a35bba1f899e4ae957f65771e2d0cf7e06ea50c2863d5f2d09115858"
+  }
+}

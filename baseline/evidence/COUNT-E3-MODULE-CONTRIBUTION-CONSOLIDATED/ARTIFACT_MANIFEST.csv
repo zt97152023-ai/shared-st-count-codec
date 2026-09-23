@@ -1,0 +1,24 @@
+artifact_path,artifact_type,source,status,notes
+README.md,package_document,created_in_consolidated_package,complete,single-entry overview
+ARCHIVE_LINKS.md,provenance_document,created_in_consolidated_package,complete,documents junction targets and preservation policy
+pilot_v1/RESULT.md,result_summary,COUNT-E3-MODULE-CONTRIBUTION-001,complete,three-slice direct pilot
+pilot_v1/E3_DIRECT_ABLATION.csv,ablation_table,COUNT-E3-MODULE-CONTRIBUTION-001,complete,15 exact pilot rows
+pilot_v1/E3_COMPONENT_LEDGER.csv,component_ledger,COUNT-E3-MODULE-CONTRIBUTION-001,complete,pilot component costs
+pilot_v1/E3_PILOT_SUMMARY.json,summary_json,COUNT-E3-MODULE-CONTRIBUTION-001,complete,pilot pooled summary
+pilot_v1/SCOPE_AUDIT.md,scope_audit,COUNT-E3-MODULE-CONTRIBUTION-001,complete,scope and limitation audit
+expansion_50/RESULT.md,result_summary,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,50-slice direct expansion
+expansion_50/E3_DIRECT_ABLATION_50.csv,ablation_table,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,250 exact rows
+expansion_50/E3_COMPONENT_LEDGER_50.csv,component_ledger,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,50-slice module ledger
+expansion_50/E3_PAIRED_DELTAS_50.csv,paired_deltas,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,paired per-slice arm deltas
+expansion_50/E3_50_SUMMARY.json,summary_json,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,pooled and per-slice summary
+expansion_50/INDEPENDENT_AUDIT.json,audit,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,independent audit of generated evidence
+expansion_50/PANEL.json,panel_definition,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,50-slice panel and arm definitions
+expansion_50/RUN_STATUS.json,run_status,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,run completion status
+expansion_50/VERIFY_STATUS.json,verification,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,250 exact rows and zero failures
+expansion_50/GATE_CHECK_SCHEMA_NOTE.md,gate_note,COUNT-E3-MODULE-CONTRIBUTION-002-50,accepted,gate-check schema note
+pilot_v1/archives,directory_junction,COUNT-E3-MODULE-CONTRIBUTION-001,preserved,large pilot payloads without duplication
+expansion_50/archives,directory_junction,COUNT-E3-MODULE-CONTRIBUTION-002-50,preserved,250 large payloads without duplication
+source_families/,source_family_tables,COUNT-E3-MODULE-CONTRIBUTION-001,complete,source-family and context-control tables
+reproduction_50/,reproduction_outputs,COUNT-E3-MODULE-CONTRIBUTION-002-50,complete,fresh-process representative checks
+scripts/,reproduction_scripts,COUNT-E3-MODULE-CONTRIBUTION-001 and 002-50,complete,generation verification and audit scripts
+contracts/,task_contracts,baseline/.ai/tasks,accepted,accepted task contracts

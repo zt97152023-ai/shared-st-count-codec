@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "purpose": "Fresh-process re-encode/decode/verify reproducibility checks",
+  "cases": [
+    {
+      "case": "context/NCBI180/S1V0",
+      "archive_sha256": "076ffd706ffbea0b300658987896fd7b00c353977e6cb2100f9eb727383e405b",
+      "main_archive_sha256": "076ffd706ffbea0b300658987896fd7b00c353977e6cb2100f9eb727383e405b",
+      "same_archive_sha256": true,
+      "archive_bytes": 256677,
+      "verify_all": true
+    },
+    {
+      "case": "bucket/NCBI180/B4",
+      "archive_sha256": "60b1db549eacdd0d5d8e889d110853f67b350dd8883796843793f98809b50d4b",
+      "main_archive_sha256": "60b1db549eacdd0d5d8e889d110853f67b350dd8883796843793f98809b50d4b",
+      "same_archive_sha256": true,
+      "archive_bytes": 257336,
+      "verify_all": true
+    },
+    {
+      "case": "order/NCBI180/CANONICAL_SPATIAL",
+      "archive_sha256": "ad5ac1153084a6e30ed848292ced1f189ea3f0a4afd672744d350e48b7d65f3b",
+      "main_archive_sha256": "ad5ac1153084a6e30ed848292ced1f189ea3f0a4afd672744d350e48b7d65f3b",
+      "same_archive_sha256": true,
+      "archive_bytes": 258862,
+      "verify_all": true
+    }
+  ]
+}

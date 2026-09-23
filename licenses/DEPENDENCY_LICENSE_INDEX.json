@@ -1,0 +1,80 @@
+[
+  {
+    "dependency": "numpy",
+    "version": "1.26.4",
+    "file": "licenses/dependencies/numpy/numpy-1.26.4.dist-info/LICENSE.txt",
+    "sha256": "e261222a74adff28f88160dac1c5cb302d93b67e9ca989eb83bf311e11a9970a"
+  },
+  {
+    "dependency": "numpy",
+    "version": "1.26.4",
+    "file": "licenses/dependencies/numpy/numpy/core/include/numpy/random/LICENSE.txt",
+    "sha256": "d544761558b510866c21f7e8a2d5716fca76e0b98117e3b6b86314db7244d150"
+  },
+  {
+    "dependency": "numpy",
+    "version": "1.26.4",
+    "file": "licenses/dependencies/numpy/numpy/ma/LICENSE",
+    "sha256": "d78dbb208b80d92b4d333e41a4baae50d12444f46e53199fa7726a91de6e2da7"
+  },
+  {
+    "dependency": "numpy",
+    "version": "1.26.4",
+    "file": "licenses/dependencies/numpy/numpy/random/LICENSE.md",
+    "sha256": "b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a"
+  },
+  {
+    "dependency": "scipy",
+    "version": "1.14.1",
+    "file": "licenses/dependencies/scipy/scipy-1.14.1.dist-info/LICENSE.txt",
+    "sha256": "52590289e7b452fbfd949dacf50e2813e3612abb7c116e5c7a0c27a496b9c5ef"
+  },
+  {
+    "dependency": "scipy",
+    "version": "1.14.1",
+    "file": "licenses/dependencies/scipy/scipy/_lib/_uarray/LICENSE",
+    "sha256": "e4c4acc31e8287066d7c995d26e3ef902ca1977ee187b260b11c278366503811"
+  },
+  {
+    "dependency": "scipy",
+    "version": "1.14.1",
+    "file": "licenses/dependencies/scipy/scipy/fft/_pocketfft/LICENSE.md",
+    "sha256": "c04661685cff9d8035fe1c4c3ab357e7f7633cafc06a73e9d90c3c5fede8a86a"
+  },
+  {
+    "dependency": "scipy",
+    "version": "1.14.1",
+    "file": "licenses/dependencies/scipy/scipy/sparse/linalg/_eigen/arpack/COPYING",
+    "sha256": "fcb3c6c7de1460cf7d0863c3c5996e518eb8015a2eced36911f3da178440b3df"
+  },
+  {
+    "dependency": "h5py",
+    "version": "3.9.0",
+    "file": "licenses/dependencies/h5py/h5py-3.9.0.dist-info/LICENSE",
+    "sha256": "b773bc7cf038637a7fd8087648cc28e05f0f24d53770d1827147a40a1d268ab5"
+  },
+  {
+    "dependency": "numba",
+    "version": "0.66.0",
+    "file": "licenses/dependencies/numba/numba-0.66.0.dist-info/LICENSE",
+    "sha256": "5f7ae5e48a0a107a9d86a9ef6c18dcce68e55959855d39380050deaea366631c"
+  },
+  {
+    "dependency": "numba",
+    "version": "0.66.0",
+    "file": "licenses/dependencies/numba/numba-0.66.0.dist-info/LICENSES.third-party",
+    "sha256": "e5ea3f50f1c1aa518a86903b85dfd40c4765589998eb683b9382d111d91bb9ee"
+  },
+  {
+    "dependency": "llvmlite",
+    "version": "0.48.0",
+    "file": "licenses/dependencies/llvmlite/llvmlite-0.48.0.dist-info/LICENSE",
+    "sha256": "7d6aa93e52a7ae9a995ff6a40c0ea5628311cdf1bd8dcd29c8ce9181f4af3a81"
+  },
+  {
+    "dependency": "llvmlite",
+    "version": "0.48.0",
+    "file": "licenses/dependencies/llvmlite/llvmlite-0.48.0.dist-info/LICENSE.thirdparty",
+    "sha256": "7b564c7af9ab446d245ba66adc8cda2f61d1d162f842899557499e80b715993a"
+  }
+]

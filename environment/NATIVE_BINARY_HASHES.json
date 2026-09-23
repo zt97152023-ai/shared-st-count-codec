@@ -1,0 +1,1064 @@
+[
+  {
+    "package": "numpy",
+    "file": "numpy.libs/libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll",
+    "bytes": 38168576,
+    "sha256": "57b87772bf676b5c2d718c79dddc9f039d79ec3319fee1398cc305adff7b69e5"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/core/_multiarray_tests.cp311-win_amd64.pyd",
+    "bytes": 65024,
+    "sha256": "c31d1abe635e9006caa9fedda260dd4e4fdba31fbdcc8ac0969ab0396a0c6c4e"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/core/_multiarray_umath.cp311-win_amd64.pyd",
+    "bytes": 2836480,
+    "sha256": "c76d812fa5131fe21c8bf9ffbd910f27df80856f910fa61698f23f60cfd9d13e"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/core/_operand_flag_tests.cp311-win_amd64.pyd",
+    "bytes": 11264,
+    "sha256": "3c9344c097e9894c429f649356f7b5806346e1dc320a33f918b12c0e2dde9d44"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/core/_rational_tests.cp311-win_amd64.pyd",
+    "bytes": 40448,
+    "sha256": "e6a85ed6a07ac0875ec0c47a526901bef99b08ae8f523e620063ad1e73aa027e"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/core/_simd.cp311-win_amd64.pyd",
+    "bytes": 2237952,
+    "sha256": "0eea703b53158021bdbf9feba1c712c58484abd545b5db37cf398cca5e3a0e58"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/core/_struct_ufunc_tests.cp311-win_amd64.pyd",
+    "bytes": 13824,
+    "sha256": "59b4b12116102ee06ca72023e51210f43116cc51a6909c2f1402f97cba5a451a"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/core/_umath_tests.cp311-win_amd64.pyd",
+    "bytes": 32768,
+    "sha256": "0f22ff6f1972c03fc83c1365202b577dee455be5d893a027179c767ab346a666"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/fft/_pocketfft_internal.cp311-win_amd64.pyd",
+    "bytes": 110080,
+    "sha256": "207c894d4a97d5eac328a87936b1c5a160cf1163d8b3f59b3c43792d9b5224a4"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/linalg/_umath_linalg.cp311-win_amd64.pyd",
+    "bytes": 106496,
+    "sha256": "05922a2be823ec2e4d2378a73b05bb37f2816aeea86b613a9c80e25764ac8736"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/linalg/lapack_lite.cp311-win_amd64.pyd",
+    "bytes": 17920,
+    "sha256": "896b743ebc0f407320ca58877f21275739a74a3a15fc1568bfbe460ebcab08a4"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/_bounded_integers.cp311-win_amd64.pyd",
+    "bytes": 257024,
+    "sha256": "05d5fe8a5a79b1d5836e58307afdd0c8570a7c4e1ed0b6a6294f3978db0dc6c4"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/_common.cp311-win_amd64.pyd",
+    "bytes": 175104,
+    "sha256": "f41809c03d13487fa8940cc30f5ff2125143ebf071bca10e081d026028c435fd"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/_generator.cp311-win_amd64.pyd",
+    "bytes": 695808,
+    "sha256": "003c7af2699a370efc1a90bf42ac3b449c27ff9c24b11136dd245bf50ed2240f"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/_mt19937.cp311-win_amd64.pyd",
+    "bytes": 75264,
+    "sha256": "36bbd3767a4efc1e5ddd4f96b7b705fc664e95a629abbe7e3b5e5951cdead3f0"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/_pcg64.cp311-win_amd64.pyd",
+    "bytes": 83456,
+    "sha256": "e09a53b33a1908aa4eb58a07166d5beaffe2072ceded2f80df59831adf7fb8df"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/_philox.cp311-win_amd64.pyd",
+    "bytes": 70144,
+    "sha256": "9a777f3f9a59f3d88de84dc3e499138335c3a6cf3bee1b875d9626d6cdf6e098"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/_sfc64.cp311-win_amd64.pyd",
+    "bytes": 50688,
+    "sha256": "180453afefeff645f9fdb2de54a3cb72d8becb87936ea82e2d7a56592aca3068"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/bit_generator.cp311-win_amd64.pyd",
+    "bytes": 163840,
+    "sha256": "9ad713f6a93c26bb733a90f877b50d51d7f22eef161aa58e40735a5cec149501"
+  },
+  {
+    "package": "numpy",
+    "file": "numpy/random/mtrand.cp311-win_amd64.pyd",
+    "bytes": 596992,
+    "sha256": "7dda3c60d25791c53c2eca99eab696347b6a8ee20f3f8307d7efbf086cbbc5bf"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy.libs/libscipy_openblas-5b1ec8b915dfb81d11cebc0788069d2d.dll",
+    "bytes": 38190043,
+    "sha256": "9964f8937b7e0307c7384073568731bc977816768aef9348906e8cce596254d5"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/_lib/_ccallback_c.cp311-win_amd64.pyd",
+    "bytes": 86016,
+    "sha256": "9d058e5aebf3d3a1a9be6029875c1cd0624ff82cdba2d573baf58cf2d8cdddb9"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/_lib/_fpumode.cp311-win_amd64.pyd",
+    "bytes": 15872,
+    "sha256": "becd0c7a4b7b7a5c65d092477c030ae37577688567b75087c59120e5f3a55386"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/_lib/_test_ccallback.cp311-win_amd64.pyd",
+    "bytes": 52224,
+    "sha256": "d6f77ba4e5f828fa5de82c46112825910cd964ea144c9c470f214c76eb84f3e8"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/_lib/_test_deprecation_call.cp311-win_amd64.pyd",
+    "bytes": 34816,
+    "sha256": "ebad5d7290cd5e49d51ad89ad5c11dc2bf2500b97b4adcfef6c9e10c30929b60"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/_lib/_test_deprecation_def.cp311-win_amd64.pyd",
+    "bytes": 27136,
+    "sha256": "52485107d33e46365f0a44443690f3f7cf32974aa80b0d450523a6fe9083bf26"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/_lib/_uarray/_uarray.cp311-win_amd64.pyd",
+    "bytes": 233472,
+    "sha256": "7dbd6fd9933f861c3ba5c9c568450b9004725f137bf8ce39b67cb14e161cd394"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/_lib/messagestream.cp311-win_amd64.pyd",
+    "bytes": 66048,
+    "sha256": "192f38ae57c7b74892b1437de363c34603cb9662512f052d0553ef7cd406bae0"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/cluster/_hierarchy.cp311-win_amd64.pyd",
+    "bytes": 380928,
+    "sha256": "44761b989a3ef2dab29335758e63f5e4864cc80bd5eac7176f1900b37d579828"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/cluster/_optimal_leaf_ordering.cp311-win_amd64.pyd",
+    "bytes": 327168,
+    "sha256": "8b4e80ab0e2d69667bc2e77234005960ef2e05fc87751e1501d74bdd46d6aed5"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/cluster/_vq.cp311-win_amd64.pyd",
+    "bytes": 110080,
+    "sha256": "2c55ed360a7c37a1b6b278e5b74a87db7c9563e49f0bc95b3cc4b80a2f5d9f02"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/fft/_pocketfft/pypocketfft.cp311-win_amd64.pyd",
+    "bytes": 1080832,
+    "sha256": "93d835e44fe80ef6f2efdd1bc3d9d189362236c0bd2c74b53c5547f7216cb628"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/fftpack/convolve.cp311-win_amd64.pyd",
+    "bytes": 250880,
+    "sha256": "cbcedc15871c9663c08ebb95191d2134de25678176cb06c02ca8f6e4a1bbd31a"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/integrate/_dop.cp311-win_amd64.pyd",
+    "bytes": 433664,
+    "sha256": "3c996f19a5025773cc808cdcd2f73870929a50cf95306a8a7c3f47ee49fca3ed"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/integrate/_lsoda.cp311-win_amd64.pyd",
+    "bytes": 553984,
+    "sha256": "88efbf00948a450feb848d6ab881690b27511d3d209086c259296a78b2bba54e"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/integrate/_odepack.cp311-win_amd64.pyd",
+    "bytes": 534528,
+    "sha256": "4fa4168880af30135e4ef536d6c88c568810ef84c4596bf3494de5f75f0f5c87"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/integrate/_quadpack.cp311-win_amd64.pyd",
+    "bytes": 571904,
+    "sha256": "053cda586208ce788d339e89a13887f1834bf4453b745ee109f508d72b8c6b10"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/integrate/_test_multivariate.cp311-win_amd64.pyd",
+    "bytes": 17920,
+    "sha256": "fcabbc5df67b7c4821d46154e7e83ff07af629d50598effa5a69171c7951d463"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/integrate/_test_odeint_banded.cp311-win_amd64.pyd",
+    "bytes": 556032,
+    "sha256": "0271bb7f1308b44f5617dbd90598600519f4d7f1607907e231604fb9c979b9e5"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/integrate/_vode.cp311-win_amd64.pyd",
+    "bytes": 615936,
+    "sha256": "e2295b500f2dc114ae0f21bef64ea11f3bb29c94b05bc24b025a6f4b053fc441"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/interpolate/_bspl.cp311-win_amd64.pyd",
+    "bytes": 569344,
+    "sha256": "0bbfd975320abb0c74899f134e8646db69ab3f19700dcfb45ebeaf7ae8a8dd78"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/interpolate/_dfitpack.cp311-win_amd64.pyd",
+    "bytes": 663552,
+    "sha256": "31273a5339d4e83dfc7eb6f20eb15efcfea918fb758d61a92f69d5e90d0786a7"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/interpolate/_fitpack.cp311-win_amd64.pyd",
+    "bytes": 420864,
+    "sha256": "7e63674638aca92c2121a2daf87d5d4a440a24ad53f45ad3f11ce820ee0ae826"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/interpolate/_ppoly.cp311-win_amd64.pyd",
+    "bytes": 441856,
+    "sha256": "b5509ea864c3e552edd81c10ffaa5f94412b6bc4feba102a78630a12fffad0d2"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/interpolate/_rbfinterp_pythran.cp311-win_amd64.pyd",
+    "bytes": 1163264,
+    "sha256": "32b64548a01af8c5f0eb2bcd7dc47763a94efbbe2e147fc214c3b9fe71581483"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/interpolate/_rgi_cython.cp311-win_amd64.pyd",
+    "bytes": 273408,
+    "sha256": "1ab4d4befcbfbd4a8bb69fadbae051f37bb558fae0bbb864d3d16e7ebf8529ef"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/interpolate/interpnd.cp311-win_amd64.pyd",
+    "bytes": 411136,
+    "sha256": "b873ceeb11f08970687871d13750ff456dca900aaf63f7f10dde02b6346cfa5f"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/io/_fast_matrix_market/_fmm_core.cp311-win_amd64.pyd",
+    "bytes": 2749440,
+    "sha256": "372f065492fd4549bbae214455488dae978e18adaee2bc69e99fd0f5da38b7d3"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/io/_test_fortran.cp311-win_amd64.pyd",
+    "bytes": 381440,
+    "sha256": "5870387cffcb6aaee660e643b07d154ab46a1410c32d2bbd938a120dbef39801"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/io/matlab/_mio5_utils.cp311-win_amd64.pyd",
+    "bytes": 210432,
+    "sha256": "5aab842090a5059baa75c290e0a4048187cc014c42ac28a09837655a118c6448"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/io/matlab/_mio_utils.cp311-win_amd64.pyd",
+    "bytes": 58368,
+    "sha256": "58dd93fa8987439ccf150e8b92c10be29ac223d5728a1dd702e94d31360c4dbc"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/io/matlab/_streams.cp311-win_amd64.pyd",
+    "bytes": 113664,
+    "sha256": "5298533ede1e1851b40e7b2b7ae42052638ce795ddba86d465248e5ea75859ce"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_cythonized_array_utils.cp311-win_amd64.pyd",
+    "bytes": 579584,
+    "sha256": "1a02617946c817da19767a9e7766dd1cc609132f64b7ebfd7cba5048e085d325"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_decomp_lu_cython.cp311-win_amd64.pyd",
+    "bytes": 244224,
+    "sha256": "f1c3399eca639a336027197df66bf9c738d2fb3839b9afdba81d8b44148a7b7e"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_decomp_update.cp311-win_amd64.pyd",
+    "bytes": 336384,
+    "sha256": "e1fc7e6cd8c8cae99c7d487ce996e4d878f5d32a671876a78dc2fb8901193e5b"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_fblas.cp311-win_amd64.pyd",
+    "bytes": 711168,
+    "sha256": "fe4b284301576bccd076a610d9066fd1f19feebba6b882c6056d934fd99ca212"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_flapack.cp311-win_amd64.pyd",
+    "bytes": 1997312,
+    "sha256": "c16c038b453cafe4facd946f3cd160f5d9caba6152a54e148076453754eeff11"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_interpolative.cp311-win_amd64.pyd",
+    "bytes": 882176,
+    "sha256": "a23ec9e12f9d9957633d96a12072b8f4e1f3a139ffc4d401636965fb52225387"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_matfuncs_expm.cp311-win_amd64.pyd",
+    "bytes": 481792,
+    "sha256": "304efa273a27da950ed91969cf5b7cb41375df9e38629d0f8eeaca430ec91cba"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_matfuncs_sqrtm_triu.cp311-win_amd64.pyd",
+    "bytes": 253440,
+    "sha256": "b596af0d6a4294a01745a8d06825ceae245276cf1689a41457de904276312193"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/_solve_toeplitz.cp311-win_amd64.pyd",
+    "bytes": 273920,
+    "sha256": "045a5e4720978ea2432ec742d17cba5c89c6792acbf57db5c4cd53bfa3386b82"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/cython_blas.cp311-win_amd64.pyd",
+    "bytes": 279552,
+    "sha256": "fb8112721408be620f4a41bb1f2d9086f3a4aa972fe69e0e982d051c98350437"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/linalg/cython_lapack.cp311-win_amd64.pyd",
+    "bytes": 526848,
+    "sha256": "c4900af07cbf95b9c6b66a575f159bbd43c22d88ed487d60b8413a103830908c"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/ndimage/_ctest.cp311-win_amd64.pyd",
+    "bytes": 16896,
+    "sha256": "6bce63a905eb4f50d58004bfea1747e602e050b33159805f6d04a9008fce4ad9"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/ndimage/_cytest.cp311-win_amd64.pyd",
+    "bytes": 75264,
+    "sha256": "cbb746204b38b1f4ccba64bc2f96f3e70665e86c89aa89405fa62aea2444dd7c"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/ndimage/_nd_image.cp311-win_amd64.pyd",
+    "bytes": 176128,
+    "sha256": "86e45dbb3dcdaf03dfad8b409914f23a5276104eeee48a14a19abddd5a68de2a"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/ndimage/_ni_label.cp311-win_amd64.pyd",
+    "bytes": 411136,
+    "sha256": "195a1d93074f520a9848925684d7da644e5fb5f715be7fffc5f61fe39c58ac20"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/odr/__odrpack.cp311-win_amd64.pyd",
+    "bytes": 690688,
+    "sha256": "90b8c6d584d1a11cc280b630660c60d025ac1c3bad890354639c76d0195d6ac1"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_bglu_dense.cp311-win_amd64.pyd",
+    "bytes": 317952,
+    "sha256": "a7713fee7c6c156cbbe40bf5b60cf58aef65965c13f4d1f3f8b31ce4bfb6da9a"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_cobyla.cp311-win_amd64.pyd",
+    "bytes": 418816,
+    "sha256": "232ff447a59fa30515e30ea402dae2c9a8ece29d1477f0d52d3af982fa5eeb57"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_direct.cp311-win_amd64.pyd",
+    "bytes": 69632,
+    "sha256": "df73c7b910f0af189bc51e97e25abc4e3f8033c06ed0ff865bfb7e6fbd96ebb1"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_group_columns.cp311-win_amd64.pyd",
+    "bytes": 1032192,
+    "sha256": "1cc96307c054c25e0abb7ff43540bcc63c065d4d982cc38295947d73d423767f"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_highs/_highs_constants.cp311-win_amd64.pyd",
+    "bytes": 948224,
+    "sha256": "bf3ecfbac048991617888116dba157b8e76594e15f97f44f43bf961f3727d208"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_highs/_highs_wrapper.cp311-win_amd64.pyd",
+    "bytes": 4544000,
+    "sha256": "6ac337472edcbba5519a329e799803ebfabcf88187d593754793ef6b543c7528"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_lbfgsb.cp311-win_amd64.pyd",
+    "bytes": 562176,
+    "sha256": "e3d162a8501ddbf1eaee8bb6daadc6d311a14cfc4b8ba52094c0f1c4ec1b1686"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_lsap.cp311-win_amd64.pyd",
+    "bytes": 177664,
+    "sha256": "7e7fc74e55533be09c78d4a9a026c032b007d025eaa16fa91074650c504966a1"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_lsq/givens_elimination.cp311-win_amd64.pyd",
+    "bytes": 210432,
+    "sha256": "a83de3decf1c798889a2ad5a3f21013f83cbf075551b286900a19fe7f2f36721"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_minpack.cp311-win_amd64.pyd",
+    "bytes": 107520,
+    "sha256": "fd2a58a679a9fad15b08fadce3881dda2325a06c6443a0aa1804bee86e1b2228"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_minpack2.cp311-win_amd64.pyd",
+    "bytes": 75264,
+    "sha256": "46263a513fe87352b7a293fd42ebf3af847ccce5b9dd44dca528fc5664dee88f"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_moduleTNC.cp311-win_amd64.pyd",
+    "bytes": 158720,
+    "sha256": "c331090d5dbb4828da797a3374da99101fb0381c934ce7f7d15056f61588aaec"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_pava_pybind.cp311-win_amd64.pyd",
+    "bytes": 288768,
+    "sha256": "fd0946f77c2fc453eb6691c120dc0af9997fa2a4f5625c75009d04d574a07068"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_slsqp.cp311-win_amd64.pyd",
+    "bytes": 108032,
+    "sha256": "1265b1c7f804dfb888b834e8fd1cfe2514d8460179464a12f1fa20f7ca9fb423"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_trlib/_trlib.cp311-win_amd64.pyd",
+    "bytes": 331264,
+    "sha256": "7c4ba32951ada45a229c66febb3beb944171fba481b84a7ab982e72acaae6eb9"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/_zeros.cp311-win_amd64.pyd",
+    "bytes": 23040,
+    "sha256": "8cfe704253fdf042456b71d1a4f447d865e483b1684023c66409311db7d4c674"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/optimize/cython_optimize/_zeros.cp311-win_amd64.pyd",
+    "bytes": 92672,
+    "sha256": "e71bacdb69af9b3918c17878c8d4a8ce244253f68c9b2ccae3b902600b7ff45d"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/signal/_max_len_seq_inner.cp311-win_amd64.pyd",
+    "bytes": 1006080,
+    "sha256": "79fe1e089927cc57c0a39bce940cf53572572bcc49b6e6ab735ccac9536a9c43"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/signal/_peak_finding_utils.cp311-win_amd64.pyd",
+    "bytes": 272384,
+    "sha256": "6c2fa149b5612964e13ad62bf7b4b910b76340ae1c0f95f4b463db918b97ba03"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/signal/_sigtools.cp311-win_amd64.pyd",
+    "bytes": 117760,
+    "sha256": "c03f52255a42f549f5bf47201e97a9a805877d0e28b3003899b850651d0c5b5f"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/signal/_sosfilt.cp311-win_amd64.pyd",
+    "bytes": 280576,
+    "sha256": "ff9837eaa41e04e887e35cf0c3d8d4054fee06e0aa4e90b7b4258d5e380da135"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/signal/_spectral.cp311-win_amd64.pyd",
+    "bytes": 1008128,
+    "sha256": "f8fc7c7f42af9e78a04aa08f378775387186c342ca7dfd4c4f947faccf0ff1fa"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/signal/_spline.cp311-win_amd64.pyd",
+    "bytes": 84480,
+    "sha256": "60a76aa927fdf5a6e1fcb1ea5efbda507cae048f00cfee1e0d347b834a33649e"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/signal/_upfirdn_apply.cp311-win_amd64.pyd",
+    "bytes": 366080,
+    "sha256": "00ab6317f937fa9870c96376a399c91362fdd4c45f07b3c3014fef0ea40b1ab0"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/_csparsetools.cp311-win_amd64.pyd",
+    "bytes": 775168,
+    "sha256": "6730a7229567f1f977f977cd98912a6abcb465171ef0096c5bfc01e4ae66a76e"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/_sparsetools.cp311-win_amd64.pyd",
+    "bytes": 4189184,
+    "sha256": "ddb0287c8587f410eb1b7dbe1df39e899db05bd7679c291dc7b353e3a49e193c"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/csgraph/_flow.cp311-win_amd64.pyd",
+    "bytes": 306688,
+    "sha256": "238cb095aeb3d2f5bbba9754d2f4aaa8ed295e7b65a6ee769a36a846c9cb5fbc"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/csgraph/_matching.cp311-win_amd64.pyd",
+    "bytes": 312320,
+    "sha256": "6c48879faaad407bb9b0713cbf9a39c9ca232cbfb06f4aac25dd19e6f0116460"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/csgraph/_min_spanning_tree.cp311-win_amd64.pyd",
+    "bytes": 237056,
+    "sha256": "f8c0832d6ec1b6f244a05d43140ab19e841c1479964ac6379337e25689efe258"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/csgraph/_reordering.cp311-win_amd64.pyd",
+    "bytes": 300032,
+    "sha256": "668e5253bd4582ef3036c2fde9dc4768f35243243e67a9fe4af8a601809bb9c4"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/csgraph/_shortest_path.cp311-win_amd64.pyd",
+    "bytes": 513024,
+    "sha256": "112273dade5e5e78b9e83775c2d4fb89ff14431a2e029b49b9d9c5f4dab99179"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/csgraph/_tools.cp311-win_amd64.pyd",
+    "bytes": 174080,
+    "sha256": "0067636986dbd9bf2ac8a4499460613782a6d7ed6c42cf2202d95e0a94ce1558"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/csgraph/_traversal.cp311-win_amd64.pyd",
+    "bytes": 611840,
+    "sha256": "b603830161189d2ee17e5a18b4370ac63d4df1e1d1aebac92aec1882d3a47636"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/linalg/_dsolve/_superlu.cp311-win_amd64.pyd",
+    "bytes": 541184,
+    "sha256": "debdcaff1b2d36fd019a321286d4cf30278b78ec36e91da849f46b251e05ea0b"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/linalg/_eigen/arpack/_arpack.cp311-win_amd64.pyd",
+    "bytes": 920576,
+    "sha256": "63690e5506cefe7e06b5df857ee4fc3a3bece5fba46cc1ae4ef710baae05190f"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/linalg/_propack/_cpropack.cp311-win_amd64.pyd",
+    "bytes": 603136,
+    "sha256": "de33ad3df085842bf98591dfd297437d340c4d97dc2583ffee1cae4e45ad8694"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/linalg/_propack/_dpropack.cp311-win_amd64.pyd",
+    "bytes": 572928,
+    "sha256": "63bcc648281c6a0e7b96293bf2504efa4cca63f98594c21d5e8d6f87e2fbab56"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/linalg/_propack/_spropack.cp311-win_amd64.pyd",
+    "bytes": 574464,
+    "sha256": "bfaa5276f4343ea652838c4a47b95c830677c9a671497be7bd1984fe53933404"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/sparse/linalg/_propack/_zpropack.cp311-win_amd64.pyd",
+    "bytes": 592896,
+    "sha256": "d9084db18918828624f58fedbcc9485d131adb87ddeb68c3a11124abb65fbee2"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/spatial/_ckdtree.cp311-win_amd64.pyd",
+    "bytes": 1697792,
+    "sha256": "3829119908869984a6338ec5c7add3c1aad68600e085ec2db034bed8fbb979c9"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/spatial/_distance_pybind.cp311-win_amd64.pyd",
+    "bytes": 1374208,
+    "sha256": "a88cbef63cae3e429f9e2569f1dbf28af96262217a0fe7f95a828a98e5a70c38"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/spatial/_distance_wrap.cp311-win_amd64.pyd",
+    "bytes": 111104,
+    "sha256": "55b2ae0c5d9ddd5aefc1e4324b536319667d2f2b1fbef274508e978105706602"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/spatial/_hausdorff.cp311-win_amd64.pyd",
+    "bytes": 226816,
+    "sha256": "149ba107b36c24e5bf9dafcd5afe45102bcbce75af75a66681a4107dc0f07402"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/spatial/_qhull.cp311-win_amd64.pyd",
+    "bytes": 1080832,
+    "sha256": "9722641ce92fa214e9ff83b354f4e9023f5d0f039e406ced671f336ce59126e6"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/spatial/_voronoi.cp311-win_amd64.pyd",
+    "bytes": 218624,
+    "sha256": "f99944b451a39ab66bf0cfd4ae6b5e07ad3a2e3030e5b832284456dfd3a60622"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/spatial/transform/_rotation.cp311-win_amd64.pyd",
+    "bytes": 918528,
+    "sha256": "e3555585f706fa0ff589b2e1db9b0b3d39f0f1aeccb7090e76bdad45c86902d6"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/_comb.cp311-win_amd64.pyd",
+    "bytes": 49152,
+    "sha256": "8f0400fdd7995c6ecde2919fc889b22e51fe07ea3006fc5c09e45639de2fa93d"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/_ellip_harm_2.cp311-win_amd64.pyd",
+    "bytes": 109568,
+    "sha256": "20fdcff378aa977d31cc607f061c5c0fdddf9a320f5713a67f1d714b0dc53e84"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/_gufuncs.cp311-win_amd64.pyd",
+    "bytes": 337408,
+    "sha256": "bf098f2cf036a27080e7c2e92ade1bf1c8abae6aeec496ff25b822a1d7edcbf0"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/_specfun.cp311-win_amd64.pyd",
+    "bytes": 202240,
+    "sha256": "5a51b46e01f6ee0d30e27afaacd6c1fe6d2b002cd344a15a7ec9256f6d5622e1"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/_special_ufuncs.cp311-win_amd64.pyd",
+    "bytes": 1050624,
+    "sha256": "fb050a5d6812f9e422bb3aa49fc29ab6d68d63afbceeb8d6bca1a78df7fd3bae"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/_test_internal.cp311-win_amd64.pyd",
+    "bytes": 233984,
+    "sha256": "3934e69c816f3f502d1dd0312436145ec23c74d49ec7cb7e8b727d6ae4a07594"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/_ufuncs.cp311-win_amd64.pyd",
+    "bytes": 1538048,
+    "sha256": "65542296884eebee7d16cc754a3b669ac4c44fb991a4d4fcfcc9bee91802f97c"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/_ufuncs_cxx.cp311-win_amd64.pyd",
+    "bytes": 2310144,
+    "sha256": "be649b41aa9653c3b5cf9dc4eab81c1da08ca53f5bc37ca393ca53a8a51dd5bc"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/cython_special.cp311-win_amd64.pyd",
+    "bytes": 3201024,
+    "sha256": "7dd0f8c9ef973f5992fa4d6ba996429ac9bb8e21dc8266db48b06e9da08a0e67"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/special/libsf_error_state.dll",
+    "bytes": 112594,
+    "sha256": "9fe68e7718a4f0d1ac4c9e0eeabc97a2319f86a5a11479919dd6902b3e31c750"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_ansari_swilk_statistics.cp311-win_amd64.pyd",
+    "bytes": 256512,
+    "sha256": "adc513c1cac3d770d7b93ceeed3ccace3854112972642ecede25b6ba7459364a"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_biasedurn.cp311-win_amd64.pyd",
+    "bytes": 358912,
+    "sha256": "8d357fbafdff47a5f94fd1e1bed7932ca755546bebd0fc957bf8383b02f355cf"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_levy_stable/levyst.cp311-win_amd64.pyd",
+    "bytes": 56320,
+    "sha256": "65da1bda1d5becdaed6c74baf8b08b23b9b3dce57bb9cdcd31f5dab7c996f2f2"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_mvn.cp311-win_amd64.pyd",
+    "bytes": 105984,
+    "sha256": "1bd78e27cb0b4e0b3929cdc31da830666dda1874798939e9df3e3bac2cb21ff3"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_qmc_cy.cp311-win_amd64.pyd",
+    "bytes": 407552,
+    "sha256": "938f405c54ea9ffb5a8db7e4c9910795f9df6366080833a2ad2a13244a342cd2"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_rcont/rcont.cp311-win_amd64.pyd",
+    "bytes": 237568,
+    "sha256": "28ca6770a264d3baceb83ee23dd1790ac85d47a5a527b7d217fb718ac01f2df5"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_sobol.cp311-win_amd64.pyd",
+    "bytes": 371200,
+    "sha256": "3115b99f0e2a974fee0929812c45a677c3fc2fc82fcbeb25ca70569374b53ff0"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_stats.cp311-win_amd64.pyd",
+    "bytes": 693248,
+    "sha256": "0b96b67db539674259026827fbd8e5599e1a0ad990ad4134d3b9af779dbe70ce"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_stats_pythran.cp311-win_amd64.pyd",
+    "bytes": 1067008,
+    "sha256": "f68da39667fd9e7932c30fc9d85651939e0f0e7708678c8b7ab957ce281f3e26"
+  },
+  {
+    "package": "scipy",
+    "file": "scipy/stats/_unuran/unuran_wrapper.cp311-win_amd64.pyd",
+    "bytes": 1470976,
+    "sha256": "dcde70ba3bb1ae1444d5fcc6b5cf346564e60b859ba32b4c93c0bb3e50107803"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/_conv.cp311-win_amd64.pyd",
+    "bytes": 148480,
+    "sha256": "272299521cd27cd5274b920306ffa6011fb3ff748a526a757e5829023d128809"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/_errors.cp311-win_amd64.pyd",
+    "bytes": 39424,
+    "sha256": "4ccc1b4f120f700d048977b160d6998e11e7c6e8cf16ccffeafa2368ec0bdd92"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/_objects.cp311-win_amd64.pyd",
+    "bytes": 88576,
+    "sha256": "450cbf8f8f9606ddbdfd8791f2204326f1433b761ff6457292aa577296aed6f2"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/_proxy.cp311-win_amd64.pyd",
+    "bytes": 35840,
+    "sha256": "2335e9e913d1e30fad46492a804a2a2b52fc8d4f09db583998486a54ebb71803"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/_selector.cp311-win_amd64.pyd",
+    "bytes": 113152,
+    "sha256": "3992d9b92b0aa5a28e29f8a07637ec37349be712f6d26897ff9908d4b3e96486"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/defs.cp311-win_amd64.pyd",
+    "bytes": 208384,
+    "sha256": "47c01e666712926dfae104100eb38b45d9cb52d061f949400a0b9a9570df9f17"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5.cp311-win_amd64.pyd",
+    "bytes": 74240,
+    "sha256": "948b426a2447eafb2cbfda989bf3f1004e00cc17a54df41b6a682fd391cf4282"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5a.cp311-win_amd64.pyd",
+    "bytes": 97792,
+    "sha256": "623f57df75aa97bdf4ed7f4d07828eda0effa5cca739f6ceeaad826462492dfc"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5ac.cp311-win_amd64.pyd",
+    "bytes": 37888,
+    "sha256": "e1ac81e1f961fd6f7ed70f18e2ee1aca7aa366eb7b3048e1c112cf280cb7b972"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5d.cp311-win_amd64.pyd",
+    "bytes": 192512,
+    "sha256": "70a24dd5c9ec6d427865f096b1a0e2be244e33c9b25a755f5f4a401a17df68b1"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5ds.cp311-win_amd64.pyd",
+    "bytes": 57856,
+    "sha256": "3b9e1a8216a6df6c9a9dab13843eed26ab7b62c65743cf1721730bdbda5c783d"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5f.cp311-win_amd64.pyd",
+    "bytes": 101888,
+    "sha256": "c1aeaceeb0dc26433083fa821570d688db6791437a9d24b415aad6c3f4cbc779"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5fd.cp311-win_amd64.pyd",
+    "bytes": 132608,
+    "sha256": "279bf530ebc0b8999a6a15fb1f73e24d5d3297bdedc217b660814ac2eea7da17"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5g.cp311-win_amd64.pyd",
+    "bytes": 115712,
+    "sha256": "663d6123ca1469c69b81d738d9f45880755233d4d75cb3840784666fe291bf5c"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5i.cp311-win_amd64.pyd",
+    "bytes": 40448,
+    "sha256": "e35b12f5859f1b8190209cb141d12e24a830c718f01949bae51e2663c2e0cfe0"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5l.cp311-win_amd64.pyd",
+    "bytes": 78336,
+    "sha256": "4127ed94b853a527f946c71db8fc686440921cb2872636f18b15282ab2e8259b"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5o.cp311-win_amd64.pyd",
+    "bytes": 83456,
+    "sha256": "02c80499046f9829b5629d2187354ff97b0c6b42fffd2ddbe7fd38fe38112dbc"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5p.cp311-win_amd64.pyd",
+    "bytes": 275456,
+    "sha256": "4030c68d2cf41b6af61b05c18e07d4d004a3e8ef7749277cbdfdc24a1016d08a"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5pl.cp311-win_amd64.pyd",
+    "bytes": 28672,
+    "sha256": "eb0b05aa74722b228cfbae14ac56ad09e8afd451b1062c99c444ccf9dcedc5a6"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5r.cp311-win_amd64.pyd",
+    "bytes": 49664,
+    "sha256": "824a53ad8d7e769247065b5b393fe0712bc6f532662e0d446b8b7d0ab3e3f72c"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5s.cp311-win_amd64.pyd",
+    "bytes": 81408,
+    "sha256": "0dc2947f87697d6f5b8d8b8724aa6b02b182a59d8dcba8473869ec3274a9cdcc"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5t.cp311-win_amd64.pyd",
+    "bytes": 287744,
+    "sha256": "2f367fca4665f4d8f1fb1d7f1f8d1c887e23a11ae9f91062734bf8d4afc3dca0"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/h5z.cp311-win_amd64.pyd",
+    "bytes": 37888,
+    "sha256": "b8797b9572196214b618a00d7a390243752c4eccefb2bf9eca97f084c5e55f58"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/hdf5.dll",
+    "bytes": 3334144,
+    "sha256": "e744b8622d1b61fd5bd9e6482d333c1aa4ccfd5b162619f1e519f28f1662d49e"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/hdf5_hl.dll",
+    "bytes": 117760,
+    "sha256": "bf3384584ace4a97dada20836a1221797400d8a8236637e5e6cde5d4c22ce0ba"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/utils.cp311-win_amd64.pyd",
+    "bytes": 41472,
+    "sha256": "a24499ef9cb11240ba7c729c777c83a39953390bcd8d3a0d94af8106ae31c660"
+  },
+  {
+    "package": "h5py",
+    "file": "h5py/zlib.dll",
+    "bytes": 86016,
+    "sha256": "8e02a007fd2c0fae235e0c2e405d583bdb2b059162ea1a2dc297b690bb7c37c2"
+  },
+  {
+    "package": "numba",
+    "file": "numba/_devicearray.cp311-win_amd64.pyd",
+    "bytes": 12288,
+    "sha256": "46907195614ee6eba2800d758d354d6e5c4a8b34c4261f62e7ec05709b978671"
+  },
+  {
+    "package": "numba",
+    "file": "numba/_dispatcher.cp311-win_amd64.pyd",
+    "bytes": 41984,
+    "sha256": "a2db00fddef13308b24c6160e0f75ce599475b4997e0f2539287da2fbc58f5e2"
+  },
+  {
+    "package": "numba",
+    "file": "numba/_dynfunc.cp311-win_amd64.pyd",
+    "bytes": 16384,
+    "sha256": "cd9ee1b2cf825d2bdd55d8b6a93286dcc527b1bce8f7fb27843bab5959c4cf1c"
+  },
+  {
+    "package": "numba",
+    "file": "numba/_helperlib.cp311-win_amd64.pyd",
+    "bytes": 203776,
+    "sha256": "83c30f78b36a1b3600cb14baeba9d343c742a1f9304d23281c8682e83bebc46c"
+  },
+  {
+    "package": "numba",
+    "file": "numba/core/runtime/_nrt_python.cp311-win_amd64.pyd",
+    "bytes": 25088,
+    "sha256": "521537cce343f83c049d10b3deff19fef78bf2fdf2f892ea82ab61c21255cfc2"
+  },
+  {
+    "package": "numba",
+    "file": "numba/core/typeconv/_typeconv.cp311-win_amd64.pyd",
+    "bytes": 20480,
+    "sha256": "febecd8018e66c027e86c54c540f101d361e05005dbd47b777b1367ddb956a64"
+  },
+  {
+    "package": "numba",
+    "file": "numba/cuda/cudadrv/_extras.cp311-win_amd64.pyd",
+    "bytes": 10752,
+    "sha256": "f0e3c81e0da6761cb801ac36d0b08efefa5e33a40adb8f64814809c74cde1f01"
+  },
+  {
+    "package": "numba",
+    "file": "numba/experimental/jitclass/_box.cp311-win_amd64.pyd",
+    "bytes": 12800,
+    "sha256": "9e0a379b9e89fb9dccd3c6e52d6984848066d3d831492d609bcc10e854853771"
+  },
+  {
+    "package": "numba",
+    "file": "numba/mviewbuf.cp311-win_amd64.pyd",
+    "bytes": 14848,
+    "sha256": "75dd9931bfc514e49717445e6173239d79992f683b848cfcdc920c06f5728f63"
+  },
+  {
+    "package": "numba",
+    "file": "numba/np/ufunc/_internal.cp311-win_amd64.pyd",
+    "bytes": 23552,
+    "sha256": "5d4edaefee1300d0cd6248bfe6a3c3f98a1669919d177d2528507de0f7993042"
+  },
+  {
+    "package": "numba",
+    "file": "numba/np/ufunc/_num_threads.cp311-win_amd64.pyd",
+    "bytes": 10752,
+    "sha256": "4bbfbf902a19a9a6d3c9581a2370ac6ff809fe264aaa2c511da3f90a4d3feef1"
+  },
+  {
+    "package": "numba",
+    "file": "numba/np/ufunc/omppool.cp311-win_amd64.pyd",
+    "bytes": 35840,
+    "sha256": "97e84cb2fdf0f54b0930c260814f3db85643376c39176ea2129d971e013e3080"
+  },
+  {
+    "package": "numba",
+    "file": "numba/np/ufunc/tbbpool.cp311-win_amd64.pyd",
+    "bytes": 46592,
+    "sha256": "c1ebf7b423e681fa6ed8700405a78d59535fe516dfd630bbb908cf40b978ea74"
+  },
+  {
+    "package": "numba",
+    "file": "numba/np/ufunc/workqueue.cp311-win_amd64.pyd",
+    "bytes": 38400,
+    "sha256": "469b5dfe6ce604b43f748d8f03e201a4aab7bff9abb6ebee3ad162bd312849d1"
+  },
+  {
+    "package": "llvmlite",
+    "file": "llvmlite.libs/msvcp140-8f141b4454fa78db34bc1f28c571b4da.dll",
+    "bytes": 557648,
+    "sha256": "8f141b4454fa78db34bc1f28c571b4da0e00cd2c43f7ad0e282f313036826aae"
+  },
+  {
+    "package": "llvmlite",
+    "file": "llvmlite/binding/llvmlite.dll",
+    "bytes": 120369152,
+    "sha256": "0ce3c9f2f18d07df0b8e07b9545e781d1f23c023f9bcba08138e2bb1f7424f53"
+  }
+]

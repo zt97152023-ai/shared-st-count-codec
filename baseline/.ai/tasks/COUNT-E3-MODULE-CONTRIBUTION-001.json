@@ -1,0 +1,29 @@
+{
+  "id": "COUNT-E3-MODULE-CONTRIBUTION-001",
+  "objective": "Quantify which statistical components reduce the paid physical archive cost of Shared, using a dataset-level ablation with exact recovery and a component ledger.",
+  "project_type": "research",
+  "risk": "high",
+  "state": "pilot_complete_pending_review",
+  "hypothesis": "Under one frozen Shared codec and identical canonical inputs, disabling support modeling, positive-value modeling, spatial context, or parameter sharing increases complete archive bytes; the magnitude of each increase is a component contribution, while interactions are reported separately.",
+  "null_hypothesis": "At least one disable arm does not increase complete archive bytes, or the observed differences cannot be attributed to the named component after charging model, graph, metadata, and framing bytes.",
+  "inference_unit": "one complete exposed HEST development slice; pilot uses INT17, MEND124, and MEND140, with expansion only after the vertical-slice gate",
+  "primary_endpoint": "complete physical archive bytes per dataset, including all serialized model, graph, metadata, framing, support, and value members",
+  "secondary_endpoints": ["bits_per_count", "bits_per_nonzero", "module_ledger_bytes", "exact_recovery", "encode_seconds", "decode_seconds", "peak_rss_bytes"],
+  "arms": [
+    {"id": "full", "description": "Production Shared K32 with support M_s=6, value context M_v=6, frozen B_s=16, ORIGINAL order, and all current model/sharing components."},
+    {"id": "no_support", "description": "Support is still coded, but its context-conditioned P(S|q,C) correction is disabled; support probabilities are gene-only and no support graph odds are paid."},
+    {"id": "no_value", "description": "Support branch remains active; positive values are encoded with a fixed-width lossless positive-integer stream, with no fitted positive-value CDF, tail model, or value context model."},
+    {"id": "no_spatial", "description": "All spatial predecessors are removed from both support and positive-value contexts; the remaining gene/value models are refit and all inactive graph members are omitted or explicitly accounted for."},
+    {"id": "no_sharing", "description": "Spatial context and support/value factorization remain active, but the q1 Bernoulli parameter is fit and serialized independently per gene; the fixed eight tail classes remain unchanged. This is the preregistered q1-sharing ablation, not a claim that every tail histogram is independently fit."}
+  ],
+  "planned_contrasts": ["full - no_support", "full - no_value", "full - no_spatial", "full - no_sharing", "two-way interaction residuals; no additive decomposition is assumed"],
+  "frozen_components": ["canonical CSR/int64 recovery object", "spot and gene order", "metadata bytes", "K32 value grouping unless the arm definition explicitly removes sharing", "Q12 arithmetic", "rANS backend where an arm retains entropy coding", "archive byte accounting"],
+  "allowed_changes": ["new task-local E3 codec/runtime", "arm-specific model members required by the preregistered definitions", "new E3 evidence outputs"],
+  "forbidden_changes": ["mutating historical evidence", "protected or confirmatory data", "post-result arm/endpoint changes", "gene filtering", "training on protected data", "unregistered tuning", "external upload or transfer"],
+  "resource_ceiling": {"pilot_seconds": 3600, "child_seconds": 600, "worker_rss_gib": 8, "new_disk_gib": 8, "parallel_workers": 1},
+  "acceptance": ["synthetic exact roundtrip for every arm", "one complete-slice smoke exact roundtrip for every arm", "independent archive-only decode", "physical ledger sums exactly to archive size", "fresh-process reproduction for the full arm and at least one disable arm", "source/runtime/input hashes recorded", "failed or incomplete arms retained and excluded rather than patched post hoc"],
+  "pilot_gate": "Do not expand beyond the three exposed pilot slices until every arm has a defined archive format, exact decode, and auditable physical ledger.",
+  "pilot_result": {"samples": ["INT17", "MEND124", "MEND140"], "rows": 15, "all_exact": true, "all_ledgers_sum": true, "expanded_run_released": false},
+  "outputs": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001",
+  "created": "2026-09-22"
+}

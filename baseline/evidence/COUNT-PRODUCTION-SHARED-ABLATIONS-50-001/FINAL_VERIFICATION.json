@@ -1,0 +1,5539 @@
+{
+  "all_pass": true,
+  "result_count": 550,
+  "effective_result_count": 550,
+  "coverage": {
+    "order": {
+      "expected_new": 250,
+      "observed": 250,
+      "complete": true
+    },
+    "context": {
+      "expected_new": 100,
+      "observed": 100,
+      "complete": true
+    },
+    "bucket": {
+      "expected_new": 200,
+      "observed": 200,
+      "complete": true
+    }
+  },
+  "rows": [
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\INT17\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\INT17\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\INT17\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\INT17\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND124\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND124\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND124\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND124\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND140\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND140\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND140\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND140\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND23\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND23\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND23\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND23\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND24\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND24\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND24\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND24\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND84\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND84\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND84\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MEND84\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MISC14\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MISC14\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MISC14\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\MISC14\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI176\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI176\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI176\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI176\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI180\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI180\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI180\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI180\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI289\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI289\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI289\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI289\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI299\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI299\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI299\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI299\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI337\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI337\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI337\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI337\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI383\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI383\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI383\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI383\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI410\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI410\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI410\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI410\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI435\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI435\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI435\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI435\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI452\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI452\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI452\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI452\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI491\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI491\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI491\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI491\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI542\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI542\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI542\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI542\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI629\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI629\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI629\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI629\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI709\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI709\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI709\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI709\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI729\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI729\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI729\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI729\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI761\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI761\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI761\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI761\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI770\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI770\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI770\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI770\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI796\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI796\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI796\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI796\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI812\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI812\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI812\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI812\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI844\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI844\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI844\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\NCBI844\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA14\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA14\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA14\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA14\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA149\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA149\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA149\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA149\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA33\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA33\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA33\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA33\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA37\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA37\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA37\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA37\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA58\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA58\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA58\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA58\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA8\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA8\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA8\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA8\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA96\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA96\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA96\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\SPA96\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX110\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX110\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX110\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX110\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX111\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX111\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX111\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX111\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX117\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX117\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX117\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX117\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX118\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX118\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX118\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX118\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX124\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX124\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX124\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX124\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX126\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX126\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX126\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX126\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX127\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX127\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX127\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX127\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX128\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX128\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX128\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX128\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX129\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX129\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX129\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX129\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX131\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX131\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX131\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX131\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX135\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX135\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX135\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX135\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX136\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX136\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX136\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX136\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX137\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX137\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX137\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX137\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX50\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX50\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX50\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX50\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX96\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX96\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX96\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\TENX96\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\ZEN47\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\ZEN47\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\ZEN47\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\ZEN47\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\ZEN65\\B1\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\ZEN65\\B16\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\ZEN65\\B2\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\bucket\\ZEN65\\B4\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\INT17\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\INT17\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND124\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND124\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND140\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND140\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND23\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND23\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND24\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND24\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND84\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MEND84\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MISC14\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\MISC14\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI176\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI176\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI180\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI180\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI289\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI289\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI299\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI299\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI337\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI337\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI383\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI383\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI410\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI410\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI435\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI435\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI452\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI452\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI491\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI491\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI542\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI542\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI629\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI629\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI709\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI709\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI729\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI729\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI761\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI761\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI770\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI770\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI796\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI796\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI812\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI812\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI844\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\NCBI844\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA14\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA14\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA149\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA149\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA33\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA33\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA37\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA37\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA58\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA58\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA8\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA8\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA96\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\SPA96\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX110\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX110\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX111\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX111\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX117\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX117\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX118\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX118\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX124\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX124\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX126\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX126\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX127\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX127\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX128\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX128\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX129\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX129\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX131\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX131\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX135\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX135\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX136\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX136\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX137\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX137\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX50\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX50\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX96\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\TENX96\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\ZEN47\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\ZEN47\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\ZEN65\\S0V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\context\\ZEN65\\S1V0\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\INT17\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\INT17\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\INT17\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\INT17\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\INT17\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND124\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND124\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND124\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND124\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND124\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND140\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND140\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND140\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND140\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND140\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND23\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND23\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND23\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND23\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND23\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND24\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND24\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND24\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND24\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND24\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND84\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND84\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND84\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND84\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MEND84\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MISC14\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MISC14\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MISC14\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MISC14\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\MISC14\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI176\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI176\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI176\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI176\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI176\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI180\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI180\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI180\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI180\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI180\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI289\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI289\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI289\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI289\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI289\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI299\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI299\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI299\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI299\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI299\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI337\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI337\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI337\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI337\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI337\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI383\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI383\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI383\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI383\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI383\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI410\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI410\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI410\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI410\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI410\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI435\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI435\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI435\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI435\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI435\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI452\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI452\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI452\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI452\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI452\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI491\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI491\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI491\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI491\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI491\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI542\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI542\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI542\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI542\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI542\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI629\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI629\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI629\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI629\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI629\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI709\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI709\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI709\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI709\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI709\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI729\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI729\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI729\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI729\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI729\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI761\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI761\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI761\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI761\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI761\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI770\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI770\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI770\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI770\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI770\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI796\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI796\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI796\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI796\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI796\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI812\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI812\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI812\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI812\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI812\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI844\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI844\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI844\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI844\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\NCBI844\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA14\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA14\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA14\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA14\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA14\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA149\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA149\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA149\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA149\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA149\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA33\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA33\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA33\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA33\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA33\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA37\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA37\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA37\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA37\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA37\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA58\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA58\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA58\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA58\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA58\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA8\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA8\\ORIGINAL\\RESULT.json",
+      "status_success": false,
+      "verify_all": false,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": false,
+      "member_receipts": false,
+      "all": false
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA8\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA8\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA8\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA96\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA96\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA96\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA96\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\SPA96\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX110\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX110\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX110\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX110\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX110\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX111\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX111\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX111\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX111\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX111\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX117\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX117\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX117\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX117\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX117\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX118\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX118\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX118\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX118\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX118\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX124\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX124\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX124\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX124\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX124\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX126\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX126\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX126\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX126\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX126\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX127\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX127\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX127\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX127\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX127\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX128\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX128\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX128\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX128\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX128\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX129\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX129\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX129\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX129\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX129\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX131\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX131\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX131\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX131\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX131\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX135\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX135\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX135\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX135\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX135\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX136\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX136\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX136\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX136\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX136\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX137\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX137\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX137\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX137\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX137\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX50\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX50\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX50\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX50\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX50\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX96\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX96\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX96\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX96\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\TENX96\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN47\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN47\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN47\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN47\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN47\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN65\\CANONICAL_SPATIAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN65\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN65\\RANDOM_SEED_11\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN65\\RANDOM_SEED_23\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    },
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\main_v3\\order\\ZEN65\\RANDOM_SEED_37\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    }
+  ],
+  "retry_rows": [
+    {
+      "path": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\retry\\SPA8\\ORIGINAL\\RESULT.json",
+      "status_success": true,
+      "verify_all": true,
+      "archive_exists": true,
+      "ledger_exact": true,
+      "archive_sha": true,
+      "member_receipts": true,
+      "all": true
+    }
+  ],
+  "preserved_failed_result_dirs": 13,
+  "main_v3_failed_result_dirs": 1,
+  "semantic_audit": true
+}

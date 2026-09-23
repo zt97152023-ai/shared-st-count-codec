@@ -1,0 +1,34 @@
+{
+  "task_id": "COUNT-PRODUCTION-SHARED-ABLATIONS-50-001",
+  "sample_manifest": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/DATA_SPLIT.csv",
+  "sample_count": 50,
+  "data_role": "exposed HEST development/calibration only",
+  "K": 32,
+  "M_s": 6,
+  "precision_bits": 12,
+  "order_arms": {
+    "ORIGINAL": "source canonical row order; no mapping member",
+    "CANONICAL_SPATIAL": "stable lexicographic sort by finite coordinate tuple, then original spot identity, then original row index",
+    "RANDOM_SEED_11": "NumPy PCG64 permutation with seed 11",
+    "RANDOM_SEED_23": "NumPy PCG64 permutation with seed 23",
+    "RANDOM_SEED_37": "NumPy PCG64 permutation with seed 37"
+  },
+  "order_mapping": "uint32 little-endian encoded-row-to-original-row permutation stored as order_map.u32 and charged in mapping bytes",
+  "context_arms": {
+    "S0V0": "support M=0, unconditional value model, no graph member",
+    "S1V0": "support M=6, unconditional value model, one shared production graph member",
+    "S0V1": "existing SPATIAL_M00 support archive, production value context and graph; semantic-audit reuse",
+    "S1V1": "existing SPATIAL_M06 support archive, production value context and graph; semantic-audit reuse"
+  },
+  "bucket_edges": {
+    "B1": [1, 4096],
+    "B2": [1, 256, 4096],
+    "B4": [1, 16, 256, 2048, 4096],
+    "B8": [1, 4, 16, 64, 256, 1024, 2048, 3072, 4096],
+    "B16": [1, 2, 4, 10, 16, 40, 64, 160, 256, 640, 1024, 1536, 2048, 2560, 3072, 3584, 4096]
+  },
+  "bucket_selection": "pooled total physical bytes; <=0.05 percent tie then smaller B; no per-sample B selection",
+  "failure_rule": "retain every attempt; retry only native/Numba startup signature once; integrity, exactness and resource failures stop that arm",
+  "decoder_contract": "archive-only fresh process; no H5AD or raw-source path access; canonical CSR exactness plus ordered metadata and mapping inversion",
+  "historical_evidence_policy": "COUNT-SUPPORT-PREDECESSOR-50-001 and value K32 archives are immutable inputs; no overwrite"
+}

@@ -1,0 +1,3 @@
+arm,n_success,n_expected,coverage_complete,pooled_total_bytes,mean_total_bytes,median_total_bytes,support_stream,value_stream,support_model,value_model_and_group_map,graph_index,identity_coordinates_metadata,mapping,manifest,zip_framing
+B16_M4,50,50,True,89124854,1782497.08,976703.5,42948002,39464206,903155,485053,930262,4222029,0,108947,63200
+B16_M8,50,50,True,88983830,1779676.6,978787.5,42427851,39464206,915955,485053,1285476,4222029,0,114560,68700

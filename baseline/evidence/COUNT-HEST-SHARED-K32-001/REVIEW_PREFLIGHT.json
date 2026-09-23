@@ -1,0 +1,87 @@
+[
+  {
+    "sample_id": "NCBI180",
+    "K": 8,
+    "all_pass": true,
+    "archive_bytes": 254423,
+    "extra_checks": {
+      "values": true,
+      "indices": true,
+      "indptr": true,
+      "int64_values": true,
+      "integer_indices": true,
+      "historical_sha_size": true,
+      "historical_K8": true,
+      "canonical_pair": true,
+      "fixed_members": true
+    }
+  },
+  {
+    "sample_id": "NCBI180",
+    "K": 32,
+    "all_pass": true,
+    "archive_bytes": 256978,
+    "extra_checks": {
+      "values": true,
+      "indices": true,
+      "indptr": true,
+      "int64_values": true,
+      "integer_indices": true,
+      "historical_sha_size": true,
+      "historical_K8": true,
+      "canonical_pair": true,
+      "fixed_members": true
+    }
+  },
+  {
+    "sample_id": "NCBI792",
+    "K": 8,
+    "all_pass": true,
+    "archive_bytes": 10612925,
+    "extra_checks": {
+      "values": true,
+      "indices": true,
+      "indptr": true,
+      "int64_values": true,
+      "integer_indices": true,
+      "historical_sha_size": true,
+      "historical_K8": true,
+      "canonical_pair": true,
+      "fixed_members": true
+    }
+  },
+  {
+    "sample_id": "NCBI792",
+    "K": 32,
+    "all_pass": true,
+    "archive_bytes": 10592743,
+    "extra_checks": {
+      "values": true,
+      "indices": true,
+      "indptr": true,
+      "int64_values": true,
+      "integer_indices": true,
+      "historical_sha_size": true,
+      "historical_K8": true,
+      "canonical_pair": true,
+      "fixed_members": true
+    }
+  },
+  {
+    "sample_id": "NCBI793",
+    "K": 32,
+    "all_pass": true,
+    "archive_bytes": 17123773,
+    "extra_checks": {
+      "values": true,
+      "indices": true,
+      "indptr": true,
+      "int64_values": true,
+      "integer_indices": true,
+      "historical_sha_size": true,
+      "historical_K8": true,
+      "canonical_pair": true,
+      "fixed_members": true
+    }
+  }
+]

@@ -1,0 +1,242 @@
+{
+  "schema": "environment-lock-audit-v0.1",
+  "status": "OBSERVED_SNAPSHOT_NOT_RECONSTRUCTION_VERIFIED",
+  "current": {
+    "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+    "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+    "executable_sha256": "c98caee82c66433f0e89d4abbf152b39a7dc2e99979b28dcb021598b4e3f5642",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "machine": "AMD64",
+    "packages": {
+      "numpy": "1.26.4",
+      "numba": "0.66.0",
+      "llvmlite": "0.48.0",
+      "scipy": "1.14.1",
+      "h5py": "3.9.0",
+      "psutil": "7.2.2",
+      "zstandard": "0.19.0"
+    }
+  },
+  "historical_qpatch_environment": {
+    "config_sha256": "d5e6be0ff7a6a9e096d574c21818a1484f66bbbddf11d0410ca68eb574de4732",
+    "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+    "numpy": "1.26.4",
+    "numba": "0.66.0",
+    "source_hashes": {
+      "E:\\count压缩\\baseline\\qpatchcodec\\freeze.py": "881009ba5e54b5186c07d6eec5cde2fdcef95595523097a3553963d419995ed8",
+      "E:\\count压缩\\baseline\\qpatchcodec\\metrics.py": "1e97c312da1f2818ed6d6a976b2ad0ea3eff29b2a1cd01bcb1af120aacd480f1",
+      "E:\\count压缩\\baseline\\qpatchcodec\\model.py": "7abd069a9d924d3c7f2e4b3e4239be5f117e9c6846a4de03ba5c35ba882b31c4",
+      "E:\\count压缩\\baseline\\qpatchcodec\\qshare_model.py": "afaf2542ea27554509bd3ed8ab5a78b41ddc6cc670581dba34c56aec12bb82ce",
+      "E:\\count压缩\\baseline\\qpatchcodec\\run.py": "a910ac6588e57004a9ea949b8f5713f36ed48574a037acead37e5166daafb837",
+      "E:\\count压缩\\baseline\\qpatchcodec\\test_qpatch.py": "1635ae631bf6a6ec47d8784337925867b0b7e7c9c896b2d53dbca63cf3c35016",
+      "E:\\count压缩\\baseline\\qpatchcodec\\test_qshare.py": "8d782f8a274aa2416a40b3972554fe781b5fe7fed6be0e6dee6175c5339e3761",
+      "E:\\count压缩\\baseline\\qpatchcodec\\values.py": "a0cbe78acc76fe61c2a227315b4d7d1823add785ff11008af596e2fceeb39532",
+      "E:\\count压缩\\baseline\\qpatchcodec\\_adapt.py": "c153940e8342e3c6607da518937fc764803e56c465c36c395170d36bc2557e3b",
+      "E:\\count压缩\\baseline\\qpatchcodec\\frozen_runtime\\entropy.py": "17931146bdc79fbcb5ea0ab2dbb17acd833c8d32f52df9325d5dbffd712bc4c6",
+      "E:\\count压缩\\baseline\\qpatchcodec\\frozen_runtime\\io047.py": "594bd107f2bacd4636778b5aa5609b6139ebe319124909126ace82ff3b71124f"
+    },
+    "no_pcodec_import": true
+  },
+  "historical_recorded_version_matches": {
+    "python": true,
+    "numpy": true,
+    "numba": true
+  },
+  "package_metadata": {
+    "numpy": {
+      "version": "1.26.4",
+      "requires": [],
+      "metadata_files": [
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\numpy-1.26.4.dist-info\\METADATA",
+          "sha256": "5a27a0e272b1f6e597acbbf58e8da39ae350b2318db8df4cf49d72518e62eebc"
+        },
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\numpy-1.26.4.dist-info\\RECORD",
+          "sha256": "b611e860d1d407f7d92d5c590eb29e254f6fa903f3115a94015fef958e623cfb"
+        }
+      ]
+    },
+    "numba": {
+      "version": "0.66.0",
+      "requires": [
+        "llvmlite<0.49,>=0.48.0dev0",
+        "numpy<2.5,>=1.22"
+      ],
+      "metadata_files": [
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\numba-0.66.0.dist-info\\METADATA",
+          "sha256": "e3bbe9052ce13f891e572aecf7d1898c806ac3bc7c1bd16c96123914314f9a6d"
+        },
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\numba-0.66.0.dist-info\\RECORD",
+          "sha256": "416a7f526b0806da5f0b87da2b23d2a2eab15e0b05f71749b3c76ca047cc0526"
+        }
+      ]
+    },
+    "llvmlite": {
+      "version": "0.48.0",
+      "requires": [],
+      "metadata_files": [
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\llvmlite-0.48.0.dist-info\\METADATA",
+          "sha256": "caed92550a8514ce90a349843a922a6cdf7b347b5df84728d2e63d6dc215290a"
+        },
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\llvmlite-0.48.0.dist-info\\RECORD",
+          "sha256": "814c099bca74894f24b966ad66f7e8841da344b6b88b47b54954ec489a5e8017"
+        }
+      ]
+    },
+    "scipy": {
+      "version": "1.14.1",
+      "requires": [
+        "numpy<2.3,>=1.23.5",
+        "pytest; extra == \"test\"",
+        "pytest-cov; extra == \"test\"",
+        "pytest-timeout; extra == \"test\"",
+        "pytest-xdist; extra == \"test\"",
+        "asv; extra == \"test\"",
+        "mpmath; extra == \"test\"",
+        "gmpy2; extra == \"test\"",
+        "threadpoolctl; extra == \"test\"",
+        "scikit-umfpack; extra == \"test\"",
+        "pooch; extra == \"test\"",
+        "hypothesis>=6.30; extra == \"test\"",
+        "array-api-strict>=2.0; extra == \"test\"",
+        "Cython; extra == \"test\"",
+        "meson; extra == \"test\"",
+        "ninja; sys_platform != \"emscripten\" and extra == \"test\"",
+        "sphinx<=7.3.7,>=5.0.0; extra == \"doc\"",
+        "pydata-sphinx-theme>=0.15.2; extra == \"doc\"",
+        "sphinx-design>=0.4.0; extra == \"doc\"",
+        "matplotlib>=3.5; extra == \"doc\"",
+        "numpydoc; extra == \"doc\"",
+        "jupytext; extra == \"doc\"",
+        "myst-nb; extra == \"doc\"",
+        "pooch; extra == \"doc\"",
+        "jupyterlite-sphinx>=0.13.1; extra == \"doc\"",
+        "jupyterlite-pyodide-kernel; extra == \"doc\"",
+        "mypy==1.10.0; extra == \"dev\"",
+        "typing_extensions; extra == \"dev\"",
+        "types-psutil; extra == \"dev\"",
+        "pycodestyle; extra == \"dev\"",
+        "ruff>=0.0.292; extra == \"dev\"",
+        "cython-lint>=0.12.2; extra == \"dev\"",
+        "rich-click; extra == \"dev\"",
+        "doit>=0.36.0; extra == \"dev\"",
+        "pydevtool; extra == \"dev\""
+      ],
+      "metadata_files": [
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\scipy-1.14.1.dist-info\\METADATA",
+          "sha256": "bd0af7cc567d5030e57abfcb39f9590e3a9dd6566fc4d818fce9d8acff717e89"
+        },
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\scipy-1.14.1.dist-info\\RECORD",
+          "sha256": "1ed905905a7684b875da99618f4eacdf33cf5b17c9a3864f66d1a76fd6ad9024"
+        }
+      ]
+    },
+    "h5py": {
+      "version": "3.9.0",
+      "requires": [
+        "numpy (>=1.17.3)"
+      ],
+      "metadata_files": [
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\h5py-3.9.0.dist-info\\METADATA",
+          "sha256": "5519ddfc4311b2c2dbee491f37df412cea92a1733997d0f04f1f8231eae78179"
+        },
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\h5py-3.9.0.dist-info\\RECORD",
+          "sha256": "c8b27afb4d2dff47b9e4c5b4f5ba5bca9101fb564ea8b2237aa04e64d41f87a3"
+        }
+      ]
+    },
+    "psutil": {
+      "version": "7.2.2",
+      "requires": [
+        "psleak ; extra == 'dev'",
+        "pytest ; extra == 'dev'",
+        "pytest-instafail ; extra == 'dev'",
+        "pytest-xdist ; extra == 'dev'",
+        "setuptools ; extra == 'dev'",
+        "abi3audit ; extra == 'dev'",
+        "black ; extra == 'dev'",
+        "check-manifest ; extra == 'dev'",
+        "coverage ; extra == 'dev'",
+        "packaging ; extra == 'dev'",
+        "pylint ; extra == 'dev'",
+        "pyperf ; extra == 'dev'",
+        "pypinfo ; extra == 'dev'",
+        "pytest-cov ; extra == 'dev'",
+        "requests ; extra == 'dev'",
+        "rstcheck ; extra == 'dev'",
+        "ruff ; extra == 'dev'",
+        "sphinx ; extra == 'dev'",
+        "sphinx-rtd-theme ; extra == 'dev'",
+        "toml-sort ; extra == 'dev'",
+        "twine ; extra == 'dev'",
+        "validate-pyproject[all] ; extra == 'dev'",
+        "virtualenv ; extra == 'dev'",
+        "vulture ; extra == 'dev'",
+        "wheel ; extra == 'dev'",
+        "colorama ; (os_name == \"nt\") and extra == 'dev'",
+        "pyreadline3 ; (os_name == \"nt\") and extra == 'dev'",
+        "pywin32 ; (os_name == \"nt\" and implementation_name != \"pypy\") and extra == 'dev'",
+        "wheel ; (os_name == \"nt\" and implementation_name != \"pypy\") and extra == 'dev'",
+        "wmi ; (os_name == \"nt\" and implementation_name != \"pypy\") and extra == 'dev'",
+        "psleak ; extra == 'test'",
+        "pytest ; extra == 'test'",
+        "pytest-instafail ; extra == 'test'",
+        "pytest-xdist ; extra == 'test'",
+        "setuptools ; extra == 'test'",
+        "pywin32 ; (os_name == \"nt\" and implementation_name != \"pypy\") and extra == 'test'",
+        "wheel ; (os_name == \"nt\" and implementation_name != \"pypy\") and extra == 'test'",
+        "wmi ; (os_name == \"nt\" and implementation_name != \"pypy\") and extra == 'test'"
+      ],
+      "metadata_files": [
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\psutil-7.2.2.dist-info\\METADATA",
+          "sha256": "a263a40220d921d9cb963fc636d34f817aa2eb72c2696e3e3465d088cdb1976b"
+        },
+        {
+          "path": "C:\\Users\\zhang\\anaconda3\\Lib\\site-packages\\psutil-7.2.2.dist-info\\RECORD",
+          "sha256": "157f91cfd3ba766714e3a07613284f700419432560c48df31412fa50266eb6a5"
+        }
+      ]
+    },
+    "zstandard": {
+      "version": "0.19.0",
+      "requires": [
+        "cffi>=1.11; platform_python_implementation == \"PyPy\"",
+        "cffi>=1.11; extra == \"cffi\""
+      ],
+      "metadata_files": []
+    }
+  },
+  "threads_for_historical_worker": {
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "NUMBA_NUM_THREADS": "1",
+    "PYTHONFAULTHANDLER": "1"
+  },
+  "seed": "Qpatch12 deterministic fixed rule; no training seed",
+  "historical_unrecorded_versions": [
+    "scipy",
+    "h5py",
+    "psutil",
+    "llvmlite",
+    "zstandard"
+  ],
+  "conditional_dependency": "zstandard only in generic io047 codec branches; Qpatch import/runtime no pcodec; S0 is a separate pcodec-dependent baseline",
+  "limitations": [
+    "historical environment lacks full dependency lock",
+    "installed records do not ensure installers available or native ABI equivalent",
+    "no imports of codec/native compute packages or smoke encoding performed",
+    "Windows historical process errors not solved by this audit",
+    "current package metadata not proof of historical package versions"
+  ]
+}

@@ -1,0 +1,3502 @@
+[
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI180",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI180",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA58",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA58",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA37",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA37",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI383",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI383",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND24",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND24",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA8",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA8",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI761",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI761",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI289",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI289",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA149",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA149",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI410",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI410",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND23",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND23",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI299",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI299",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI770",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI770",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI337",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI337",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA33",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA33",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI176",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI176",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA96",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA96",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA14",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "SPA14",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI491",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI491",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND124",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND124",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI709",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI709",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI844",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI844",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI435",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI435",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI812",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI812",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI629",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI629",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI796",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI796",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI452",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI452",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND140",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND140",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX50",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX50",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "ZEN65",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "ZEN65",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MISC14",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MISC14",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI729",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI729",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "ZEN47",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "ZEN47",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND84",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "MEND84",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI542",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "NCBI542",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "INT17",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "INT17",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX118",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX118",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX96",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX96",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX135",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX135",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX110",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX110",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX124",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX124",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX127",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX127",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX126",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX126",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX136",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX136",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX117",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX117",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX137",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX137",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX111",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX111",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX131",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX131",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX129",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX129",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX128",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B16_base",
+    "sample_id": "TENX128",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI180",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI180",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA58",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA58",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA37",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA37",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI383",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI383",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND24",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND24",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA8",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA8",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI761",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI761",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI289",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI289",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA149",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA149",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI410",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI410",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND23",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND23",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI299",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI299",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI770",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI770",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI337",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI337",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA33",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA33",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI176",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI176",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA96",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA96",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA14",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "SPA14",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI491",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI491",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND124",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND124",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI709",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI709",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI844",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI844",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI435",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI435",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI812",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI812",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI629",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI629",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI796",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI796",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI452",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI452",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND140",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND140",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX50",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX50",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "ZEN65",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "ZEN65",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MISC14",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MISC14",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI729",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI729",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "ZEN47",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "ZEN47",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND84",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "MEND84",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI542",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "NCBI542",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "INT17",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "INT17",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX118",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX118",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX96",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX96",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX135",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX135",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX110",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX110",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX124",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX124",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX127",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX127",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX126",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX126",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX136",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX136",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX117",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX117",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX137",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX137",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX111",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX111",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX131",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX131",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX129",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX129",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX128",
+    "arm": "MV0",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 8,
+    "changed_member_count": 4,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json",
+      "value_cond_k.bz2",
+      "value_odds.u32",
+      "values.rans"
+    ],
+    "all_members_equal": false
+  },
+  {
+    "context": "B32_base",
+    "sample_id": "TENX128",
+    "arm": "MV6",
+    "base_member_count": 12,
+    "candidate_member_count": 12,
+    "common_member_count": 12,
+    "equal_member_count": 11,
+    "changed_member_count": 1,
+    "added_members": [],
+    "removed_members": [],
+    "changed_members": [
+      "manifest.json"
+    ],
+    "all_members_equal": false
+  }
+]

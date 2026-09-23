@@ -1,0 +1,41 @@
+{
+  "id": "COUNT-HEST-SHARED-K32-001",
+  "output_root": "D:\\HEST1000BenchRun\\COUNT-HEST-SHARED-K32-001",
+  "question": "Fixed support8/value32 rerun on the existing1000 HEST slices, paired paid-byte comparison with historicalK8",
+  "origin": "K32 chosen on exposed50; full1000 is descriptive extension, not independent confirmatory validation",
+  "K": 32,
+  "support_buckets": 8,
+  "threshold_rule": "fixed-log-axis-v1 unchanged from006",
+  "samples": 1000,
+  "data_manifest_sha256": "44ecf2ffe430bf3cf1056170ca5927edf5790e8859c82fe3d38ad58338726fc0",
+  "recovery": "canonical int64 integer counts, complete axes/order/identities,coordinates and contract metadata; not fullH5AD byte reconstruction",
+  "primary_endpoint": "sum full physical archive bytes K32 versus same-source historicalK8; keep all losing samples",
+  "secondary_endpoints": [
+    "paired wins/losses/ties and median",
+    "platform/species/organ breakdown",
+    "count stream and full archive bpc/bpnz separately",
+    "six-category physical ledger",
+    "source physicalH5AD/dense/actualdecodedcanonicalCSR references",
+    "encode/decode resource timing separately; no cross-session speedrank"
+  ],
+  "execution": "four small samples concurrently, large nnz>20M or matrixentries>300M serial afterward; one native thread per subprocess; Windows SetErrorMode3",
+  "resource_ceiling": {
+    "run_seconds": 1800,
+    "total_seconds": 86400,
+    "rss_bytes": 17179869184,
+    "free_disk_min_bytes": 42949672960
+  },
+  "failure_rule": "preserve every attempt; one fresh-process retry for native encode accessviolation/LLVMassert/NumbaImportError only; othercase failures recorded and continue; integrity/resource stop; four consecutive failed samples stop; no fabricated missing bytes",
+  "retention": "delete only generated decoded.npz after exact validation+hash receipt; keep archive and all reports",
+  "capacity": "reuse hash-pinned hest_large_runtime capacity500M/nnz100M, no newprobability rules",
+  "reproduction": "separate K32 encode forNCBI180 andNCBI792, matchmain SHA",
+  "preflight": "newworker K8/32 NCBI180 byteidentical previous; K8NCBI792 matches historicallarge archive; K32NCBI792 fresh exact; K32NCBI793 fresh exact",
+  "forbidden": [
+    "overwrite historicalarchives",
+    "change sourceoraxisorder",
+    "pick per-sampleK",
+    "newtraining/image/adaptation",
+    "skipfailedsamples in1000coverage",
+    "claim universallyoptimalK32"
+  ]
+}

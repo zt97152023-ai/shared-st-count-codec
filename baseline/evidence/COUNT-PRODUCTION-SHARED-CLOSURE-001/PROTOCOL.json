@@ -1,0 +1,15 @@
+{
+  "task_id": "COUNT-PRODUCTION-SHARED-CLOSURE-001",
+  "status": "frozen_before_execution",
+  "panel": "same 50 exposed HEST development slices",
+  "fixed": {"value_groups": 32, "initial_support_predecessors": 6, "precision": 12, "recovery": "exact canonical CSR and metadata"},
+  "bucket": {"B32": "floor midpoints of adjacent frozen B16 edges", "B64": "conditional only under task-contract gate", "selection": "pooled physical bytes; <=0.05% tie smaller bucket"},
+  "joint_support": {"support_predecessors": [4, 6, 8], "graph_accounting": "prefix reuse through 6; incremental tail beyond 6"},
+  "value_context": {"predecessors": [0, 2, 4, 6, 8, 12], "extension": "M_v=16 only if M_v=12 wins by >0.05% vs M_v=6"},
+  "stop_rules": [
+    "No B64 if B32 does not beat B16 by >0.05% or fails incremental graph/model cost gate",
+    "No threshold/binning search unless value-context scan leaves >0.05% unexplained context gain",
+    "No protected confirmation and no external-baseline rerun"
+  ],
+  "headline_rule": "1000-sample K32 Shared B8 remains headline unless full 1000-sample Shared is rerun; closure outputs are development-candidate evidence"
+}

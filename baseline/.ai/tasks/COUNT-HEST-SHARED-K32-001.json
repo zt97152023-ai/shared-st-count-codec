@@ -1,0 +1,45 @@
+{
+  "objective": "Fixed support8/value32 rerun on the existing1000 HEST slices, paired paid-byte comparison with historicalK8",
+  "risk": "high",
+  "project_type": "research",
+  "state": "accepted",
+  "inputs": [
+    "DATA_SPLIT.csv",
+    "historical1000K8 archives",
+    "frozen006K32definition"
+  ],
+  "allowed_changes": [
+    "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001",
+    "D:\\HEST1000BenchRun\\COUNT-HEST-SHARED-K32-001"
+  ],
+  "forbidden_changes": [
+    "overwrite historicalarchives",
+    "change sourceoraxisorder",
+    "pick per-sampleK",
+    "newtraining/image/adaptation",
+    "skipfailedsamples in1000coverage",
+    "claim universallyoptimalK32"
+  ],
+  "acceptance_criteria": [
+    "independent reviewrelease",
+    "capacityregression preflight",
+    "1000fresh archives with independentdecode exact or explicitunresolvedfailurecoverage",
+    "K8same-sourcephysicalcomparison",
+    "separate reproduction smallandlarge",
+    "independent final audit"
+  ],
+  "required_test_evidence": "newworker K8/32 NCBI180 byteidentical previous; K8NCBI792 matches historicallarge archive; K32NCBI792 fresh exact",
+  "expected_outputs": [
+    "Ddrive mainarchives",
+    "sampleCSV",
+    "platform/species/organ summaries",
+    "RESULT.md",
+    "FINAL_VERIFICATION.json"
+  ],
+  "session_id": 66616,
+  "output_root": "D:/HEST1000BenchRun/COUNT-HEST-SHARED-K32-001",
+  "preflight": "5/5 independently audited",
+  "final_audit_watcher_session": 33857,
+  "accepted_samples": 1000,
+  "final_audit": "D:\\HEST1000BenchRun\\COUNT-HEST-SHARED-K32-001\\FINAL_VERIFICATION.json"
+}

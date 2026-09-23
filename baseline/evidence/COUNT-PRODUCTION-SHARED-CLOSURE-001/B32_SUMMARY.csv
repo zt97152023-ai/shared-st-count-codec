@@ -1,0 +1,2 @@
+arm,n_success,n_expected,coverage_complete,pooled_total_bytes,mean_total_bytes,median_total_bytes,support_stream,value_stream,support_model,value_model_and_group_map,graph_index,identity_coordinates_metadata,mapping,manifest,zip_framing
+B32,50,50,True,88784525,1775690.5,973904.5,42575829,39464206,931955,485053,930262,4222029,0,111991,63200

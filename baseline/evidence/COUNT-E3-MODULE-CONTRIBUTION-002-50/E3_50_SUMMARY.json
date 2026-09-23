@@ -1,0 +1,178 @@
+{
+  "task": "COUNT-E3-MODULE-CONTRIBUTION-002-50",
+  "phase": "direct_50_expansion",
+  "samples": [
+    "NCBI180",
+    "SPA58",
+    "SPA37",
+    "NCBI383",
+    "MEND24",
+    "SPA8",
+    "NCBI761",
+    "NCBI289",
+    "SPA149",
+    "NCBI410",
+    "MEND23",
+    "NCBI299",
+    "NCBI770",
+    "NCBI337",
+    "SPA33",
+    "NCBI176",
+    "SPA96",
+    "SPA14",
+    "NCBI491",
+    "MEND124",
+    "NCBI709",
+    "NCBI844",
+    "NCBI435",
+    "NCBI812",
+    "NCBI629",
+    "NCBI796",
+    "NCBI452",
+    "MEND140",
+    "TENX50",
+    "ZEN65",
+    "MISC14",
+    "NCBI729",
+    "ZEN47",
+    "MEND84",
+    "NCBI542",
+    "INT17",
+    "TENX118",
+    "TENX96",
+    "TENX135",
+    "TENX110",
+    "TENX124",
+    "TENX127",
+    "TENX126",
+    "TENX136",
+    "TENX117",
+    "TENX137",
+    "TENX111",
+    "TENX131",
+    "TENX129",
+    "TENX128"
+  ],
+  "planned_rows": 250,
+  "observed_rows": 250,
+  "pooled": {
+    "full": {
+      "n": 50,
+      "total_archive_bytes": 88884058,
+      "mean_archive_bytes": 1777681.16,
+      "median_archive_bytes": 974325.5,
+      "all_exact": true
+    },
+    "no_support": {
+      "n": 50,
+      "total_archive_bytes": 93017038,
+      "mean_archive_bytes": 1860340.76,
+      "median_archive_bytes": 1082384.0,
+      "all_exact": true
+    },
+    "no_value": {
+      "n": 50,
+      "total_archive_bytes": 648131973,
+      "mean_archive_bytes": 12962639.46,
+      "median_archive_bytes": 5879806.0,
+      "all_exact": true
+    },
+    "no_spatial": {
+      "n": 50,
+      "total_archive_bytes": 94318085,
+      "mean_archive_bytes": 1886361.7,
+      "median_archive_bytes": 1081326.0,
+      "all_exact": true
+    },
+    "no_sharing": {
+      "n": 50,
+      "total_archive_bytes": 89735290,
+      "mean_archive_bytes": 1794705.8,
+      "median_archive_bytes": 995649.0,
+      "all_exact": true
+    }
+  },
+  "paired_vs_full": {
+    "no_support": {
+      "total_delta_bytes": 4132980,
+      "mean_delta_bytes": 82659.6,
+      "median_delta_bytes": 18509.5,
+      "min_delta_bytes": -200,
+      "max_delta_bytes": 843531,
+      "n_increase": 46,
+      "n_decrease": 4,
+      "n_tie": 0,
+      "pooled_increase_percent": 4.649855208005917
+    },
+    "no_value": {
+      "total_delta_bytes": 559247915,
+      "mean_delta_bytes": 11184958.3,
+      "median_delta_bytes": 4864100.5,
+      "min_delta_bytes": 492310,
+      "max_delta_bytes": 63857116,
+      "n_increase": 50,
+      "n_decrease": 0,
+      "n_tie": 0,
+      "pooled_increase_percent": 629.1880991752199
+    },
+    "no_spatial": {
+      "total_delta_bytes": 5434027,
+      "mean_delta_bytes": 108680.54,
+      "median_delta_bytes": 17023.0,
+      "min_delta_bytes": -11623,
+      "max_delta_bytes": 1203343,
+      "n_increase": 36,
+      "n_decrease": 14,
+      "n_tie": 0,
+      "pooled_increase_percent": 6.1136126345626565
+    },
+    "no_sharing": {
+      "total_delta_bytes": 851232,
+      "mean_delta_bytes": 17024.64,
+      "median_delta_bytes": 19137.5,
+      "min_delta_bytes": -2866,
+      "max_delta_bytes": 33806,
+      "n_increase": 48,
+      "n_decrease": 2,
+      "n_tie": 0,
+      "pooled_increase_percent": 0.957688047951186
+    }
+  },
+  "full_component_ledger": {
+    "support_stream": {
+      "total_bytes": 42717492,
+      "share_of_full_pooled_archive": 0.48059790429460364
+    },
+    "value_stream": {
+      "total_bytes": 39464206,
+      "share_of_full_pooled_archive": 0.4439964475969358
+    },
+    "support_model": {
+      "total_bytes": 898355,
+      "share_of_full_pooled_archive": 0.010107043042521753
+    },
+    "value_model_and_group_map": {
+      "total_bytes": 485053,
+      "share_of_full_pooled_archive": 0.0054571428320700655
+    },
+    "graph_index": {
+      "total_bytes": 930262,
+      "share_of_full_pooled_archive": 0.010466016301820964
+    },
+    "identity_coordinates_metadata": {
+      "total_bytes": 4222029,
+      "share_of_full_pooled_archive": 0.04750040777841174
+    },
+    "manifest": {
+      "total_bytes": 103461,
+      "share_of_full_pooled_archive": 0.0011639995104633948
+    },
+    "zip_framing": {
+      "total_bytes": 63200,
+      "share_of_full_pooled_archive": 0.0007110386431726599
+    }
+  },
+  "all_exact": true,
+  "all_ledgers_sum": true,
+  "protected_data_used": false
+}

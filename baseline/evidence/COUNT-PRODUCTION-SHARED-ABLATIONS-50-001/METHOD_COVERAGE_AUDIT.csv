@@ -1,0 +1,13 @@
+parameter_or_module,category,scope,status,evidence,limitation
+value group count K,verified_50_sample,prior K scan + fixed in this task,verified,VALUE_BEST_OF_9_50_005; VALUE_K64_K128_50_006,development panel only
+support predecessor M_s,verified_50_sample,M0/M6 paired support predecessor task,verified,COUNT-SUPPORT-PREDECESSOR-50-001,no protected confirmation
+support bucket B_s,verified_50_sample,B1/B2/B4/B8/B16,verified,COUNT-PRODUCTION-SHARED-ABLATIONS-50-001,finite frozen grid
+value context S0V0/S1V0/S0V1/S1V1,verified_50_sample,full physical bytes and exact decode,verified,CONTEXT_SUMMARY.csv; SEMANTIC_AUDIT.json,not a biological causal claim
+spot order and inverse mapping,verified_50_sample,original/canonical/three fixed permutations,verified,ORDER_SUMMARY.csv; ORDER_PAIRED_COMPARISON.csv,not universal order invariance
+Q12 boundaries,design_constant,nested frozen boundaries,verified_as_protocol,PROTOCOL.json,no post-result boundary search
+Q12 precision=12,invariant,codec contract and exact decoding,invariant,decoder_protocol.md; exact recovery,not independently optimized here
+half-count smoothing / singleton shrinkage / tail prior,design_constant,shared value/support model,inherited,support_model_spec.md; value_model_spec.md,no low-value isolated search
+"odds regularization, truncation, bisection",invariant,shared model implementation,inherited,support_model_spec.md; value_model_spec.md,engineering constants
+rANS lower bound 2^23,invariant,stream codec,validated_by_exact_decode,decoder_protocol.md; all accepted archives,not a search target
+ZIP_STORED archive framing,verified_50_sample,physical byte ledger,verified,FINAL_VERIFICATION.json,filesystem/archive overhead is implementation-specific
+random-access design,unverified,not exercised by this ablation,unverified,none,no random-access performance claim

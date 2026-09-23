@@ -1,0 +1,3 @@
+# Orchestration interruption
+
+The first formal runner process ended after 311 of 400 arms because its external execution session terminated. No codec failure was recorded and no accepted archive was altered. The only in-progress arm, `TENX135/ROW_M06/attempt01`, had a completed, hash-verifiable archive, but the parent process had not written the decode resource receipt. The resume procedure preserves that physical archive, performs a new fresh-process decode into a separate output directory, and completes exact verification and the physical ledger. It then runs the 88 untouched pending arms. The event is recorded in `INTERRUPTIONS.json` and is not treated as a codec retry.

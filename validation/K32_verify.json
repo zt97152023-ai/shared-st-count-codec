@@ -1,0 +1,44 @@
+{
+  "checks": {
+    "dtype": true,
+    "shape": true,
+    "csr": true,
+    "canonical": true,
+    "indptr": true,
+    "indices": true,
+    "counts": true,
+    "metadata": true,
+    "all": true,
+    "gene_ids": true,
+    "spot_ids": true,
+    "coordinates_dtype": true,
+    "coordinates_shape": true,
+    "coordinates_base64": true
+  },
+  "canonical_sha256": "b1be85708667a11a42479bef28101339e6c9322ec1710356dafba74318d6ae0d",
+  "metadata_sha256": "2ace0619eb0e44892eecd507ec3ad545a5023d903b2e3012f6ec3ddef413e58b",
+  "decoded_canonical_csr_arrays": {
+    "values": {
+      "shape": [
+        18
+      ],
+      "dtype": "<i8",
+      "nbytes": 144
+    },
+    "indices": {
+      "shape": [
+        18
+      ],
+      "dtype": "<i4",
+      "nbytes": 72
+    },
+    "indptr": {
+      "shape": [
+        9
+      ],
+      "dtype": "<i4",
+      "nbytes": 36
+    }
+  },
+  "worker_seconds": 0.2666983999952208
+}

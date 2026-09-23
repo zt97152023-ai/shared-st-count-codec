@@ -1,0 +1,5 @@
+arm,paired_n,pooled_delta_vs_original,mean_delta_vs_original,wins_smaller,ties,losses_larger
+CANONICAL_SPATIAL,50,392012,7840.24,12,0,38
+RANDOM_SEED_11,50,1066859,21337.18,0,0,50
+RANDOM_SEED_23,50,1055660,21113.2,1,0,49
+RANDOM_SEED_37,50,1052769,21055.38,2,0,48

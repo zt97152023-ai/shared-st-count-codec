@@ -1,0 +1,31 @@
+{
+  "samples": 1000,
+  "provider_ids_unique": 1000,
+  "pinned_revisions": 1000,
+  "etag_matches_historical_sha256": 1000,
+  "upstream_metadata_accession_present": 1,
+  "rights_flags": {
+    "original_label_requires_clarification": 457,
+    "provider_label_retained_not_individual_legal_clearance": 543
+  },
+  "original_licenses": {
+    "Internal": 24,
+    "CC BY 4.0": 231,
+    "CC BY NC 3.0": 22,
+    "": 433,
+    "Creative Commons Attribution 4.0 International License": 17,
+    "Creative Commons Attribution NonCommercial License 4.0": 66,
+    "CC BY": 20,
+    "CC BY-NC-ND 4.0 DEED": 4,
+    "Creative Commons Attribution 4.0": 22,
+    "Creative Commons Attribution 4.0 International": 65,
+    "CC BY-NC 4.0": 1,
+    "Creative Commons Attribution": 95
+  },
+  "revision_counts": {
+    "8b42ca7f80bc475644ac9a520bba7b9cccbce10d": 1000
+  },
+  "metadata_csv_sha256": "e935d49b8d644064c4162956c8f0851c09a3cb526143bc91a4fc3f072a232a50",
+  "manifest_sha256": "44ecf2ffe430bf3cf1056170ca5927edf5790e8859c82fe3d38ad58338726fc0",
+  "file_bytes_rehashed_this_turn": false
+}

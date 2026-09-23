@@ -1,0 +1,12 @@
+{
+  "n_samples": 1000,
+  "total_archive_bytes": 2353229497.0,
+  "mean_archive_bytes": 2353229.497,
+  "median_archive_bytes": 761289,
+  "payload_stream_bytes": 2213862706.0,
+  "paid_model_bytes": 31279544.0,
+  "graph_index_bytes": 13217837.0,
+  "identity_coordinates_bytes": 91881267.0,
+  "manifest_bytes": 1724143.0,
+  "zip_framing_bytes": 1264000.0
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.h5ad
+*.cnt
+*.tif
+*.tiff
+*.pt
+*.pth
+smoke_output/

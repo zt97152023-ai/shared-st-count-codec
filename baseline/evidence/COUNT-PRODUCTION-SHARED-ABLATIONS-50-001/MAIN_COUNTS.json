@@ -1,0 +1,8 @@
+{
+  "order": 250,
+  "context_new": 100,
+  "bucket_new": 200,
+  "samples": 50,
+  "context_anchor": 100,
+  "bucket_anchor": 50
+}

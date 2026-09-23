@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "mode": "shared-only",
+  "package_bytes": 4075,
+  "package_sha256": "e64916cb70e37a9a816f1cd5a75f513eec25f8dde61d88aaac593f4984f9ac3d",
+  "canonical_sha256": "b1be85708667a11a42479bef28101339e6c9322ec1710356dafba74318d6ae0d",
+  "metadata_sha256": "2ace0619eb0e44892eecd507ec3ad545a5023d903b2e3012f6ec3ddef413e58b",
+  "components": {
+    "metadata.bz2": 241,
+    "support.rans": 7,
+    "graph.bz2": 69,
+    "base_probability.bz2": 47,
+    "shared_odds.u32": 224,
+    "value_q1.bz2": 58,
+    "value_group.bz2": 40,
+    "value_base_k.bz2": 92,
+    "value_odds.u32": 224,
+    "value_cond_k.bz2": 173,
+    "values.rans": 15
+  },
+  "framing_bytes": 2885,
+  "value_cdf_sha256": "01189a435562118c9773626c96689db93337c85dbb71ea3c24fa9ad97c4d76a7",
+  "value_nll_bits": 89.88686063045232,
+  "shared_q1_mode": 0,
+  "exceptions": 0,
+  "group_diagnostics": {
+    "requested_K": 8,
+    "effective_K": 5,
+    "empty_groups": 3,
+    "gene_counts": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "positive_events": [
+      0,
+      5,
+      0,
+      0,
+      0,
+      4,
+      5,
+      4
+    ],
+    "tail_events_by_group": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      2,
+      4,
+      3
+    ],
+    "bounds": [
+      1,
+      2,
+      4,
+      8,
+      16,
+      64,
+      256
+    ],
+    "base_prepare_seconds": 0.22019219999492634,
+    "conditional_prepare_seconds": 0.36849500000244007,
+    "empty_conditional_cells": 52,
+    "prior_only_tail_cells": 53
+  },
+  "worker_seconds": 5.364497000002302
+}

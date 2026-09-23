@@ -1,0 +1,8 @@
+{
+  "n_samples": 50,
+  "full_bytes": 88884058.0,
+  "no_support_context_bytes": 93024988.0,
+  "no_spatial_bytes": 94318085.0,
+  "full_minus_no_support_context_bytes": -4140930.0,
+  "full_minus_no_spatial_bytes": -5434027.0
+}

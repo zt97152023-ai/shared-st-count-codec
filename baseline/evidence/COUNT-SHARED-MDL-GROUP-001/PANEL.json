@@ -1,0 +1,47 @@
+[
+  {
+    "sid": "NCBI692",
+    "counts": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-EXTERNAL-001\\canonical_input\\NCBI692\\counts.npz",
+    "metadata": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-EXTERNAL-001\\canonical_input\\NCBI692\\metadata.json",
+    "shared": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-GENERALIZATION-001\\count_main_v1\\NCBI692\\shared-only\\count.cnt",
+    "file_hashes": {
+      "counts": "ef7d5d8c0bc55173ac3e8bd294955d69e10bea93897e4913e59b4f95cc766729",
+      "metadata": "29bd3ba4b3267a1ef872df7bb8b4772aabbb761839eb70924af21dd80ae1ef7f",
+      "shared": "f54fb13634a8ea64480e8c966a04e190aebcb09c1d96fd3e06e2f54d1d007754"
+    },
+    "shape": [
+      370,
+      36601
+    ]
+  },
+  {
+    "sid": "NCBI715",
+    "counts": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-EXTERNAL-001\\canonical_input\\NCBI715\\counts.npz",
+    "metadata": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-EXTERNAL-001\\canonical_input\\NCBI715\\metadata.json",
+    "shared": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-GENERALIZATION-001\\count_main_v1\\NCBI715\\shared-only\\count.cnt",
+    "file_hashes": {
+      "counts": "e8cdde3fd2d98295beceff11419911d361004fa41dd26e0564763d7b8192ecd5",
+      "metadata": "f1668a273238eed5303c66025b481933a4e4e657eed770f0a2cf47403bb38a1d",
+      "shared": "110714d95aedc8c351819dd7d877c5bb1a8433d5098d2109f47a9eac3c4bc17d"
+    },
+    "shape": [
+      2857,
+      32285
+    ]
+  },
+  {
+    "sid": "NCBI618",
+    "counts": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-EXTERNAL-001\\canonical_input\\NCBI618\\counts.npz",
+    "metadata": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-EXTERNAL-001\\canonical_input\\NCBI618\\metadata.json",
+    "shared": "E:\\count\u538b\u7f29\\baseline\\evidence\\COUNT-HYBRID-GENERALIZATION-001\\count_main_v1\\NCBI618\\shared-only\\count.cnt",
+    "file_hashes": {
+      "counts": "1171eaae1730cfed6db834955155d4d18f87bd692a0f353362aae4e2636f9da3",
+      "metadata": "23deefb101dc1a33a2e3bb18e8a82d5ee1697fbc757c5ac3cc9b82af395f6486",
+      "shared": "7dea21df1715819bc04b979d9cb2d939afdc033e3b371ce7864257150fe92a2b"
+    },
+    "shape": [
+      4992,
+      31053
+    ]
+  }
+]

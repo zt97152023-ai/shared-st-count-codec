@@ -1,0 +1,1400 @@
+[
+  {
+    "path": "baseline/.ai/tasks/COUNT-E3-MODULE-CONTRIBUTION-001.json",
+    "source": "E:\\count压缩\\baseline\\.ai\\tasks\\COUNT-E3-MODULE-CONTRIBUTION-001.json",
+    "bytes": 4298,
+    "sha256": "00a64616d7d473cced927df384be057df066f34166cff5f7be44d9ac32bd6830"
+  },
+  {
+    "path": "baseline/.ai/tasks/COUNT-E3-MODULE-CONTRIBUTION-002-50.json",
+    "source": "E:\\count压缩\\baseline\\.ai\\tasks\\COUNT-E3-MODULE-CONTRIBUTION-002-50.json",
+    "bytes": 5551,
+    "sha256": "fe06bbc4a18ef817ce137943cbab5100834b716c889de50cac68e49e7328b7b8"
+  },
+  {
+    "path": "baseline/.ai/tasks/COUNT-HEST-SHARED-K32-001.json",
+    "source": "E:\\count压缩\\baseline\\.ai\\tasks\\COUNT-HEST-SHARED-K32-001.json",
+    "bytes": 1640,
+    "sha256": "0c2f5ef37c67cf956d5a63a1ecc6cbacf2fabcfe31803159c6844bb1e4933387"
+  },
+  {
+    "path": "baseline/.ai/tasks/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001.json",
+    "source": "E:\\count压缩\\baseline\\.ai\\tasks\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001.json",
+    "bytes": 5087,
+    "sha256": "1d81dd09aabfc86b7fab2162cc4401a86179cd586cda6d5129f2b0f1f42c10e0"
+  },
+  {
+    "path": "baseline/.ai/tasks/COUNT-PRODUCTION-SHARED-CLOSURE-001.json",
+    "source": "E:\\count压缩\\baseline\\.ai\\tasks\\COUNT-PRODUCTION-SHARED-CLOSURE-001.json",
+    "bytes": 3482,
+    "sha256": "f77c9aacdd34df58cc4dd46346e382a6abf6fb23edb969ad43b1b0ed3af51eae"
+  },
+  {
+    "path": "baseline/.ai/tasks/COUNT-SHARED-MDL-GROUP-001.json",
+    "source": "E:\\count压缩\\baseline\\.ai\\tasks\\COUNT-SHARED-MDL-GROUP-001.json",
+    "bytes": 1870,
+    "sha256": "8ef5035d7904462a005d6a264edb05b0c55a04325985a33c69ff2a0e3f5443d7"
+  },
+  {
+    "path": "baseline/.ai/tasks/COUNT-SUPPORT-PREDECESSOR-50-001.json",
+    "source": "E:\\count压缩\\baseline\\.ai\\tasks\\COUNT-SUPPORT-PREDECESSOR-50-001.json",
+    "bytes": 3149,
+    "sha256": "94d64d1762580563e5b54b4a2404248716056946dff890716f4acef073531df6"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E1-100/runtime/codec.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E1-100\\runtime\\codec.py",
+    "bytes": 10113,
+    "sha256": "0cb5669fe8b5bd0fe5439d84fb85f7a00fd9083a3e9a6ea3285497d91e8590bb"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E1-100/runtime/entropy.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E1-100\\runtime\\entropy.py",
+    "bytes": 4044,
+    "sha256": "17931146bdc79fbcb5ea0ab2dbb17acd833c8d32f52df9325d5dbffd712bc4c6"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E1-100/runtime/io047.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E1-100\\runtime\\io047.py",
+    "bytes": 11160,
+    "sha256": "594bd107f2bacd4636778b5aa5609b6139ebe319124909126ace82ff3b71124f"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E1-100/runtime/run.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E1-100\\runtime\\run.py",
+    "bytes": 7471,
+    "sha256": "4e9c72640ccc26e267fc8eac999a8815d52a0a6399814781835b87f85d6d2695"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E1-100/runtime/test_pilot.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E1-100\\runtime\\test_pilot.py",
+    "bytes": 5248,
+    "sha256": "ab2a924c8b1d32b46e08e59a15b0fca5d84614fc82d823ea0f04e60280df4885"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/direct_context_50_summary.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\direct_context_50_summary.json",
+    "bytes": 232,
+    "sha256": "ab0df8dba49ff62d6df0e6a3a23cdf3ccad5687fc556408fe3cfe654e359a70b"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/e3_codec.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\e3_codec.py",
+    "bytes": 8209,
+    "sha256": "8066d072f72359af47049e8c0962cdcdcc2281ad77888c2e5f77762cdad41941"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/E3_COMPONENT_LEDGER.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\E3_COMPONENT_LEDGER.csv",
+    "bytes": 1385,
+    "sha256": "1ea5e7ce0dc64114a9b7dfb5a6395290adb49b0999051f3f1d4e681a71cbb0aa"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/E3_DIRECT_ABLATION.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\E3_DIRECT_ABLATION.csv",
+    "bytes": 6279,
+    "sha256": "0e3855bd29e47c071176cabd2ee617143bd6f73f795a1a558e3aef60cb7979d3"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/E3_FIVE_ARM_STATUS.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\E3_FIVE_ARM_STATUS.csv",
+    "bytes": 908,
+    "sha256": "c53808d69c8d385df7399614ed5c87c682d55c5d98dd86a24823cfd78c9c1455"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/E3_PILOT_SUMMARY.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\E3_PILOT_SUMMARY.json",
+    "bytes": 1090,
+    "sha256": "6a42f9672a0b0b5260388ee5e60de805776cb60559e8cb02b9731a1848da5c18"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/e3_worker.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\e3_worker.py",
+    "bytes": 2560,
+    "sha256": "0e343d1435ebd95b0ffa9a7c02a605a6c2e528d65dae0b9d974e356cbd9efe5c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/full_component_summary_1000.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\full_component_summary_1000.csv",
+    "bytes": 486,
+    "sha256": "de5e603f1f531b8bcca9f9d122b7e05b5b948483b616a60a0bc1eda1178e35f7"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/full_ledger_summary.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\full_ledger_summary.json",
+    "bytes": 364,
+    "sha256": "d64b2ca3ad532d13c19a0aea6917ee176b9795b3a623d42a97cadb68f87e2f55"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/make_pilot_summary.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\make_pilot_summary.py",
+    "bytes": 4654,
+    "sha256": "8ebbf8c579f7c8225d8f9c280aec322bedc4d3e1a60509c26371fbc2c252dc3e"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/README.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\README.md",
+    "bytes": 3402,
+    "sha256": "a1759f87bbf3d51729d11f71a3d7cb55978c04e59f95b0b598cc47a9fd9c070e"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/RESULT.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\RESULT.md",
+    "bytes": 2375,
+    "sha256": "025ed3a5d0764ceeddc215c3018c0359f77fb9aae4197dab7cd5dbdcb67966fa"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/SCOPE_AUDIT.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\SCOPE_AUDIT.md",
+    "bytes": 1114,
+    "sha256": "9373137004d0f0099f2b2a869d03dfa39d970682870d9bec2287706546bec702"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/STATUS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\STATUS.json",
+    "bytes": 768,
+    "sha256": "15ab822fcaa61c2d361297f0858212ead265ff7b260a2dc2c2bccd8f18bc2ff4"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/audit_50.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\audit_50.py",
+    "bytes": 2893,
+    "sha256": "c7c5406d7ce73712a93899e7654c0842bad5458762666871064fedac304607dc"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/E3_50_SUMMARY.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\E3_50_SUMMARY.json",
+    "bytes": 4371,
+    "sha256": "6f3525f7bdbed47bfd946c147a3ec9191ec0f32d40eb3ab04285992f4aa40729"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/e3_codec.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\e3_codec.py",
+    "bytes": 8209,
+    "sha256": "8066d072f72359af47049e8c0962cdcdcc2281ad77888c2e5f77762cdad41941"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/E3_COMPONENT_LEDGER_50.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\E3_COMPONENT_LEDGER_50.csv",
+    "bytes": 19298,
+    "sha256": "d7ffbfa8136f0dc913edbbb5f2493a67a80560c0fafa24bd2b9d773efc668eaf"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/E3_DIRECT_ABLATION_50.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\E3_DIRECT_ABLATION_50.csv",
+    "bytes": 100525,
+    "sha256": "8205bdb70bfbb50d49e03c4a1cb8d8e054b9ea94bb5f6c0de35fdc35bff27b11"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/E3_PAIRED_DELTAS_50.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\E3_PAIRED_DELTAS_50.csv",
+    "bytes": 7661,
+    "sha256": "32afd4b068435aa4ce1f80828deb9c100efd9d1a5cfe826edc17c9efbd7a6a5a"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/e3_worker.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\e3_worker.py",
+    "bytes": 2560,
+    "sha256": "0e343d1435ebd95b0ffa9a7c02a605a6c2e528d65dae0b9d974e356cbd9efe5c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/GATE_CHECK_SCHEMA_NOTE.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\GATE_CHECK_SCHEMA_NOTE.md",
+    "bytes": 477,
+    "sha256": "13639299a355b9fcf94ad7e67dc5726c514178bec3f6198ac9433e71f89c6366"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/INDEPENDENT_AUDIT.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\INDEPENDENT_AUDIT.json",
+    "bytes": 1857,
+    "sha256": "bf764188ac91cd522eb4bd20a59bcafe9861efa5757737112a4efc088ea26490"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/make_summary_50.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\make_summary_50.py",
+    "bytes": 6021,
+    "sha256": "76921968576afedfab1dae54c9964ad201269587c452b9a3aade3c53786c8370"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/PANEL.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\PANEL.json",
+    "bytes": 1055,
+    "sha256": "c1e216968067dcaab92eaf8c383c7c968d4ca684f81a7c36333beaf327e7ee0b"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/PARENT_E3_FIVE_ARM_STATUS.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\PARENT_E3_FIVE_ARM_STATUS.csv",
+    "bytes": 908,
+    "sha256": "c53808d69c8d385df7399614ed5c87c682d55c5d98dd86a24823cfd78c9c1455"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/RESULT.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\RESULT.md",
+    "bytes": 2281,
+    "sha256": "b494147fa851eb7ceb91a1c60af9caec2955544b4c544e398a90037e4f85e929"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/run_50.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\run_50.py",
+    "bytes": 4963,
+    "sha256": "a96e960c20adcfb67c80f332f481e2f0645b9ec46b03a733a00588a26069a44d"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/RUN_STATUS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\RUN_STATUS.json",
+    "bytes": 112,
+    "sha256": "1f22c03d649b6728120885531b01ba25a1ec32494d5fd1eaf097cc8a0fe60a95"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/verify_50.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\verify_50.py",
+    "bytes": 4208,
+    "sha256": "b9aba421ddb26cd41c1106fdf9e6558600ccbebc6d7b942b3e434c090e45fcd9"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/VERIFY_STATUS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\VERIFY_STATUS.json",
+    "bytes": 121,
+    "sha256": "b238c9e0a19a7d9e143896ed38e4468836db980c566634ffd2537dd7e06a335c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-CONSOLIDATED/ARCHIVE_LINKS.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-CONSOLIDATED\\ARCHIVE_LINKS.md",
+    "bytes": 845,
+    "sha256": "8230a0e48e5c850307086b6416f3fa55c66328dcfd36365aa9f346e853fca27d"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-CONSOLIDATED/ARTIFACT_MANIFEST.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-CONSOLIDATED\\ARTIFACT_MANIFEST.csv",
+    "bytes": 2679,
+    "sha256": "446a1dc5f085a11e880a110d2c81b136d8f6b77215ba7ba87c8cbddafbe57fa4"
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-CONSOLIDATED/README.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-CONSOLIDATED\\README.md",
+    "bytes": 2341,
+    "sha256": "81086d2589633bff37dc951eb49047a74cee5fa5846eb3ea9cf50c72be246a03"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/audit_final.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\audit_final.py",
+    "bytes": 5874,
+    "sha256": "09415ff5902b011b831dff1c74ad14f1af6c1a57ac46032b4bd28af4c5e5ff07"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/common.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\common.py",
+    "bytes": 3029,
+    "sha256": "a00fc2873cd3b0275e329896efa79ecdfb0f7a903dd82ba1793137f9aae6f1da"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/DATA_SPLIT.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\DATA_SPLIT.csv",
+    "bytes": 619682,
+    "sha256": "44ecf2ffe430bf3cf1056170ca5927edf5790e8859c82fe3d38ad58338726fc0"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/FINAL_VERIFICATION.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\FINAL_VERIFICATION.json",
+    "bytes": 4451455,
+    "sha256": "9350eaa2d76a8959b0815f6baa02a336fed3b85d98bc9d614542c7984a272bee"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/finalize_when_done.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\finalize_when_done.py",
+    "bytes": 2495,
+    "sha256": "5d7ea304eb5697562e540addfc20f33c5857f0e2fb73eb992a1d0ad00f4d0d76"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/helpers.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\helpers.py",
+    "bytes": 5133,
+    "sha256": "d819a9576c0c9efcf0d805843067e98727f81bbdc3309d538571adb9d5b765dd"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/PINS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PINS.json",
+    "bytes": 3152,
+    "sha256": "f1f340e283332a2cf5dce8c69d946606abcc24e52b5a794e78a5363edda3fa13"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/preflight.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\preflight.py",
+    "bytes": 1126,
+    "sha256": "47aaad46122ffea2c69da22e5a9b9f042f55741d2f3764972fed846b89afe777"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/PREFLIGHT_POINTER.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PREFLIGHT_POINTER.json",
+    "bytes": 81,
+    "sha256": "d76c9c8b1a3b376f733ef54f6720dcaac0335bbe5a46439ff98caf93bfb32e8c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/PROTOCOL.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\PROTOCOL.json",
+    "bytes": 2470,
+    "sha256": "b014fa620992f14e3710bdf9d762ec0f5ebfdff6b1b99b0a93b116cfb516af4c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/publish_metadata.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\publish_metadata.py",
+    "bytes": 549,
+    "sha256": "a6b7d1fd4061b2d891e933cda5f13a1aeb6c4bc3a7f61b799adc2c98902291e7"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/README.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\README.md",
+    "bytes": 3713,
+    "sha256": "ec1dbc42cfbc0560b4175e5bab2b1a0a64cdf4642db43598840f55e8d1e14140"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/REVIEW.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\REVIEW.md",
+    "bytes": 2969,
+    "sha256": "1d0209b20f41a38cbb4fbe8c86a6b688b02c46d0c9b2f6618d95f1f678ce0ec0"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/REVIEW_PREFLIGHT.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\REVIEW_PREFLIGHT.json",
+    "bytes": 1977,
+    "sha256": "bd9c2d5e3e2264d02f62ad3939c49277aad5b2854faec011ce20efe02085c923"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/REVIEW_RELEASE.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\REVIEW_RELEASE.json",
+    "bytes": 5527,
+    "sha256": "34a5d669f705b3b54336e78e26048f72fb658926975cbf1edd5042ea1ea8c775"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/run.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\run.py",
+    "bytes": 3551,
+    "sha256": "f3be92b0e02894b837e652c9f4d03799a421ca1009d6d8df9c05561a9a8133ec"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/run_core.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\run_core.py",
+    "bytes": 9309,
+    "sha256": "a5b8cba953a737ec14c63b39e8dea500d07f2240d59714a5fa7b1713ccadfce7"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/RUN_PINS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\RUN_PINS.json",
+    "bytes": 941,
+    "sha256": "6a340f7e2819892e9107dadf455cdf49de51f0b39f981cbc1eabd27408025be7"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/setup.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\setup.py",
+    "bytes": 4496,
+    "sha256": "7301f07b2252b06abfcb3ce52b95e96f84de366618ed80ad73959deb4ad468de"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/summarize.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\summarize.py",
+    "bytes": 6892,
+    "sha256": "fdc68b6903c7c6a04eaa8e3e7447b26d4eec49ee52668d556e8967165a68d3a0"
+  },
+  {
+    "path": "baseline/evidence/COUNT-HEST-SHARED-K32-001/worker.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-SHARED-K32-001\\worker.py",
+    "bytes": 9307,
+    "sha256": "3cf3215b4add57272a7a24bbda1ce5824d621e3038cdbdece87b5b305e31e738"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/ablation_lib.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\ablation_lib.py",
+    "bytes": 33101,
+    "sha256": "5ecb97421b65451e1afe10d65b72312ac16397fdc953b6d812e21b5217a8080c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/audit.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\audit.py",
+    "bytes": 3495,
+    "sha256": "dd7695374d174adc065ded35fbaaab6720f7692e8b59dfcfa4483c11337f2ff5"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/BUCKET_PER_SAMPLE.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\BUCKET_PER_SAMPLE.csv",
+    "bytes": 47858,
+    "sha256": "2d846df91a2681d9de7a078c47ba22ceddf5505ff0b5491a484f0b8823f8e617"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/BUCKET_STRATIFIED.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\BUCKET_STRATIFIED.csv",
+    "bytes": 4347,
+    "sha256": "8c3d6d7d604915391eef5c4e0c6f5bad42d1c32c6aff807068a2ad12c63e79b0"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/BUCKET_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\BUCKET_SUMMARY.csv",
+    "bytes": 761,
+    "sha256": "8448d50054a5c553adc98cc917c1a717a24ba71df4665bf9ca332190aa848143"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/CONTEXT_DECOMPOSITION.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\CONTEXT_DECOMPOSITION.csv",
+    "bytes": 2950,
+    "sha256": "fd2fb2625437d3b83719573cfe62c29fe68648dcd73f427390d23fee5ad37b8d"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/CONTEXT_PER_SAMPLE.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\CONTEXT_PER_SAMPLE.csv",
+    "bytes": 30140,
+    "sha256": "258b9d5880400d39fdcf60ce31130df4c309986040e18b62bc10e2aa99fd74b5"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/CONTEXT_STRATIFIED.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\CONTEXT_STRATIFIED.csv",
+    "bytes": 2296,
+    "sha256": "1bedad73de607f8ee4cbcf45328f2aa091c56f04734a7f4fa3763b8d480ecc98"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/CONTEXT_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\CONTEXT_SUMMARY.csv",
+    "bytes": 538,
+    "sha256": "d989ee55d1cac020d147dce719e5b8872dcdcd7bf4af30a600930914130a2bfd"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/FIGURE_DATA.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\FIGURE_DATA.csv",
+    "bytes": 587,
+    "sha256": "27b29724d61945ec00606a52ef14cb0228c058cfd76b5e65c51a25dbf9b1f533"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/FINAL_VERIFICATION.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\FINAL_VERIFICATION.json",
+    "bytes": 196614,
+    "sha256": "2fdd45facfc5f1b8dbfcff8296902c145029a2088ec0a26e3d6d2d9d4f1c6fd9"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/INPUT_PINS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\INPUT_PINS.json",
+    "bytes": 8102,
+    "sha256": "b4292482d67e9f66c0f62dfa388c0dd915103982c58417a9347f42b776d92bc0"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/MAIN_COUNTS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\MAIN_COUNTS.json",
+    "bytes": 133,
+    "sha256": "c661d4ebac2c283bf1daea6ff274ca509f9981f3fd53b698c26600524b2ab3fe"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/METHOD_COVERAGE_AUDIT.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\METHOD_COVERAGE_AUDIT.csv",
+    "bytes": 1853,
+    "sha256": "05dbcf5e65bb1881a725439e1679f31a0398fb516101ec1ddc030598a6c18214"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/ORDER_PAIRED_COMPARISON.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\ORDER_PAIRED_COMPARISON.csv",
+    "bytes": 267,
+    "sha256": "4a885ba92068e25c6710771edde2c26b5e15cddcc72b7e018b0e286f724a225c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/ORDER_PER_SAMPLE.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\ORDER_PER_SAMPLE.csv",
+    "bytes": 59904,
+    "sha256": "aa7bc337a2bad2ffc6d446b9a320b22a38ab8d85e6e988f10efd2e6a39f68169"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/ORDER_STRATIFIED.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\ORDER_STRATIFIED.csv",
+    "bytes": 6814,
+    "sha256": "f5424d72c5a1535f3c2f97c9d528be38b47b8a8963f52cf34071379a040038da"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/ORDER_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\ORDER_SUMMARY.csv",
+    "bytes": 706,
+    "sha256": "985b5e06b4a9907320c242ff1dc5ef82b2efa3155a459835f28844f8e293e288"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/PAPER_TABLES.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\PAPER_TABLES.json",
+    "bytes": 21307,
+    "sha256": "510a0cef266554dfd233a706026369bc6cb1afa1063631e176088c279c942937"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/PROTOCOL.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\PROTOCOL.json",
+    "bytes": 2030,
+    "sha256": "f67ceddab5d94fbf6672eedf07491112b49e826835539700da218d0187e1068c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/REPRODUCTION.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\REPRODUCTION.json",
+    "bytes": 1118,
+    "sha256": "65ab6ac133ef06b669740e9ef2b1b3b4be356d07ffb8485befb440dc70e5b38e"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/RESULT.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\RESULT.md",
+    "bytes": 2930,
+    "sha256": "cad9fb3c5c6e3ed88ade1dc64ecbb00876cce450e07ede04e9b82a2d3a32fc43"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/run_core.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\run_core.py",
+    "bytes": 11528,
+    "sha256": "2a67f9f7d9623ec0cf52dcada2d5de9521c234f07d7ae0fbf6dc42e1cc041f4e"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/SEMANTIC_AUDIT.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\SEMANTIC_AUDIT.json",
+    "bytes": 46377,
+    "sha256": "96d7759ffe891b640ddcb59773983fd4c670ec1d7f9789cb5a676e024a58d8dd"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/summarize.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\summarize.py",
+    "bytes": 13466,
+    "sha256": "f035f305913c33d1140256839ebe51ea65965a8463a2de78e17a9187641db8ea"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-ABLATIONS-50-001/worker.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-ABLATIONS-50-001\\worker.py",
+    "bytes": 2283,
+    "sha256": "99c2913f74454e048517fba07fc18c168330de07d46d51049630fedee02bd391"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/analyze_closure.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\analyze_closure.py",
+    "bytes": 6253,
+    "sha256": "6593f841bd347457d52afdf5242c2ab97f3589d07547fc53f39ee9468d3f45ed"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/B32_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\B32_SUMMARY.csv",
+    "bytes": 344,
+    "sha256": "fb9fc06199d99ca57b5093373009320c4fe37a1bf0258ff77723828a6a119218"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/B32_SUPPORT_WIDTH_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\B32_SUPPORT_WIDTH_SUMMARY.csv",
+    "bytes": 459,
+    "sha256": "b0d2f8574451bd7f30afb60c1063856f943739e2e62ca3862d2e60d308d4f4e2"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/B32_VALUE_COUNTS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\B32_VALUE_COUNTS.json",
+    "bytes": 54,
+    "sha256": "4e3eeb269df7a78c56deb3b6d9b8a8c24829a4821167daa1fac663f87e4fea2f"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/B32_VALUE_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\B32_VALUE_SUMMARY.csv",
+    "bytes": 884,
+    "sha256": "9d5ab203a614881bd4c1a1e60c5d8e05b19d8a4d84962c2e02547da29eead946"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/B32_WIDTH_COUNTS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\B32_WIDTH_COUNTS.json",
+    "bytes": 54,
+    "sha256": "f101a41ec38ac5b11ad3c5a0dcfb5b52e50e4601965aac8e187bbe9041fe31dc"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/CLOSURE_FIGURE_DATA.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\CLOSURE_FIGURE_DATA.csv",
+    "bytes": 570,
+    "sha256": "0f2da63281eb431f15ad5658b527c5a6ac6ee60571008b71a462f8d08bf0cf5c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/CLOSURE_METHOD_COVERAGE_AUDIT.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\CLOSURE_METHOD_COVERAGE_AUDIT.csv",
+    "bytes": 712,
+    "sha256": "34b1e31fcdfd52d235d0f84cd1e2afd599867bf4b4b98616f345e49734df6b72"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/CLOSURE_PAPER_TABLES.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\CLOSURE_PAPER_TABLES.json",
+    "bytes": 3471,
+    "sha256": "614bb2505def88d0129f67df7cffd6915dffe36c0f364fc697db9ad09d6abc9b"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/DECODED_RETENTION.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\DECODED_RETENTION.md",
+    "bytes": 375,
+    "sha256": "204f57ee7efa352fd83134dcb0fa7729868b4dca7dea181fa59953ee3d5347c1"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/EFFECTIVE_COVERAGE.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\EFFECTIVE_COVERAGE.json",
+    "bytes": 250,
+    "sha256": "5536754bd094fa581a652349c998f71f2dfdc1231856fb8cbcb21ba3ec65a782"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/FINAL_VERIFICATION.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\FINAL_VERIFICATION.json",
+    "bytes": 3672,
+    "sha256": "23c8d1a149bdf027e85b3ecd11ef05ae6fd93edeb840bdbf4f374c71d0829089"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/finalize_closure.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\finalize_closure.py",
+    "bytes": 9796,
+    "sha256": "f22348895ea67869af89e80ca4f69c8d3dfe7cc39140abee032eb909db6602a6"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/JOINT_SUPPORT_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\JOINT_SUPPORT_SUMMARY.csv",
+    "bytes": 458,
+    "sha256": "56177bd59829f864865feba2dc90f6587e3da4d34631f8a9885fa3e09877e802"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/PER_CASE_RESULTS.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\PER_CASE_RESULTS.csv",
+    "bytes": 27955,
+    "sha256": "63aefc5985cb9021534e5221edf88810bf13599e5c2f090dde02394b559f647c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/PROTOCOL.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\PROTOCOL.json",
+    "bytes": 1152,
+    "sha256": "193f3324ec99db42c9a36a2d0f0fc3e437f1198b5293a379944c41e83465af70"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/repair_tenx96.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\repair_tenx96.py",
+    "bytes": 3468,
+    "sha256": "f1dec89f8ae738bc2554d46ef878b9c1f09f13c3f9c53c4435625aeeb889a1e8"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/reproduce_closure.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\reproduce_closure.py",
+    "bytes": 2917,
+    "sha256": "fd56dad550b86a763670a85b1bcf7f8450483c39099f4c83710898ae1448b51b"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/REPRODUCTION.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\REPRODUCTION.json",
+    "bytes": 1062,
+    "sha256": "508578be7b9ee32929b36b176a20449b3262141a720cfe4f850e8e34f420a9fb"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/RESULT.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\RESULT.md",
+    "bytes": 1814,
+    "sha256": "f9ef73a0784df8f7513c9c0e52c5f310c13e65f185deca45f2a718b1487b2b72"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/retry_closure.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\retry_closure.py",
+    "bytes": 5360,
+    "sha256": "67e979e86fbcb244b5b2b62a7914d10366760cc9c3f43ebe4739ef7887a68081"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/retry_failures.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\retry_failures.py",
+    "bytes": 3420,
+    "sha256": "fc9dd5ae221b8cd6f9ac0d16adeb7e455ea784da45428dcc8ad1c4227d5ae131"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/retry_joint_parallel.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\retry_joint_parallel.py",
+    "bytes": 1579,
+    "sha256": "8ca46c2a379e93c5c04a072df700a04d2bb6321a55365af5f98376329ea23e5e"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/RETRY_JOINT_PARALLEL_COUNTS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\RETRY_JOINT_PARALLEL_COUNTS.json",
+    "bytes": 70,
+    "sha256": "a0260d0be3df0ca6b7b7ff6e569cf08479e793cd295a44289e4d978cbab2dc18"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/RETRY_SUMMARY.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\RETRY_SUMMARY.json",
+    "bytes": 3942,
+    "sha256": "d91e10cad4d68928d698cbe5c104105d0fd5a207dace08fa94ff61ac51d1542f"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/retry_value_parallel.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\retry_value_parallel.py",
+    "bytes": 1697,
+    "sha256": "e882828de51a580c6753a77e052b540bb5ecd9983c54d361cb38bfafb9bf72c1"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/run_b32_support_widths.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\run_b32_support_widths.py",
+    "bytes": 3697,
+    "sha256": "86662c39a6a7da9a1d613ec3855cb84702f60edfbfd558c67eb497775737812e"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/run_b32_value.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\run_b32_value.py",
+    "bytes": 3960,
+    "sha256": "6405f02a3fe73f054bb1f608ba60ab47bfd12e1f56228da76a6a523e2aabffaf"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/run_closure.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\run_closure.py",
+    "bytes": 5528,
+    "sha256": "b3bd86f8bdd96c4dff0426f554df461a376ea1b8dd2eea11fc3461c527387bd0"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/RUN_COUNTS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\RUN_COUNTS.json",
+    "bytes": 127,
+    "sha256": "e9b0ef30779802d6fd4996aee1e886b7bee7530515c6c78c6957a2939ac2c591"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/TENX96_REPAIR_COUNTS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\TENX96_REPAIR_COUNTS.json",
+    "bytes": 50,
+    "sha256": "4e7ab5bf04a9897b336a6911b0ac482cf69132c1f521f892ccab07803ca3fecd"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/VALUE_CONTEXT_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\VALUE_CONTEXT_SUMMARY.csv",
+    "bytes": 878,
+    "sha256": "122f6bf473c0a73ee6e85f2a35350592aad91009ff65b49dbfb30f70fc466c7b"
+  },
+  {
+    "path": "baseline/evidence/COUNT-PRODUCTION-SHARED-CLOSURE-001/VALUE_MEMBER_AUDIT.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-PRODUCTION-SHARED-CLOSURE-001\\VALUE_MEMBER_AUDIT.json",
+    "bytes": 85199,
+    "sha256": "a47e75455d0d2167af83776327b50e86309f0048fef9b13b22f52992b2e1ae4f"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/ACCEPTANCE.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\ACCEPTANCE.json",
+    "bytes": 1614320,
+    "sha256": "d8eab8efa5dc8a08f86b04351896d19bff9a11bf975ee8c4a22d8a009a72be60"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/ALL_RUNS.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\ALL_RUNS.csv",
+    "bytes": 22234,
+    "sha256": "2eb9b70cdcd2f2d3221b875e764b45396870a1a4b7f86129ff939e258d5cc4d4"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/ARTIFACT_MANIFEST.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\ARTIFACT_MANIFEST.json",
+    "bytes": 131202,
+    "sha256": "c3db349e97cdf6d8ab2ae48cac2bce35190a7e6aa3cf12089e1e7da85fa59fe3"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/codec.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\codec.py",
+    "bytes": 7963,
+    "sha256": "48dadcfc86bded01fecfc5e491eb1275bcf75565d5d7fdbbb8e9fa1634ef2a6c"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/model.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\model.py",
+    "bytes": 3199,
+    "sha256": "74bb730768bb0c484dc6e2fedb45c0e1ce87b3aed0d321e1c54ca03e761bc865"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/PANEL.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\PANEL.json",
+    "bytes": 2297,
+    "sha256": "6cdb0b0ca91dbbd1a8f01d112c2d0a6789fd4ec33f45510d036d9ccb806f0d1d"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/PROTOCOL.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\PROTOCOL.md",
+    "bytes": 4174,
+    "sha256": "922a64d08ded1e6aa42bfd0f6240139d8b13b7c40614abdbabc974284155fd3f"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/README.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\README.md",
+    "bytes": 888,
+    "sha256": "a675a24538e1dae87499895c35f0cc8c4084bc78c3d598bfa90d23a2dd95ce37"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/report.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\report.py",
+    "bytes": 6372,
+    "sha256": "b69f0ae9446cf35f8f2df0d85915ced37f7f67f240b4e58799774b2f5fadd244"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/RESULT.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\RESULT.md",
+    "bytes": 5263,
+    "sha256": "da93d2c36640eb3efcebd22481704fdee504af488b38096e7843aea247e73d07"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/run.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\run.py",
+    "bytes": 4767,
+    "sha256": "c202332cc6638d94acd244c3f1bdf3fa678fc5b942ac3ec6cb8171db98b421e3"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\SUMMARY.csv",
+    "bytes": 3775,
+    "sha256": "00d3067cfcf009d94110fae2d77c16f13dba6f3aabcd99424db0141b22489f0d"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/SUMMARY.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\SUMMARY.json",
+    "bytes": 1413316,
+    "sha256": "4da6b353db820ac39c73a35552a08b2bf73759d72ec5a70e0c02a4e90d9b7cbc"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SHARED-MDL-GROUP-001/test_codec.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SHARED-MDL-GROUP-001\\test_codec.py",
+    "bytes": 4550,
+    "sha256": "e3d89716d14c187cb1f6a8f7e6a3b3d5a086564c55021c32db2208b32ba3a7a9"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/analyze.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\analyze.py",
+    "bytes": 8520,
+    "sha256": "2df25fe2a56eca7cc138d9d57213550539d348ae424c13067902c92dc98afaa2"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/ANCHORS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\ANCHORS.json",
+    "bytes": 28210,
+    "sha256": "fb80706987fa02caa961e00696b06d7802bfed0b318171754de46413c034ad11"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/audit_final.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\audit_final.py",
+    "bytes": 2772,
+    "sha256": "1e057f9623c3444c099b6082987d4e6852f6fa4390eddc142aa8ad3b70695c27"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/codec.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\codec.py",
+    "bytes": 13999,
+    "sha256": "183ee310fc6725f78a6959674c2c9acff22a48bf9ab85d2e8b1983941c150afb"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/DATA_SPLIT.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\DATA_SPLIT.csv",
+    "bytes": 56074,
+    "sha256": "6c9eaa78dfd0acc860ae67776943c641f752813c46da7affa999617b75482e9e"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/FINAL_VERIFICATION.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\FINAL_VERIFICATION.json",
+    "bytes": 127,
+    "sha256": "8417b3ed9acc3da8732457ef4055d1eb69b93a76df4bfa2856bbe1e088a41b20"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/FIXED_M_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\FIXED_M_SUMMARY.csv",
+    "bytes": 2107,
+    "sha256": "3e9d5f34fb91bd03afa4c0e0c0f604525aa923f7b6379bdfced76aa0b9574351"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/INTERRUPTION.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\INTERRUPTION.md",
+    "bytes": 682,
+    "sha256": "cc1b0711759241a4628d12655a4b4e30b555a2e2b80a46695cbfc69939fe41df"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/PER_SAMPLE_RESULTS.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\PER_SAMPLE_RESULTS.csv",
+    "bytes": 128874,
+    "sha256": "343f9f0fe6e35d90472c281573f56126ccbd4ce3608da58f70c0b6e629339574"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/PREFLIGHT.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\PREFLIGHT.json",
+    "bytes": 3176,
+    "sha256": "0a4c6882b5425a6af4fc06e38e08d4a836bc62ec4eb641f45d9db93b1ed834c3"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/preflight.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\preflight.py",
+    "bytes": 3086,
+    "sha256": "ede6be7bef86f96e06c48a14d6e428184a2a1c15613aa8b1c1dd73a69ea507b9"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/PREFLIGHT_FAILURES.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\PREFLIGHT_FAILURES.md",
+    "bytes": 448,
+    "sha256": "8c304716537cb93ac8cc5a1af7fca28d1b3834135f96834a239ae9c816b513a1"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/PROTOCOL.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\PROTOCOL.json",
+    "bytes": 2399,
+    "sha256": "f8060ec46d53589e7576f8320f44c35e2dd2d98e51bb30e003ecebb45ae8f0d3"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/REPRODUCTION.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\REPRODUCTION.json",
+    "bytes": 398,
+    "sha256": "31028da4c2755266df116bc89cb8cbcb0a5c1e6df09934435328761129ce7518"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/RESULT.md",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\RESULT.md",
+    "bytes": 1083,
+    "sha256": "2b5e56fe44553d5d689c33c78ad45e375e6f7afcedc2b0f1e990e687e668aee1"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/resume.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\resume.py",
+    "bytes": 9830,
+    "sha256": "21923dd1be8e04f1399689aa8260da5a4717278cb792c6772339356848690bd5"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/RESUME_PIN.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\RESUME_PIN.json",
+    "bytes": 267,
+    "sha256": "657370b6313d615f3e32d03150012e0f1b7ed3695ea32bff459a71b1f0ce9332"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/REVIEW_RELEASE.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\REVIEW_RELEASE.json",
+    "bytes": 637,
+    "sha256": "4fd6a4295e0850283ee10c3f491522d0679128a20a7fa3aa032d5574e4996c38"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/run.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\run.py",
+    "bytes": 11055,
+    "sha256": "fe03301d567759d0b0e3bc0037d7dd252a9eff1d9b99343d2ca41992360da296"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/RUN_PINS.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\RUN_PINS.json",
+    "bytes": 1048,
+    "sha256": "bb640aec2ee3b29980c9c4f630ad08d8afbf335421aaa56d728efb5edc1654ab"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/SELECTION.json",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\SELECTION.json",
+    "bytes": 864,
+    "sha256": "275bbffa26c843b4f27fd411899fe901d3a8abf4346e3604b6889aa0235e717b"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/setup.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\setup.py",
+    "bytes": 2023,
+    "sha256": "555a1fa0a75d6524b20b25dc22689d76bd2b15a6ad90cdb46815d1f49246eed3"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/STRATIFIED_SUMMARY.csv",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\STRATIFIED_SUMMARY.csv",
+    "bytes": 1417,
+    "sha256": "f5ee15367ee776be1519dd67097e50a59a70fa7e6c40b87bbac55842fb086be8"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/support_dynamic.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\support_dynamic.py",
+    "bytes": 7456,
+    "sha256": "038c88a232e7d4c080825fc10124c4ab9929a5e0b8b5a800415abc59a1d9d6bf"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/test_support.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\test_support.py",
+    "bytes": 1399,
+    "sha256": "2ee31390a9607c13a64f05987695eee7bf6a833ec71c030851258856b254e7a0"
+  },
+  {
+    "path": "baseline/evidence/COUNT-SUPPORT-PREDECESSOR-50-001/worker.py",
+    "source": "E:\\count压缩\\baseline\\evidence\\COUNT-SUPPORT-PREDECESSOR-50-001\\worker.py",
+    "bytes": 2679,
+    "sha256": "7ae9f0f8ee888ff62d8dcaf134985520a607617f05da5083164d9047c16f334f"
+  },
+  {
+    "path": "baseline/execution_ready/__init__.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\__init__.py",
+    "bytes": 87,
+    "sha256": "b8b8589c84068fc6b15f6e6e9c984a52a49e1da0d3dc376775e21254b029ea55"
+  },
+  {
+    "path": "baseline/execution_ready/__main__.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\__main__.py",
+    "bytes": 80,
+    "sha256": "6a170fc866c867a1e5812daad308396f0940a23f2ecf55e56be39d5d67d23f10"
+  },
+  {
+    "path": "baseline/execution_ready/adapter.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\adapter.py",
+    "bytes": 2322,
+    "sha256": "d387b6282edd7b48fddfddf1aec2904f6290addf44e54d1a30c0117b9dd2174f"
+  },
+  {
+    "path": "baseline/execution_ready/archive.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\archive.py",
+    "bytes": 4933,
+    "sha256": "6651913551d39c016f9d215d4bbb8c323227ac33f9fbe945a770908683801436"
+  },
+  {
+    "path": "baseline/execution_ready/cli.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\cli.py",
+    "bytes": 6064,
+    "sha256": "3ab9c60eb295f35997b9c2a2132a1bfface3d0d3d67aa62c01b6ba658eed9027"
+  },
+  {
+    "path": "baseline/execution_ready/decoder.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\decoder.py",
+    "bytes": 5048,
+    "sha256": "91f453fc83d76cf4ebb021b33d71ba40c8d5659265af8602e61828869e71caca"
+  },
+  {
+    "path": "baseline/execution_ready/gate.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\gate.py",
+    "bytes": 4644,
+    "sha256": "7f47df40649901cd76c45b332c28d7195f0cfe13ad867617114504f391d5b608"
+  },
+  {
+    "path": "baseline/execution_ready/prepare.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\prepare.py",
+    "bytes": 6484,
+    "sha256": "e0f5559efff0fb5c8ed9fe6dbfdb2c7ef336c51d49011cf5f56614eaedfa256a"
+  },
+  {
+    "path": "baseline/execution_ready/README.md",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\README.md",
+    "bytes": 2183,
+    "sha256": "ee4f4b6006c51d4adac47d450c3a650bf4cd2d8bf9bb3525ff6e99dc59f5bb64"
+  },
+  {
+    "path": "baseline/execution_ready/runtime.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\runtime.py",
+    "bytes": 2801,
+    "sha256": "dfae8a5e8dd23e0025e59ada951e2d8907e58853c18b0358cf78f0b2858d81ed"
+  },
+  {
+    "path": "baseline/execution_ready/test_execution_ready.py",
+    "source": "E:\\count压缩\\baseline\\execution_ready\\test_execution_ready.py",
+    "bytes": 10886,
+    "sha256": "0398865d0a0faee56c484124203163f36e3348ca968003f4e3d80ed3ef70aac5"
+  },
+  {
+    "path": "baseline/hest1000/baselines_resume.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\baselines_resume.py",
+    "bytes": 5239,
+    "sha256": "1371098966dc919cec045beb8ed56466d70de4831f48dc70dd07656fd12fa3d7"
+  },
+  {
+    "path": "baseline/hest1000/baselines_runner.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\baselines_runner.py",
+    "bytes": 9877,
+    "sha256": "b34034c526802b14e0102004aff2571801eb5045dfd5aa95858162a4ba985a69"
+  },
+  {
+    "path": "baseline/hest1000/build_queue.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\build_queue.py",
+    "bytes": 1477,
+    "sha256": "7f8477d53f2f1d7d8cdd26fa9ef776a114396f033c2cc086646d3b25b5191c7f"
+  },
+  {
+    "path": "baseline/hest1000/classify_failures.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\classify_failures.py",
+    "bytes": 2196,
+    "sha256": "1e5cf9b980e65bb66ed36c10da00736682f44950906745d9152037bfeb966d86"
+  },
+  {
+    "path": "baseline/hest1000/general_baselines.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\general_baselines.py",
+    "bytes": 11635,
+    "sha256": "3708ee5d070af5ebfe1ebdeb3c915e6c323669a2c4b5ce3345287502fd198aad"
+  },
+  {
+    "path": "baseline/hest1000/main.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\main.py",
+    "bytes": 11721,
+    "sha256": "7558d0e6afbea9aaa27b0bc9bf2f157d5000a3a3e6a1efd4d4a268c7dd9dca3b"
+  },
+  {
+    "path": "baseline/hest1000/pilot.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\pilot.py",
+    "bytes": 14387,
+    "sha256": "7b91603c5cd5219780ed3fb96375a3091abc5a5aa90e392646b7cbbc5e1c2a37"
+  },
+  {
+    "path": "baseline/hest1000/reconcile_roles.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\reconcile_roles.py",
+    "bytes": 2448,
+    "sha256": "b6c383f0eef0fa13a32149dccfd4044c4d19383dee2629b74d97dbcfa2e333c7"
+  },
+  {
+    "path": "baseline/hest1000/report.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\report.py",
+    "bytes": 4676,
+    "sha256": "a2d7ec3f7e612b9a850069a6d216ee57f72d5406fca3e60dc1b9561cde2465ad"
+  },
+  {
+    "path": "baseline/hest1000/select.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\select.py",
+    "bytes": 4047,
+    "sha256": "3d086bfdc9870d68678d00bc04e58c693ac87e47fd5f45a3a88c75dc22fd630f"
+  },
+  {
+    "path": "baseline/hest1000/synthetic_smoke.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\synthetic_smoke.py",
+    "bytes": 3703,
+    "sha256": "4a03cfab4936535bd46c31e21f4ad7e1ffcb22399bc024bef25a29dc43cfdc39"
+  },
+  {
+    "path": "baseline/hest1000/test_general_baselines.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\test_general_baselines.py",
+    "bytes": 7067,
+    "sha256": "67e8bd30d5442a86538d7bb8f97d402a3bd70956f3f4d0e8d77aabdb4fce2f73"
+  },
+  {
+    "path": "baseline/hest1000/test_pilot.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\test_pilot.py",
+    "bytes": 2438,
+    "sha256": "bc0744149172eeabce30f39586afa59ce8d1ffb3d14e2f680fab8d07b3a52040"
+  },
+  {
+    "path": "baseline/hest1000/test_select.py",
+    "source": "E:\\count压缩\\baseline\\hest1000\\test_select.py",
+    "bytes": 1079,
+    "sha256": "40580ceb269610e05a8b859bda06ce8eb4df50c0a8e88d5a93052a25153b1650"
+  },
+  {
+    "path": "baseline/hest_large_runtime/__init__.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\__init__.py",
+    "bytes": 97,
+    "sha256": "5d4850b1599186afab925c3b94176fd06bd351394264383e0485e3a80300676d"
+  },
+  {
+    "path": "baseline/hest_large_runtime/__main__.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\__main__.py",
+    "bytes": 80,
+    "sha256": "6a170fc866c867a1e5812daad308396f0940a23f2ecf55e56be39d5d67d23f10"
+  },
+  {
+    "path": "baseline/hest_large_runtime/adapter.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\adapter.py",
+    "bytes": 1035,
+    "sha256": "2b09033241a9e7c897fd583f2d31f6e2f7517f9839f85fee9569e8d8337b63a4"
+  },
+  {
+    "path": "baseline/hest_large_runtime/archive.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\archive.py",
+    "bytes": 6136,
+    "sha256": "7cfd97a4cc40690711250aabf0f5cc0d023d900c0bda53cbb80cdeeaae35b035"
+  },
+  {
+    "path": "baseline/hest_large_runtime/cli.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\cli.py",
+    "bytes": 4585,
+    "sha256": "a9c1a79d14e29872c9e4b99803123d2cc13dcbc8dbd2dedd3910a69453789bde"
+  },
+  {
+    "path": "baseline/hest_large_runtime/decoder.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\decoder.py",
+    "bytes": 3974,
+    "sha256": "3a5b29dade8481e3771a92f472fcf1c848db3b0ad2ab2d195e98b8ee3fb115f5"
+  },
+  {
+    "path": "baseline/hest_large_runtime/limits.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\limits.py",
+    "bytes": 543,
+    "sha256": "c1ddc8ef3858536e3de4b75c7187d3b0292d665f8eba8d0003903f7d53fe05f0"
+  },
+  {
+    "path": "baseline/hest_large_runtime/runtime.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\runtime.py",
+    "bytes": 4420,
+    "sha256": "4b924545523b73ecc3d6b1f4e4254bffd086148c053ef4f0eada84f17ad063ef"
+  },
+  {
+    "path": "baseline/hest_large_runtime/shared.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\shared.py",
+    "bytes": 4736,
+    "sha256": "5bd49368be01b955ece089417de697b6e6eeb137a7011ba5fc4b53a76d18f0d0"
+  },
+  {
+    "path": "baseline/hest_large_runtime/test_limits.py",
+    "source": "E:\\count压缩\\baseline\\hest_large_runtime\\test_limits.py",
+    "bytes": 1076,
+    "sha256": "28fa452c968c8d8cfff4552e3a5cefb0a595aef1c476cef8c8636705349d0d06"
+  },
+  {
+    "path": "baseline/matched_ready/__init__.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\__init__.py",
+    "bytes": 97,
+    "sha256": "5d4850b1599186afab925c3b94176fd06bd351394264383e0485e3a80300676d"
+  },
+  {
+    "path": "baseline/matched_ready/__main__.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\__main__.py",
+    "bytes": 80,
+    "sha256": "6a170fc866c867a1e5812daad308396f0940a23f2ecf55e56be39d5d67d23f10"
+  },
+  {
+    "path": "baseline/matched_ready/adapter.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\adapter.py",
+    "bytes": 1035,
+    "sha256": "2b09033241a9e7c897fd583f2d31f6e2f7517f9839f85fee9569e8d8337b63a4"
+  },
+  {
+    "path": "baseline/matched_ready/archive.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\archive.py",
+    "bytes": 6436,
+    "sha256": "f9b7f2dd0708076d121a109949c0801d0b46a9cb47dfe4e2d9ab5778da5cae36"
+  },
+  {
+    "path": "baseline/matched_ready/cli.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\cli.py",
+    "bytes": 4580,
+    "sha256": "74561a16209771e88139ee3b0d6ad98feda2acf209072775d9ffa810d1cac880"
+  },
+  {
+    "path": "baseline/matched_ready/decoder.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\decoder.py",
+    "bytes": 3974,
+    "sha256": "3a5b29dade8481e3771a92f472fcf1c848db3b0ad2ab2d195e98b8ee3fb115f5"
+  },
+  {
+    "path": "baseline/matched_ready/README.md",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\README.md",
+    "bytes": 1252,
+    "sha256": "ceccc3ba191bec3f5425ce224205fa60247931b12d2d3c73f4245af3dbc55bc7"
+  },
+  {
+    "path": "baseline/matched_ready/runtime.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\runtime.py",
+    "bytes": 4420,
+    "sha256": "4b924545523b73ecc3d6b1f4e4254bffd086148c053ef4f0eada84f17ad063ef"
+  },
+  {
+    "path": "baseline/matched_ready/shared.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\shared.py",
+    "bytes": 4671,
+    "sha256": "e5646850c384bbee4de30bf5ef60a7ae2ca35cb11f8077ab4c58eabb176484e2"
+  },
+  {
+    "path": "baseline/matched_ready/test_matched_ready.py",
+    "source": "E:\\count压缩\\baseline\\matched_ready\\test_matched_ready.py",
+    "bytes": 4587,
+    "sha256": "69566256b4ee3dda9d915f571e949bf66d203322bc168170715788d4c3e52040"
+  },
+  {
+    "path": "baseline/qpatchcodec/_adapt.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\_adapt.py",
+    "bytes": 5953,
+    "sha256": "c153940e8342e3c6607da518937fc764803e56c465c36c395170d36bc2557e3b"
+  },
+  {
+    "path": "baseline/qpatchcodec/freeze.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\freeze.py",
+    "bytes": 1945,
+    "sha256": "881009ba5e54b5186c07d6eec5cde2fdcef95595523097a3553963d419995ed8"
+  },
+  {
+    "path": "baseline/qpatchcodec/frozen_runtime/entropy.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\frozen_runtime\\entropy.py",
+    "bytes": 4044,
+    "sha256": "17931146bdc79fbcb5ea0ab2dbb17acd833c8d32f52df9325d5dbffd712bc4c6"
+  },
+  {
+    "path": "baseline/qpatchcodec/frozen_runtime/io047.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\frozen_runtime\\io047.py",
+    "bytes": 11160,
+    "sha256": "594bd107f2bacd4636778b5aa5609b6139ebe319124909126ace82ff3b71124f"
+  },
+  {
+    "path": "baseline/qpatchcodec/metrics.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\metrics.py",
+    "bytes": 590,
+    "sha256": "1e97c312da1f2818ed6d6a976b2ad0ea3eff29b2a1cd01bcb1af120aacd480f1"
+  },
+  {
+    "path": "baseline/qpatchcodec/model.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\model.py",
+    "bytes": 4970,
+    "sha256": "7abd069a9d924d3c7f2e4b3e4239be5f117e9c6846a4de03ba5c35ba882b31c4"
+  },
+  {
+    "path": "baseline/qpatchcodec/qshare_model.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\qshare_model.py",
+    "bytes": 3640,
+    "sha256": "afaf2542ea27554509bd3ed8ab5a78b41ddc6cc670581dba34c56aec12bb82ce"
+  },
+  {
+    "path": "baseline/qpatchcodec/README.md",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\README.md",
+    "bytes": 2531,
+    "sha256": "ec13cd5b7f41ed51c63ae73a91c027fe0bcfb59a67eb26e395e03de56ddc1e37"
+  },
+  {
+    "path": "baseline/qpatchcodec/run.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\run.py",
+    "bytes": 16392,
+    "sha256": "a910ac6588e57004a9ea949b8f5713f36ed48574a037acead37e5166daafb837"
+  },
+  {
+    "path": "baseline/qpatchcodec/test_qpatch.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\test_qpatch.py",
+    "bytes": 6672,
+    "sha256": "1635ae631bf6a6ec47d8784337925867b0b7e7c9c896b2d53dbca63cf3c35016"
+  },
+  {
+    "path": "baseline/qpatchcodec/test_qshare.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\test_qshare.py",
+    "bytes": 3988,
+    "sha256": "8d782f8a274aa2416a40b3972554fe781b5fe7fed6be0e6dee6175c5339e3761"
+  },
+  {
+    "path": "baseline/qpatchcodec/values.py",
+    "source": "E:\\count压缩\\baseline\\qpatchcodec\\values.py",
+    "bytes": 3372,
+    "sha256": "a0cbe78acc76fe61c2a227315b4d7d1823add785ff11008af596e2fceeb39532"
+  },
+  {
+    "path": "baseline/sharedcodec/frozen_runtime/codec.py",
+    "source": "E:\\count压缩\\baseline\\sharedcodec\\frozen_runtime\\codec.py",
+    "bytes": 10113,
+    "sha256": "0cb5669fe8b5bd0fe5439d84fb85f7a00fd9083a3e9a6ea3285497d91e8590bb"
+  },
+  {
+    "path": "baseline/sharedcodec/frozen_runtime/entropy.py",
+    "source": "E:\\count压缩\\baseline\\sharedcodec\\frozen_runtime\\entropy.py",
+    "bytes": 4044,
+    "sha256": "17931146bdc79fbcb5ea0ab2dbb17acd833c8d32f52df9325d5dbffd712bc4c6"
+  },
+  {
+    "path": "baseline/sharedcodec/frozen_runtime/io047.py",
+    "source": "E:\\count压缩\\baseline\\sharedcodec\\frozen_runtime\\io047.py",
+    "bytes": 11160,
+    "sha256": "594bd107f2bacd4636778b5aa5609b6139ebe319124909126ace82ff3b71124f"
+  },
+  {
+    "path": "baseline/sharedcodec/model.py",
+    "source": "E:\\count压缩\\baseline\\sharedcodec\\model.py",
+    "bytes": 2532,
+    "sha256": "1b4929f82d80ec5762e26f9fc13a13c330bbe2908cebe6f3e0ff242eacc9c458"
+  },
+  {
+    "path": "baseline/sharedcodec/README.md",
+    "source": "E:\\count压缩\\baseline\\sharedcodec\\README.md",
+    "bytes": 2399,
+    "sha256": "434c7f730212bd25ab070daa5f7ef7b8f1fb4474b9036c1010f615d0f2043b42"
+  },
+  {
+    "path": "baseline/sharedcodec/run.py",
+    "source": "E:\\count压缩\\baseline\\sharedcodec\\run.py",
+    "bytes": 13012,
+    "sha256": "155fc2aa0ef37295a66056f8e9b0233d350342f3e7604f800ee080e67635f8c7"
+  },
+  {
+    "path": "baseline/sharedcodec/test_shared.py",
+    "source": "E:\\count压缩\\baseline\\sharedcodec\\test_shared.py",
+    "bytes": 4512,
+    "sha256": "cf1008d12f92f3e428fb4c3dc24ba8276f932f96b08ae7f53905bbf8e0a76564"
+  },
+  {
+    "path": "DATA.md",
+    "source": "E:\\count压缩\\DATA.md",
+    "bytes": 8056,
+    "sha256": "eab15d5ea7e2f89b36762497605b5f4859140ec7e49659fdf7d5e76017e4ae3c"
+  },
+  {
+    "path": "METHODS.md",
+    "source": "E:\\count压缩\\METHODS.md",
+    "bytes": 2385,
+    "sha256": "18a2e10d7807e9716a4690a7f978a3bda9aead915ec95ac500952edb0007df73"
+  },
+  {
+    "path": "README.md",
+    "source": "E:\\count压缩\\README.md",
+    "bytes": 12835,
+    "sha256": "bcf86e34da0e500e84c3a7e28a803080ef9c4155aacf6ebe5f52d2bba85b3109"
+  }
+]

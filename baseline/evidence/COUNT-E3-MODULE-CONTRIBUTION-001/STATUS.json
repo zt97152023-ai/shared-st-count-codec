@@ -1,0 +1,22 @@
+{
+  "task": "COUNT-E3-MODULE-CONTRIBUTION-001",
+  "phase": "phase_0_existing_evidence_package",
+  "direct_five_arm_ready": true,
+  "direct_pilot": {
+    "status": "complete",
+    "samples": ["INT17", "MEND124", "MEND140"],
+    "rows": 15,
+    "all_exact": true,
+    "all_ledgers_sum": true,
+    "expanded_run_released": false
+  },
+  "full_arm_coverage": 1000,
+  "direct_spatial_control_coverage": 50,
+  "direct_no_support_context_coverage": 50,
+  "direct_no_value_coverage": 0,
+  "direct_no_sharing_coverage": 0,
+  "simplified_factorization_sharing_coverage": 3,
+  "protected_data_used": false,
+  "historical_evidence_overwritten": false,
+  "next_gate": "independent review of pilot definitions/results, then explicit release before any 50- or 1000-slice expansion"
+}

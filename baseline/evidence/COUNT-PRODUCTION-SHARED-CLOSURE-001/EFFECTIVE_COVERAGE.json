@@ -1,0 +1,13 @@
+{
+  "bucket_B32": 50,
+  "b32_width": 100,
+  "joint_B16_M4_M8": 100,
+  "value_context": 300,
+  "b32_value_context": 300,
+  "expected": {
+    "bucket_B32": 50,
+    "b32_width": 100,
+    "joint_B16_M4_M8": 100,
+    "value_context": 300
+  }
+}

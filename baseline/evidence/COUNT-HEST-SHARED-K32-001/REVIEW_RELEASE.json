@@ -1,0 +1,155 @@
+{
+  "approved": true,
+  "scope": "same1000 fresh fixedvalueK32 with historicalK8 paired physicalcomparison",
+  "experiment_pins": {
+    "setup.py": "7301f07b2252b06abfcb3ce52b95e96f84de366618ed80ad73959deb4ad468de",
+    "worker.py": "3cf3215b4add57272a7a24bbda1ce5824d621e3038cdbdece87b5b305e31e738",
+    "run_core.py": "a5b8cba953a737ec14c63b39e8dea500d07f2240d59714a5fa7b1713ccadfce7",
+    "helpers.py": "d819a9576c0c9efcf0d805843067e98727f81bbdc3309d538571adb9d5b765dd",
+    "common.py": "a00fc2873cd3b0275e329896efa79ecdfb0f7a903dd82ba1793137f9aae6f1da",
+    "preflight.py": "47aaad46122ffea2c69da22e5a9b9f042f55741d2f3764972fed846b89afe777",
+    "run.py": "f3be92b0e02894b837e652c9f4d03799a421ca1009d6d8df9c05561a9a8133ec",
+    "summarize.py": "fdc68b6903c7c6a04eaa8e3e7447b26d4eec49ee52668d556e8967165a68d3a0",
+    "PROTOCOL.json": "b014fa620992f14e3710bdf9d762ec0f5ebfdff6b1b99b0a93b116cfb516af4c",
+    "DATA_SPLIT.csv": "44ecf2ffe430bf3cf1056170ca5927edf5790e8859c82fe3d38ad58338726fc0",
+    "PINS.json": "f1f340e283332a2cf5dce8c69d946606abcc24e52b5a794e78a5363edda3fa13"
+  },
+  "checks": {
+    "setup.py": true,
+    "worker.py": true,
+    "run_core.py": true,
+    "helpers.py": true,
+    "common.py": true,
+    "preflight.py": true,
+    "run.py": true,
+    "summarize.py": true,
+    "PROTOCOL.json": true,
+    "DATA_SPLIT.csv": true,
+    "PINS.json": true
+  },
+  "production_pins": {
+    "baseline\\matched_ready\\shared.py": true,
+    "baseline\\matched_ready\\decoder.py": true,
+    "baseline\\matched_ready\\archive.py": true,
+    "baseline\\matched_ready\\runtime.py": true,
+    "baseline\\qpatchcodec\\model.py": true,
+    "baseline\\qpatchcodec\\qshare_model.py": true,
+    "baseline\\qpatchcodec\\values.py": true,
+    "baseline\\sharedcodec\\model.py": true,
+    "baseline\\hest_large_runtime\\adapter.py": true,
+    "baseline\\hest_large_runtime\\archive.py": true,
+    "baseline\\hest_large_runtime\\cli.py": true,
+    "baseline\\hest_large_runtime\\decoder.py": true,
+    "baseline\\hest_large_runtime\\limits.py": true,
+    "baseline\\hest_large_runtime\\runtime.py": true,
+    "baseline\\hest_large_runtime\\shared.py": true,
+    "baseline\\hest_large_runtime\\test_limits.py": true,
+    "baseline\\hest_large_runtime\\__init__.py": true,
+    "baseline\\hest_large_runtime\\__main__.py": true,
+    "baseline\\execution_ready\\adapter.py": true,
+    "baseline\\execution_ready\\archive.py": true,
+    "baseline\\execution_ready\\cli.py": true,
+    "baseline\\execution_ready\\decoder.py": true,
+    "baseline\\execution_ready\\gate.py": true,
+    "baseline\\execution_ready\\prepare.py": true,
+    "baseline\\execution_ready\\runtime.py": true,
+    "baseline\\execution_ready\\test_execution_ready.py": true,
+    "baseline\\execution_ready\\__init__.py": true,
+    "baseline\\execution_ready\\__main__.py": true
+  },
+  "E_D_frozen_files_identical": true,
+  "independent_physical_preflight": [
+    {
+      "sample_id": "NCBI180",
+      "K": 8,
+      "all_pass": true,
+      "archive_bytes": 254423,
+      "extra_checks": {
+        "values": true,
+        "indices": true,
+        "indptr": true,
+        "int64_values": true,
+        "integer_indices": true,
+        "historical_sha_size": true,
+        "historical_K8": true,
+        "canonical_pair": true,
+        "fixed_members": true
+      }
+    },
+    {
+      "sample_id": "NCBI180",
+      "K": 32,
+      "all_pass": true,
+      "archive_bytes": 256978,
+      "extra_checks": {
+        "values": true,
+        "indices": true,
+        "indptr": true,
+        "int64_values": true,
+        "integer_indices": true,
+        "historical_sha_size": true,
+        "historical_K8": true,
+        "canonical_pair": true,
+        "fixed_members": true
+      }
+    },
+    {
+      "sample_id": "NCBI792",
+      "K": 8,
+      "all_pass": true,
+      "archive_bytes": 10612925,
+      "extra_checks": {
+        "values": true,
+        "indices": true,
+        "indptr": true,
+        "int64_values": true,
+        "integer_indices": true,
+        "historical_sha_size": true,
+        "historical_K8": true,
+        "canonical_pair": true,
+        "fixed_members": true
+      }
+    },
+    {
+      "sample_id": "NCBI792",
+      "K": 32,
+      "all_pass": true,
+      "archive_bytes": 10592743,
+      "extra_checks": {
+        "values": true,
+        "indices": true,
+        "indptr": true,
+        "int64_values": true,
+        "integer_indices": true,
+        "historical_sha_size": true,
+        "historical_K8": true,
+        "canonical_pair": true,
+        "fixed_members": true
+      }
+    },
+    {
+      "sample_id": "NCBI793",
+      "K": 32,
+      "all_pass": true,
+      "archive_bytes": 17123773,
+      "extra_checks": {
+        "values": true,
+        "indices": true,
+        "indptr": true,
+        "int64_values": true,
+        "integer_indices": true,
+        "historical_sha_size": true,
+        "historical_K8": true,
+        "canonical_pair": true,
+        "fixed_members": true
+      }
+    }
+  ],
+  "limitations": [
+    "source before/afterSHA checked by producer; no third source reread required",
+    "final reviewer audit reads exactdecode receipts, does not rerun1000decodes",
+    "actual canonicalCSRarraybytes not sourceCSR nor wholeH5AD recovery",
+    "exposed50subset informedK32; fullcohort not strict confirmatoryholdout",
+    "16GiB sampled perworker is not globalRAM hardcap"
+  ]
+}

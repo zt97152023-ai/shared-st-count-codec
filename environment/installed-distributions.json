@@ -1,0 +1,42 @@
+[
+  {
+    "name": "h5py",
+    "version": "3.9.0"
+  },
+  {
+    "name": "llvmlite",
+    "version": "0.48.0"
+  },
+  {
+    "name": "numba",
+    "version": "0.66.0"
+  },
+  {
+    "name": "numpy",
+    "version": "1.26.4"
+  },
+  {
+    "name": "pcodec",
+    "version": "1.0.3"
+  },
+  {
+    "name": "pip",
+    "version": "23.2.1"
+  },
+  {
+    "name": "psutil",
+    "version": "7.2.2"
+  },
+  {
+    "name": "scipy",
+    "version": "1.14.1"
+  },
+  {
+    "name": "setuptools",
+    "version": "65.5.0"
+  },
+  {
+    "name": "zstandard",
+    "version": "0.19.0"
+  }
+]

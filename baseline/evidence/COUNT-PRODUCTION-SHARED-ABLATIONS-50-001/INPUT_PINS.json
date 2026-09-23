@@ -1,0 +1,206 @@
+{
+  "manifest_sha256": "6c9eaa78dfd0acc860ae67776943c641f752813c46da7affa999617b75482e9e",
+  "sources": {
+    "NCBI180": {
+      "path": "E:\\Hestdata\\st\\NCBI180.h5ad",
+      "sha256": "f7565f113f5f59b6c78146811aac9ee1e9ad46affbafd337fea0d66624e66f34"
+    },
+    "SPA58": {
+      "path": "E:\\Hestdata\\st\\SPA58.h5ad",
+      "sha256": "d74cb550e659857f601ec4c7e86725e7f97eff3fdc625fb25088f446014dee8f"
+    },
+    "SPA37": {
+      "path": "E:\\Hestdata\\st\\SPA37.h5ad",
+      "sha256": "7fe6e43b93d513a31f45c88bd6aba61425901dbf6eba4541f7ff312d45d9b565"
+    },
+    "NCBI383": {
+      "path": "E:\\Hestdata\\st\\NCBI383.h5ad",
+      "sha256": "eae056d0d9ae098b6e1d3bbf05d6b6181104a706449b744fcc9ba52a0fa338bc"
+    },
+    "MEND24": {
+      "path": "E:\\Hestdata\\st\\MEND24.h5ad",
+      "sha256": "82371e92def732905b40a5e19e9cacf3883367c1e413c558cac324354efc2068"
+    },
+    "SPA8": {
+      "path": "E:\\Hestdata\\st\\SPA8.h5ad",
+      "sha256": "782befbf76200d70efbf9a63791824e087bcdb21b6a71022f8d8a55294ad6d6c"
+    },
+    "NCBI761": {
+      "path": "E:\\Hestdata\\st\\NCBI761.h5ad",
+      "sha256": "319404c208c6d8f456266d806ffb5ff6d9fc04da964e4e060a714d906d8f445d"
+    },
+    "NCBI289": {
+      "path": "E:\\Hestdata\\st\\NCBI289.h5ad",
+      "sha256": "b7d8b06cd900498f75a05b2acb527e17b2506167590e3d065d4132852e5957dc"
+    },
+    "SPA149": {
+      "path": "E:\\Hestdata\\st\\SPA149.h5ad",
+      "sha256": "cb8f64a201011a1eb3fcbdc35cc91428972adbec6d425770d527e4b56df450d8"
+    },
+    "NCBI410": {
+      "path": "E:\\Hestdata\\st\\NCBI410.h5ad",
+      "sha256": "1f65fdbc5875514cf91e7e14bddc5b5e96c555756e1993902fee81fc871024c0"
+    },
+    "MEND23": {
+      "path": "E:\\Hestdata\\st\\MEND23.h5ad",
+      "sha256": "dde89358570ca2a66419580968de94833ed4af2268d830130f3a5e3bc93a0d53"
+    },
+    "NCBI299": {
+      "path": "E:\\Hestdata\\st\\NCBI299.h5ad",
+      "sha256": "1a5d6c173dfcf6a5f74b9a8d6c462f519ad46a5a8810c000c2f122f3ac0bc74f"
+    },
+    "NCBI770": {
+      "path": "E:\\Hestdata\\st\\NCBI770.h5ad",
+      "sha256": "e92643106972dc8fc88feb2724c1e4c2dd5c590a1df7b00722bea31b57cf0d83"
+    },
+    "NCBI337": {
+      "path": "E:\\Hestdata\\st\\NCBI337.h5ad",
+      "sha256": "2d750e8b234c974032605b339ba07ba02185b4c99b374486c4674196ddaf886b"
+    },
+    "SPA33": {
+      "path": "E:\\Hestdata\\st\\SPA33.h5ad",
+      "sha256": "a48faaf4fc56f9d088135736f2e075aae410757cb590dda99b52122185a05799"
+    },
+    "NCBI176": {
+      "path": "E:\\Hestdata\\st\\NCBI176.h5ad",
+      "sha256": "6f44c00de1ae813d4ef5c4f504f1d22f536bc0326c707024eda341260e79cade"
+    },
+    "SPA96": {
+      "path": "E:\\Hestdata\\st\\SPA96.h5ad",
+      "sha256": "61df21abf49db1f320588e2d6b55532fc106a69ff24fe7a2cbd57e48d71c3c40"
+    },
+    "SPA14": {
+      "path": "E:\\Hestdata\\st\\SPA14.h5ad",
+      "sha256": "77e5069d5cc678d2b0fd8b4721537aefa4882973f91a4fbba0b6960831d656c2"
+    },
+    "NCBI491": {
+      "path": "E:\\Hestdata\\st\\NCBI491.h5ad",
+      "sha256": "ec7332a8d752b04c608ff750fe543affd6bb4fe9dca963f218347e3782cafba8"
+    },
+    "MEND124": {
+      "path": "E:\\Hestdata\\st\\MEND124.h5ad",
+      "sha256": "d288ce60d2ff3c78ceb48ab4be62f66b6fd9c14878418b67bbdc7fd396effd3c"
+    },
+    "NCBI709": {
+      "path": "E:\\Hestdata\\st\\NCBI709.h5ad",
+      "sha256": "6a2cecdb3f62a8e9b053ef1b32ab740590a0d48998718ab0d09b3d0221401a76"
+    },
+    "NCBI844": {
+      "path": "E:\\Hestdata\\st\\NCBI844.h5ad",
+      "sha256": "dd1c481338754003b3264eefd672f37e8db673d327ecb6031eb26a258cc550f6"
+    },
+    "NCBI435": {
+      "path": "E:\\Hestdata\\st\\NCBI435.h5ad",
+      "sha256": "b2571dd0eca8b8f581fa94fa52e05f62b761647eb6fe5a9364f7fa09e005c41c"
+    },
+    "NCBI812": {
+      "path": "E:\\Hestdata\\st\\NCBI812.h5ad",
+      "sha256": "2b3bb8e27feac84fb7001423278c5d8aaffde95ef1376bc566bcdb7b682ee393"
+    },
+    "NCBI629": {
+      "path": "E:\\Hestdata\\st\\NCBI629.h5ad",
+      "sha256": "bb692ffc9f583ce689e6276a7ee2b879ff8263c146aa913718cf2ddced3af60e"
+    },
+    "NCBI796": {
+      "path": "E:\\Hestdata\\st\\NCBI796.h5ad",
+      "sha256": "255aae275b385a06e672d66db2f838d811cbffe5f83ebe708914084bfb2e7717"
+    },
+    "NCBI452": {
+      "path": "E:\\Hestdata\\st\\NCBI452.h5ad",
+      "sha256": "37c7c1583cafba7d50fcb901e2293a4cdd89c162d1f2ad13dd5fca921e314cb3"
+    },
+    "MEND140": {
+      "path": "E:\\Hestdata\\st\\MEND140.h5ad",
+      "sha256": "25b80ca3e83454ad7f6cb5f791aaf5e2f9d07a09506698ce82274e108e799d8e"
+    },
+    "TENX50": {
+      "path": "E:\\Hestdata\\st\\TENX50.h5ad",
+      "sha256": "bdf434ca2612f6147fac400808dc51f6adc5e8f125f113fe8bdc6e85efe39206"
+    },
+    "ZEN65": {
+      "path": "E:\\Hestdata\\st\\ZEN65.h5ad",
+      "sha256": "d9f44f6c058a9a3bc4810c2caadfe2dda16c84bf6a9f157b6f93c90402d72ac5"
+    },
+    "MISC14": {
+      "path": "E:\\Hestdata\\st\\MISC14.h5ad",
+      "sha256": "e09884666b90518a6322e16c45a309438f3c2f3718d58cdf81777c97b5b87da0"
+    },
+    "NCBI729": {
+      "path": "E:\\Hestdata\\st\\NCBI729.h5ad",
+      "sha256": "42d0ab57689eda1311302440338484ed0eeb4a829cc32ca3c09218ad1649c0c3"
+    },
+    "ZEN47": {
+      "path": "E:\\Hestdata\\st\\ZEN47.h5ad",
+      "sha256": "0af8141beead7097bb9b37035dcf06fdcd312d76ecd22a6f841e9c3c843df710"
+    },
+    "MEND84": {
+      "path": "E:\\Hestdata\\st\\MEND84.h5ad",
+      "sha256": "c39ebc4540d9fe9214c0ce6e73aac7d417036213bf165f510edb3591bad644bf"
+    },
+    "NCBI542": {
+      "path": "E:\\Hestdata\\st\\NCBI542.h5ad",
+      "sha256": "f81337f063deadbb294d73632c915f96f24d8b264a98a8b960934cf3fea23257"
+    },
+    "INT17": {
+      "path": "E:\\Hestdata\\st\\INT17.h5ad",
+      "sha256": "4b84c7e021f517bf24c32f24ee6db2e2fdcca5c31823183911d421b883fab1e0"
+    },
+    "TENX118": {
+      "path": "E:\\Hestdata\\st\\TENX118.h5ad",
+      "sha256": "36b7026375a66b2643471d8a91437a9be862a46b909b9a25db060c9014f34697"
+    },
+    "TENX96": {
+      "path": "E:\\Hestdata\\st\\TENX96.h5ad",
+      "sha256": "42851a9332b875dcad2bda50de61a56ff8460c9379b8808736ae500fec50a544"
+    },
+    "TENX135": {
+      "path": "E:\\Hestdata\\st\\TENX135.h5ad",
+      "sha256": "8bca49c20b3d4c4a8991f8777b30860ea2578e358275ece93225a944ea303607"
+    },
+    "TENX110": {
+      "path": "E:\\Hestdata\\st\\TENX110.h5ad",
+      "sha256": "1d6fafcd9b34787e3186308c8ee2ffa0cbb487a6c5b7b150a019f2c274df3300"
+    },
+    "TENX124": {
+      "path": "E:\\Hestdata\\st\\TENX124.h5ad",
+      "sha256": "9bb86d000e22b1537392271dd23f95bc17dc1e780ba6a9d2b545c9a5869dd907"
+    },
+    "TENX127": {
+      "path": "E:\\Hestdata\\st\\TENX127.h5ad",
+      "sha256": "cb61edaaa3355bb0dc1ab90954f7575170e9e60077947a26b1cf58db5de30d3f"
+    },
+    "TENX126": {
+      "path": "E:\\Hestdata\\st\\TENX126.h5ad",
+      "sha256": "cd3ee486f5dfe2eb20b6439632eba1f1f0000cf2b34d7a74ae59ba57780cdd59"
+    },
+    "TENX136": {
+      "path": "E:\\Hestdata\\st\\TENX136.h5ad",
+      "sha256": "593dd98a0d576d2e25f68198ffb9d0c3bf4b39f6214be2a23492607e83eb346f"
+    },
+    "TENX117": {
+      "path": "E:\\Hestdata\\st\\TENX117.h5ad",
+      "sha256": "8b70c48d556be8358686f83ee7c5f65d9bba8fd3c544a64686d1da520073fff8"
+    },
+    "TENX137": {
+      "path": "E:\\Hestdata\\st\\TENX137.h5ad",
+      "sha256": "d47ac47cb80375f3efad771b69d3b500b41e0e77c9dcb5f3f71e8426a90c332e"
+    },
+    "TENX111": {
+      "path": "E:\\Hestdata\\st\\TENX111.h5ad",
+      "sha256": "7d29a58122b6580d11aa116ebeb16894a089b6df24216a70b98df73b3176fd25"
+    },
+    "TENX131": {
+      "path": "E:\\Hestdata\\st\\TENX131.h5ad",
+      "sha256": "52676af58ccc9b9703d82f2db34893feca5dc50d5329d37b02a3e27206d3b222"
+    },
+    "TENX129": {
+      "path": "E:\\Hestdata\\st\\TENX129.h5ad",
+      "sha256": "a36bc0f99ee31ebc6541a0e46d17cd29327b2e061e61ec51af73766dd3d39f8b"
+    },
+    "TENX128": {
+      "path": "E:\\Hestdata\\st\\TENX128.h5ad",
+      "sha256": "ef91c140a35bba1f899e4ae957f65771e2d0cf7e06ea50c2863d5f2d09115858"
+    }
+  },
+  "protocol_sha256": "f67ceddab5d94fbf6672eedf07491112b49e826835539700da218d0187e1068c"
+}
