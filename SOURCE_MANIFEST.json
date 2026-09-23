@@ -1392,9 +1392,10 @@
     "sha256": "18a2e10d7807e9716a4690a7f978a3bda9aead915ec95ac500952edb0007df73"
   },
   {
-    "path": "README.md",
+    "path": "docs/HISTORICAL_PROJECT_README.md",
     "source": "E:\\count压缩\\README.md",
     "bytes": 12835,
-    "sha256": "bcf86e34da0e500e84c3a7e28a803080ef9c4155aacf6ebe5f52d2bba85b3109"
+    "sha256": "bcf86e34da0e500e84c3a7e28a803080ef9c4155aacf6ebe5f52d2bba85b3109",
+    "packaging_note": "Original root README preserved byte-for-byte; new root README provides publication navigation."
   }
 ]

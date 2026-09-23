@@ -1,6 +1,8 @@
 # Shared source and reproducibility release candidate
 
-Status: local release candidate; not yet a published repository or an open-source license grant.
+Repository: https://github.com/zt97152023-ai/shared-st-count-codec
+
+Status: source archive; original-code license grant remains pending. This is not a validated cross-platform software release.
 
 ## Entry points
 
@@ -30,4 +32,4 @@ The source cohort is fixed by the included original DATA_SPLIT.csv and its SHA25
 
 ## Publication status
 
-The local Git history begins with this packaging operation. It is not the historical development history. No remote repository, public release URL, DOI or original-code license has been fabricated. The owner must supply the public repository URL, copyright holder and license choice before a public release can be finalized. No matrix or image payload is included.
+The local Git history begins with this packaging operation. It is not the historical development history. The repository is https://github.com/zt97152023-ai/shared-st-count-codec. The original-code copyright holder and license choice remain pending; no release DOI has been assigned. No matrix or image payload is included.
