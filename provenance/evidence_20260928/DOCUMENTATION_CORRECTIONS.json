@@ -1,0 +1,7 @@
+{
+  "historical_document": "docs/historical/E3_CONSOLIDATED_README.md",
+  "historical_sha256": "81086d2589633bff37dc951eb49047a74cee5fa5846eb3ea9cf50c72be246a03",
+  "corrected_document": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-CONSOLIDATED/README.md",
+  "corrected_sha256": "f6cb11af5df41845e5eb57563262acb1a96d28ba57fadda6a750e5af3abbae5f",
+  "reason": "Replace incorrect eight-class tail attribution with measured B8/K32 and singleton-only semantics."
+}

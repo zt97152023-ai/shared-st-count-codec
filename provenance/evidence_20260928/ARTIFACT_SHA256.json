@@ -1,0 +1,142 @@
+[
+  {
+    "path": "COMMANDS_BY_CONFIGURATION.json",
+    "bytes": 20091897,
+    "sha256": "261e3b14dc35eca93acb6accd1dd0a0858abccac1ecbbbafbc60385b1161e869"
+  },
+  {
+    "path": "COMPARATOR_BP_gene_none.jsonl",
+    "bytes": 9741295,
+    "sha256": "c5944ea4860a4307e3f41944217366552af1d323cf868621750e83f1ca4d6f91"
+  },
+  {
+    "path": "COMPARATOR_BP_spot_mean.jsonl",
+    "bytes": 10191823,
+    "sha256": "862f1e1801b3bf032fee338db23e5ff46a5fe4a8055e5054cfea4068f11f601b"
+  },
+  {
+    "path": "COMPARATOR_CONTRACTS.json",
+    "bytes": 23170,
+    "sha256": "3031a39c7062f9654c2157e1bcf37454d8ba104581b9baa6b5582b1f5db3dfe5"
+  },
+  {
+    "path": "COMPARATOR_CSC_ZSTD19.jsonl",
+    "bytes": 3438403,
+    "sha256": "16de1c18a4faf699430a215c510db192aac11968f755619f143f1ff1a262054a"
+  },
+  {
+    "path": "COMPARATOR_CSR_BZIP2_9.jsonl",
+    "bytes": 3407855,
+    "sha256": "1574259477b18992397513d2c686be7e91230f74709f4bf30db0c5447f5488a8"
+  },
+  {
+    "path": "COMPARATOR_CSR_ZSTD19.jsonl",
+    "bytes": 3441887,
+    "sha256": "02e9ca320ad46d23b7adbddb8f092a3189a042a3837a02919607533f5d61df84"
+  },
+  {
+    "path": "COMPARATOR_H5AD_GZIP4.jsonl",
+    "bytes": 3650465,
+    "sha256": "24d4b92fcf5ec7cb8f413bf2a5a7c6cbc8f1d2dba92bf5b18c4b22ff8579ac8f"
+  },
+  {
+    "path": "COMPARATOR_IVCSC.jsonl",
+    "bytes": 3820146,
+    "sha256": "8d1eddb074bfb85cae35dbe5ce8459a579d24b126477855038341320a7ef630a"
+  },
+  {
+    "path": "COMPARATOR_IVCSC_bz2.jsonl",
+    "bytes": 3864510,
+    "sha256": "1a11cf8217ff389b51533981a8c6687e08d0ea70188de7054eb76143fc161030"
+  },
+  {
+    "path": "COMPARATOR_Pcodec.jsonl",
+    "bytes": 3620151,
+    "sha256": "fb567c7d47ae1917b24acebfb8c67a8aca90260d440745873a8a03b6b0b8dde7"
+  },
+  {
+    "path": "COMPARATOR_REPAIRS.csv",
+    "bytes": 2821,
+    "sha256": "57391973a186e6e2a411896e41ac335868ce0c9276a95500c9525752a06a9808"
+  },
+  {
+    "path": "COMPARATOR_SELECTION.csv",
+    "bytes": 4653961,
+    "sha256": "3a5868d27b988e0f035a6fc9f46068fe1ddf34a0450c9055ca297414bf995f2d"
+  },
+  {
+    "path": "COMPARATOR_SOURCE_PIN_BRIDGE.json",
+    "bytes": 820335,
+    "sha256": "8a0f083e27a1781639bcaae02c41bc27d183d577e2f7425525ab91f07b49d59f"
+  },
+  {
+    "path": "CONFIGURATION_RECEIPT_INDEX.json",
+    "bytes": 1515,
+    "sha256": "a111ce76f8249100afa7e656eaeada02c23f54adf19565f8f2db75d60400002e"
+  },
+  {
+    "path": "configuration_receipts.zip",
+    "bytes": 7980346,
+    "sha256": "f80cba6b33e5170ac30e2f375ae8b36ba1a181ddd5e75a8ecc57ce23f6f17faa"
+  },
+  {
+    "path": "DOCUMENTATION_CORRECTIONS.json",
+    "bytes": 471,
+    "sha256": "13708753886eae0784b85bcf530da6a91bc24cbebec0505f3ee702cd30126248"
+  },
+  {
+    "path": "E3_CASES.jsonl",
+    "bytes": 1160740,
+    "sha256": "d0038b9c68146164dde51f6cc36e9697668af34545ffb584e8e38ac6fc6e18c4"
+  },
+  {
+    "path": "E3_DESCRIPTION_CORRECTIONS.json",
+    "bytes": 2070,
+    "sha256": "b227369acf1cac2833c79b8c3563a65215534ffb6bddff545c5fb864f9bb17ab"
+  },
+  {
+    "path": "HISTORICAL_RUNTIME_RECEIPTS.json",
+    "bytes": 1219,
+    "sha256": "597cfc666c95b69899fe01677e030209a3d8186e72ebe7913af79d1fd33ce196"
+  },
+  {
+    "path": "K32_CASES.jsonl",
+    "bytes": 3152145,
+    "sha256": "3e0eb4b6d3b5bcfba141ea6755fcd9b2158c12140fa8d583252cd29af55ff51a"
+  },
+  {
+    "path": "K32_SELECTION.csv",
+    "bytes": 921561,
+    "sha256": "384d93f7240342c0f8a05eb36854a01e5c78d8871e1cb112d926b35af1d8b79a"
+  },
+  {
+    "path": "LEGACY_IVCSC_SCHEMA_RECONCILIATION.json",
+    "bytes": 44623,
+    "sha256": "1d3522ab7ea19789c3efd26e6efef9c279dcd7b88811163ebcb151ade5e4d94a"
+  },
+  {
+    "path": "RECEIPT_INDEX.json",
+    "bytes": 21742528,
+    "sha256": "2d3e3d89fa91902969af7abd548c985efb5543f72ffc8a0cbbe7df4dd3074db6"
+  },
+  {
+    "path": "receipts.zip",
+    "bytes": 45531629,
+    "sha256": "0c481c9ecab57a18b9303a93d5a7a7555ef7e1cc38620ddc42e356a34b8445fb"
+  },
+  {
+    "path": "RELEASE_DEPENDENCIES.json",
+    "bytes": 34016,
+    "sha256": "daccbc28d2336e7a34c2c638bc19db73aa6c9c3b13f7e736d123c72aa6fd1261"
+  },
+  {
+    "path": "SOURCE_PIN_BRIDGE.json",
+    "bytes": 284376,
+    "sha256": "25308489d2a837aaa98b0bb1228aebc0fec53aecd892f56fa16ce7c5e9b931cc"
+  },
+  {
+    "path": "SUMMARY.json",
+    "bytes": 1317,
+    "sha256": "c6ab8dcc9f2ddcde374ea430bc4f89aa81355792d1080ca596c9fc7ef7bf82b8"
+  }
+]

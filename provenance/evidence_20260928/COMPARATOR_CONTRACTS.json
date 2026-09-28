@@ -1,0 +1,721 @@
+[
+  {
+    "method": "BP_gene_none",
+    "case_file": "COMPARATOR_BP_gene_none.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 1000
+    },
+    "source_storage_dtype_observations": {
+      "float32": 456,
+      "int64": 432,
+      "float64": 75,
+      "uint16": 37
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "bpcells_version": "0.3.0rc2",
+          "dtype": "int64",
+          "method": "BP_gene_none",
+          "schema": "external-count-v1",
+          "sorted": false,
+          "transpose": false
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "manifest.json",
+          "matrix/col_names",
+          "matrix/idxptr",
+          "matrix/index_data",
+          "matrix/index_idx",
+          "matrix/index_idx_offsets",
+          "matrix/index_starts",
+          "matrix/row_names",
+          "matrix/shape",
+          "matrix/storage_order",
+          "matrix/val_data",
+          "matrix/val_idx",
+          "matrix/val_idx_offsets",
+          "matrix/version",
+          "metadata.bz2"
+        ],
+        "cases": 1000
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": "0.12.19",
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": null
+        },
+        "executable_sha256": "c98caee82c66433f0e89d4abbf152b39a7dc2e99979b28dcb021598b4e3f5642"
+      },
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 1000,
+    "cases_with_legacy_run_environment": 0,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#BP_gene_none",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  },
+  {
+    "method": "BP_spot_mean",
+    "case_file": "COMPARATOR_BP_spot_mean.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 1000
+    },
+    "source_storage_dtype_observations": {
+      "float32": 456,
+      "int64": 432,
+      "float64": 75,
+      "uint16": 37
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "bpcells_version": "0.3.0rc2",
+          "dtype": "int64",
+          "method": "BP_spot_mean",
+          "schema": "external-count-v1",
+          "sorted": true,
+          "transpose": true
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "manifest.json",
+          "matrix/col_names",
+          "matrix/idxptr",
+          "matrix/index_data",
+          "matrix/index_idx",
+          "matrix/index_idx_offsets",
+          "matrix/index_starts",
+          "matrix/row_names",
+          "matrix/shape",
+          "matrix/storage_order",
+          "matrix/val_data",
+          "matrix/val_idx",
+          "matrix/val_idx_offsets",
+          "matrix/version",
+          "metadata.bz2",
+          "permutation.bz2"
+        ],
+        "cases": 1000
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 1000,
+    "cases_with_legacy_run_environment": 0,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#BP_spot_mean",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  },
+  {
+    "method": "CSC_ZSTD19",
+    "case_file": "COMPARATOR_CSC_ZSTD19.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 1000
+    },
+    "source_storage_dtype_observations": {
+      "float32": 456,
+      "int64": 432,
+      "float64": 75,
+      "uint16": 37
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "dtype": "int64",
+          "layout": "csc",
+          "method": "CSC_ZSTD19",
+          "schema": "external-count-v1"
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "archive.bin"
+        ],
+        "cases": 1000
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": "0.12.19",
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": null
+        },
+        "executable_sha256": "c98caee82c66433f0e89d4abbf152b39a7dc2e99979b28dcb021598b4e3f5642"
+      },
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 1000,
+    "cases_with_legacy_run_environment": 0,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#CSC_ZSTD19",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  },
+  {
+    "method": "CSR_BZIP2_9",
+    "case_file": "COMPARATOR_CSR_BZIP2_9.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 1000
+    },
+    "source_storage_dtype_observations": {
+      "float32": 456,
+      "int64": 432,
+      "float64": 75,
+      "uint16": 37
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "dtype": "int64",
+          "method": "CSR_BZIP2_9",
+          "parameters": {
+            "bzip2_level": 9
+          },
+          "schema": "hest1000-general-v1"
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "archive.bin"
+        ],
+        "cases": 1000
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 0,
+    "cases_with_legacy_run_environment": 0,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#CSR_BZIP2_9",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  },
+  {
+    "method": "CSR_ZSTD19",
+    "case_file": "COMPARATOR_CSR_ZSTD19.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 1000
+    },
+    "source_storage_dtype_observations": {
+      "float32": 456,
+      "int64": 432,
+      "float64": 75,
+      "uint16": 37
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "dtype": "int64",
+          "layout": "csr",
+          "method": "CSR_ZSTD19",
+          "schema": "external-count-v1"
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "archive.bin"
+        ],
+        "cases": 1000
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 1000,
+    "cases_with_legacy_run_environment": 0,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#CSR_ZSTD19",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  },
+  {
+    "method": "H5AD_GZIP4",
+    "case_file": "COMPARATOR_H5AD_GZIP4.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 1000
+    },
+    "source_storage_dtype_observations": {
+      "float32": 456,
+      "int64": 432,
+      "float64": 75,
+      "uint16": 37
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "dtype": "int64",
+          "method": "H5AD_GZIP4",
+          "schema": "external-count-v1"
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "manifest.json",
+          "matrix.h5ad"
+        ],
+        "cases": 1000
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": "0.12.19",
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": null
+        },
+        "executable_sha256": "c98caee82c66433f0e89d4abbf152b39a7dc2e99979b28dcb021598b4e3f5642"
+      },
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 1000,
+    "cases_with_legacy_run_environment": 0,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#H5AD_GZIP4",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  },
+  {
+    "method": "IVCSC",
+    "case_file": "COMPARATOR_IVCSC.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 945,
+      "None": 55
+    },
+    "source_storage_dtype_observations": {
+      "float32": 421,
+      "int64": 416,
+      "None": 55,
+      "float64": 73,
+      "uint16": 35
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "index_dtype": "uint32",
+          "method": "IVCSC",
+          "orientation": "CSC original spots-by-genes",
+          "schema": "count-e1-v1",
+          "upstream_commit": "ab406eb51dd2ea358eba5236720fb5d3acdaa6e5",
+          "value_dtype": "uint32"
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "archive.bin"
+        ],
+        "cases": 945
+      },
+      {
+        "files": [
+          "count.cnt"
+        ],
+        "cases": 55
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": "0.12.19",
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": null
+        },
+        "executable_sha256": "c98caee82c66433f0e89d4abbf152b39a7dc2e99979b28dcb021598b4e3f5642"
+      },
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 945,
+    "cases_with_legacy_run_environment": 55,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#IVCSC",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  },
+  {
+    "method": "IVCSC_bz2",
+    "case_file": "COMPARATOR_IVCSC_bz2.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 942,
+      "None": 58
+    },
+    "source_storage_dtype_observations": {
+      "float32": 421,
+      "int64": 413,
+      "None": 58,
+      "float64": 73,
+      "uint16": 35
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "index_dtype": "uint32",
+          "method": "IVCSC_bz2",
+          "orientation": "CSC original spots-by-genes",
+          "schema": "count-e1-v1",
+          "upstream_commit": "ab406eb51dd2ea358eba5236720fb5d3acdaa6e5",
+          "value_dtype": "uint32"
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "archive.bin"
+        ],
+        "cases": 942
+      },
+      {
+        "files": [
+          "count.cnt"
+        ],
+        "cases": 58
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": "0.12.19",
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": null
+        },
+        "executable_sha256": "c98caee82c66433f0e89d4abbf152b39a7dc2e99979b28dcb021598b4e3f5642"
+      },
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 942,
+    "cases_with_legacy_run_environment": 58,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#IVCSC_bz2",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  },
+  {
+    "method": "Pcodec",
+    "case_file": "COMPARATOR_Pcodec.jsonl",
+    "selected_cases": 1000,
+    "canonical_dtype_observations": {
+      "int64": 1000
+    },
+    "source_storage_dtype_observations": {
+      "float32": 456,
+      "int64": 432,
+      "float64": 75,
+      "uint16": 37
+    },
+    "manifest_configurations": [
+      {
+        "configuration": {
+          "dtype": "int64",
+          "method": "Pcodec",
+          "parameters": {
+            "bzip2_level": 9,
+            "pcodec_level": 8,
+            "pcodec_version": "1.0.3"
+          },
+          "schema": "hest1000-general-v1"
+        },
+        "cases": 1000
+      }
+    ],
+    "charged_file_layouts": [
+      {
+        "files": [
+          "archive.bin"
+        ],
+        "cases": 1000
+      }
+    ],
+    "runtime_variants": [
+      {
+        "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+        "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+        "packages": {
+          "numpy": "1.26.4",
+          "scipy": "1.14.1",
+          "h5py": "3.9.0",
+          "anndata": null,
+          "zstandard": "0.19.0",
+          "numba": "0.66.0",
+          "psutil": "7.2.2",
+          "pcodec": "1.0.3"
+        },
+        "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+      }
+    ],
+    "cases_with_encode_runtime_receipt": 0,
+    "cases_with_legacy_run_environment": 0,
+    "commands": "COMMANDS_BY_CONFIGURATION.json#Pcodec",
+    "recovery_records": "Per-case receipt_refs, including EXACT.json or RESULT.json.exact; raw bytes in receipts.zip",
+    "preserved_fields": [
+      "canonical integer counts",
+      "axis labels and order",
+      "coordinate shape/dtype/bytes",
+      "047 contract metadata"
+    ],
+    "excluded_fields": [
+      "arbitrary source H5AD obs/var/layers/uns",
+      "source file byte layout"
+    ],
+    "claim_limit": "Recorded configuration only; missing runtime observations are not filled from current installations."
+  }
+]

@@ -29,7 +29,7 @@ These are descriptive full-arm costs. The ablation deltas are the module-contrib
 
 ## Interpretation boundary
 
-`no_value` is a fixed-width lossless positive-uint32 stream and therefore measures the cost of removing the current positive-value model under this explicit raw fallback; it is not a claim that raw coding is the strongest alternative model. `no_sharing` removes cross-gene q1 sharing while retaining the fixed eight tail classes, so it measures q1-sharing contribution rather than independently refitting every tail histogram.
+`no_value` is a fixed-width lossless positive-uint32 stream and therefore measures the cost of removing the current positive-value model under this explicit raw fallback; it is not a claim that raw coding is the strongest alternative model. `no_sharing` removes cross-gene q1 sharing while retaining the fixed K32 tail groups, so it measures q1-sharing contribution rather than independently refitting every tail histogram.
 
 ## Verification
 

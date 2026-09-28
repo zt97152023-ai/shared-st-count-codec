@@ -6,6 +6,8 @@ This repository archives the implementation corresponding to the **support B8 / 
 
 ## Start here
 
+- [Frozen-run evidence, comparator contracts and corrected E3 semantics](provenance/REPRODUCIBILITY_CONTRACT.md)
+- [三项审计修复说明（中文）](provenance/修复说明_20260928.md)
 - [Version boundaries and commands (中文)](START_HERE.md)
 - [Method-to-source map (中文)](SOURCE_MAP.md)
 - [Environment and release notes](RELEASE_README.md)

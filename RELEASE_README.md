@@ -4,6 +4,11 @@ Repository: https://github.com/zt97152023-ai/shared-st-count-codec
 
 Status: source archive; original-code license grant remains pending. This is not a validated cross-platform software release.
 
+The [2026-09-28 evidence repair](provenance/REPRODUCIBILITY_CONTRACT.md) adds
+per-case archive/receipt hashes, recorded comparator contracts, and the missing
+E3 worker. Historical execution commits remain unrecorded; the complete
+historical software reproduction chain is not closed by this publication.
+
 ## Entry points
 
 - `START_HERE.md`: K8/K32 version boundaries and single-file encode/decode/verify commands.

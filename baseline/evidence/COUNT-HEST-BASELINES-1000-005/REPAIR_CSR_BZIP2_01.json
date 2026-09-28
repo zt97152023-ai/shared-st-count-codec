@@ -1,0 +1,50 @@
+{
+  "schema": "hest1000-csr-bzip2-bounded-repair-v1",
+  "source_plan_sha256": "414aadf6e38f493e0597a9deed0b993d8e6661dcf22a0abf7cf0b10e931260b2",
+  "source_state_sha256": "f7fd77c6da45a5c38b55986c2d572ec306a0189c1a6306354ee77bafd70d3d4f",
+  "method": "CSR_BZIP2_9",
+  "parameters": {
+    "bzip2_level": 9,
+    "csr_layout": "F047 historical CSR layout",
+    "archive_format": "unchanged ZIP_STORED general-baseline archive"
+  },
+  "repair": "one bounded attempt per previously failed sample; encode-side bzip round-trip check before independent decode",
+  "retry_limit": {
+    "TENX86": 1,
+    "TENX82": 1
+  },
+  "samples": {
+    "TENX86": {
+      "result_path": "D:\\HEST1000BenchRun\\COUNT-HEST-BASELINES-1000-005-RECOVERED-03\\main\\TENX86\\CSR_BZIP2_9\\attempt02\\RESULT.json",
+      "result_sha256": "65eed129a76b789291ee78c1f7fc482e15b28bfa910d2379c0a1dc14b05471d5",
+      "archive_path": "D:\\HEST1000BenchRun\\COUNT-HEST-BASELINES-1000-005-RECOVERED-03\\main\\TENX86\\CSR_BZIP2_9\\attempt02\\archive\\archive.bin",
+      "archive_sha256": "78073c804e881ee67f1334893e4173ac1bf6a34f9bc3d3416040b2601a91a141",
+      "csr_member_sha256": "4fbf099bc9fe687200ab212c879562bb770bf41b4c32cea004d0a01de5da183d",
+      "source_sha256": "7a666cc127d03a8c07e65f42ef40a0787908e2da9388241cfd0800d7b91592cf",
+      "canonical_sha256": "e17045a9f79e9055a1732777d4d3dc6fd3966fed70abea79e59aae81eb644f2a",
+      "metadata_sha256": "6cec10b51a8441f8f7aaaa82e9ec3fa1ee21491f117f27efeb8d7b641bdf2c3d"
+    },
+    "TENX82": {
+      "result_path": "D:\\HEST1000BenchRun\\COUNT-HEST-BASELINES-1000-005-RECOVERED-03\\main\\TENX82\\CSR_BZIP2_9\\attempt02\\RESULT.json",
+      "result_sha256": "15e251cd549e3e350b4dc553bbba71d3e502cb1e13eb0d896ae23aabef64618a",
+      "archive_path": "D:\\HEST1000BenchRun\\COUNT-HEST-BASELINES-1000-005-RECOVERED-03\\main\\TENX82\\CSR_BZIP2_9\\attempt02\\archive\\archive.bin",
+      "archive_sha256": "e63092f771f930a31e9fd3ba91b8527fe72c93faedf54efcd174649b1f7a5726",
+      "csr_member_sha256": "7158b6509f6a95a2a756685ec430533129f4123cc8b5da890e5215fc46cb0173",
+      "source_sha256": "29944de265907fe9ac8d7fea57203a34020069719f33df1645ad138a59a0173d",
+      "canonical_sha256": "f0fe743d6d77c2f849e3cf675fffc738f2f66886c8f282de2a96a8d44083c45b",
+      "metadata_sha256": "b8dd04d481919e4cd58e29b3f6263f3119482617efd4b3a90a1eaffa781318b9"
+    }
+  },
+  "comparator_sha256": "3708ee5d070af5ebfe1ebdeb3c915e6c323669a2c4b5ce3345287502fd198aad",
+  "checked_wrapper_sha256": "ff43caf71679923a28a18a21933f29077082ab3554d96abd27b5f812183bfd2e",
+  "runner_helper_sha256": "a8d08843efd4b7ddbe1dccb25399eb296cd9ba2339ef95f5c3718f4345a5d4eb",
+  "repair_runner_sha256": "4eeacf44926bd5d6a643f54cffa6bf3c21b1dd40b89915693dddbfab29dd5ccc",
+  "resource_limits": {
+    "concurrency": 1,
+    "rss_bytes": 17179869184,
+    "stage_seconds": 1800,
+    "disk_reserve_bytes": 21474836480,
+    "output_cap_bytes": 107374182400
+  },
+  "output_root": "D:\\HEST1000BenchRun\\COUNT-HEST-BASELINES-1000-005-RECOVERED-04"
+}

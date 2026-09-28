@@ -1,0 +1,37 @@
+[
+  {
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-BASELINES-1000-005\\runner_plan.json",
+    "bytes": 32312688,
+    "sha256": "846957e5afbe90d3d2bf7100769c3b0bff2d2ca4daa4a7b268ddfb6cf60c8011"
+  },
+  {
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-BASELINES-1000-005\\runner_plan_recovered.json",
+    "bytes": 33159125,
+    "sha256": "bcad46cb452c576a5a64caba201d4e2782f0d7e56b60e0c45db267ca317fa442"
+  },
+  {
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-BASELINES-1000-005\\runner_plan_recovered03.json",
+    "bytes": 33742143,
+    "sha256": "414aadf6e38f493e0597a9deed0b993d8e6661dcf22a0abf7cf0b10e931260b2"
+  },
+  {
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-HEST-BASELINES-1000-005\\REPAIR_CSR_BZIP2_01.json",
+    "bytes": 3058,
+    "sha256": "99bc37ab57a1eef3e8501c4bbf38a06463103e8c27926534aa81a3998d93ac72"
+  },
+  {
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-IVCSC-100\\main\\config.json",
+    "bytes": 25217,
+    "sha256": "af9103e6214f454204ab82168a415213384e2c785bdfb9e80d11561aa37de049"
+  },
+  {
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-IVCSC-100\\main\\environment.json",
+    "bytes": 6437,
+    "sha256": "bd75bb4de59a6277c6991843bd634bd7befec62fa699373d7e7b11111d63c301"
+  },
+  {
+    "path": "E:\\count压缩\\baseline\\evidence\\COUNT-IVCSC-100\\BUILD_PROVENANCE.json",
+    "bytes": 542,
+    "sha256": "5668abcccfad53e86b425c0e5f3fb9affc306c9c2c2a2c767acb12e1dac2aef2"
+  }
+]

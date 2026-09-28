@@ -26,6 +26,6 @@ All 15 dataset × arm rows passed fresh-process decode, source verification, and
 | no_spatial | 14,193,215 | +2.601% |
 | no_sharing | 13,904,272 | +0.512% |
 
-The `no_value` arm is deliberately a fixed-width lossless positive-value stream, so its large increase is the paid cost of removing the positive-value model, not a claim that a particular alternative entropy model is optimal. The `no_sharing` arm removes cross-gene q1 sharing while retaining the fixed eight tail classes; this is a q1-sharing contribution, not a full independently fitted tail-histogram model.
+The `no_value` arm is deliberately a fixed-width lossless positive-value stream, so its large increase is the paid cost of removing the positive-value model, not a claim that a particular alternative entropy model is optimal. The `no_sharing` arm removes cross-gene q1 sharing while retaining the fixed K32 tail groups; this is a q1-sharing contribution, not a full independently fitted tail-histogram model.
 
 Fresh-process byte-identical reproductions passed for INT17 `no_support` and `no_sharing`. The `full` arm is the hash-pinned accepted K32 anchor with prior exact fresh-process validation.

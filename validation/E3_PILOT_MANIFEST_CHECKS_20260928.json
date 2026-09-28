@@ -1,0 +1,29 @@
+{
+  "scope": "Read retained pilot manifests and archive hashes; no new pilot codec execution",
+  "rows": [
+    {
+      "archive_path": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\pilot_v1\\INT17\\no_sharing_q1\\archive.cnt",
+      "archive_sha256": "d79b3f0dab5ee6820598d67a9dbba2d207ac09f28a3a65a3603d8f189295d4d2",
+      "sample_id": "INT17",
+      "value_group_count": 32,
+      "support_bucket_count": 8,
+      "q1_sharing": false
+    },
+    {
+      "archive_path": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\pilot_v1\\MEND124\\no_sharing_q1\\archive.cnt",
+      "archive_sha256": "4d07e79f667d9f1b09acbd29973cc179f740051867d3a2a4f1b305a1411cb1f6",
+      "sample_id": "MEND124",
+      "value_group_count": 32,
+      "support_bucket_count": 8,
+      "q1_sharing": false
+    },
+    {
+      "archive_path": "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-001\\pilot_v1\\MEND140\\no_sharing_q1\\archive.cnt",
+      "archive_sha256": "b3324cc5249ecb1c2cf5771a9abe1c6bd9f121b82f533186ddb0efbd368ee65c",
+      "sample_id": "MEND140",
+      "value_group_count": 32,
+      "support_bucket_count": 8,
+      "q1_sharing": false
+    }
+  ]
+}

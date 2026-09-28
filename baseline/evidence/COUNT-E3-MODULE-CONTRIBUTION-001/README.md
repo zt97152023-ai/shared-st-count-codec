@@ -1,5 +1,8 @@
 # E3 module-contribution evidence package
 
+Publication correction (2026-09-28): this is a historical phase-0 inventory. The retained direct pilot and expansion use B8/K32; see [the evidence contract](../../../provenance/REPRODUCIBILITY_CONTRACT.md) for the implemented singleton-only intervention.
+
+
 This directory is the first bounded E3 deliverable. It separates evidence that is already available from the direct five-arm production ablation that is still gated by a new pilot.
 
 ## What is available now
@@ -18,7 +21,7 @@ This directory is the first bounded E3 deliverable. It separates evidence that i
 
 The package supports a full-arm module ledger and two prior three-slice mechanism families. It does **not** yet contain a comparable five-column table with direct production `full`, `no_support`, `no_value`, `no_spatial`, and `no_sharing` rows. The new task contract therefore requires a three-slice direct pilot before any larger rerun or paper claim.
 
-The direct arm definitions are frozen in `baseline/.ai/tasks/COUNT-E3-MODULE-CONTRIBUTION-001.json`. In particular, `no_value` is operationally defined as a fixed-width lossless positive-integer stream, and `no_sharing` as per-gene parameter fitting/serialization. This prevents post-result relabeling of older simplified controls.
+The direct arm definitions are frozen in `baseline/.ai/tasks/COUNT-E3-MODULE-CONTRIBUTION-001.json`. In particular, `no_value` is operationally defined as a fixed-width lossless positive-integer stream, and the implemented `no_sharing` as per-gene singleton probability exceptions; shared tail/conditional/support parameters remain. This prevents post-result relabeling of older simplified controls.
 
 ## Intended downstream data products
 

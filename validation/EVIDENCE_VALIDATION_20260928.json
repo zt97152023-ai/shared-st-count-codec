@@ -1,0 +1,44 @@
+{
+  "verified_at_utc": "2026-09-28T08:07:23.798170+00:00",
+  "status": "passed",
+  "case_counts": {
+    "K32": 1000,
+    "BP_gene_none": 1000,
+    "BP_spot_mean": 1000,
+    "IVCSC": 1000,
+    "IVCSC_bz2": 1000,
+    "CSR_ZSTD19": 1000,
+    "CSC_ZSTD19": 1000,
+    "H5AD_GZIP4": 1000,
+    "CSR_BZIP2_9": 1000,
+    "Pcodec": 1000,
+    "E3_full": 50,
+    "E3_no_sharing": 50,
+    "E3_no_spatial": 50,
+    "E3_no_support": 50,
+    "E3_no_value": 50
+  },
+  "archive_integrity_issues": [],
+  "configuration_pin_mismatches": [],
+  "receipt_paths": 89848,
+  "tests": {
+    "tools/test_evidence_bridge.py": "4 tests passed: valid bundle, artifact tamper rejection, receipt tamper rejection, E3 table numeric/hash preservation",
+    "tools/check_release.py": "original archived source hashes and exact core installed versions match",
+    "E3_current_release": "50 QSH1 headers and five fresh-process archive-only decodes passed"
+  },
+  "audit_manifest_sha256": "13159ae95b2421b92efbc0d72dfd3eb8341b9c08664e442d0a7dfdc312760717",
+  "source_manifest_sha256": "fe99e9cba67d49f714c0401fc9aa8ad276d2ec373e0478376d6d5a50da5f9bd9",
+  "validation_environment_observed_now": {
+    "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+    "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+    "packages": {
+      "numpy": "1.26.4",
+      "scipy": "1.14.1",
+      "h5py": "3.9.0",
+      "numba": "0.66.0",
+      "llvmlite": "0.48.0"
+    }
+  },
+  "historical_execution_commit": null,
+  "complete_historical_software_reproduction_chain": false
+}

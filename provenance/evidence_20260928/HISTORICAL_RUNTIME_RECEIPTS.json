@@ -1,0 +1,32 @@
+{
+  "a582e006233c7a2fbf387c86b09d88d18d1fabddf998f78bd10dcf91c4d99712": {
+    "executable": "E:\\count压缩\\baseline\\evidence\\COUNT-MATCHED-READY-001\\venv\\Scripts\\python.exe",
+    "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+    "packages": {
+      "numpy": "1.26.4",
+      "scipy": "1.14.1",
+      "h5py": "3.9.0",
+      "anndata": null,
+      "zstandard": "0.19.0",
+      "numba": "0.66.0",
+      "psutil": "7.2.2",
+      "pcodec": "1.0.3"
+    },
+    "executable_sha256": "1b51b8fb73eb40401c7e7cd468808eaa022922fd87fd60aecb757759dccf94f0"
+  },
+  "5489b6c119060bd010c8ccead0115af1cd95422ccccab1fe4cd7bcc5d00d4537": {
+    "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+    "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+    "packages": {
+      "numpy": "1.26.4",
+      "scipy": "1.14.1",
+      "h5py": "3.9.0",
+      "anndata": "0.12.19",
+      "zstandard": "0.19.0",
+      "numba": "0.66.0",
+      "psutil": "7.2.2",
+      "pcodec": null
+    },
+    "executable_sha256": "c98caee82c66433f0e89d4abbf152b39a7dc2e99979b28dcb021598b4e3f5642"
+  }
+}

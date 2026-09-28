@@ -1,0 +1,37 @@
+[
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/README.md",
+    "historical_path": "docs/historical/COUNT-E3-MODULE-CONTRIBUTION-001_README.md",
+    "historical_sha256": "a1759f87bbf3d51729d11f71a3d7cb55978c04e59f95b0b598cc47a9fd9c070e",
+    "published_sha256": "5a9ff85bdaed0c9aab1768ea96a9c72ba561879f163cd1046a55325ea7f11d9c",
+    "numeric_results_changed": false
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/RESULT.md",
+    "historical_path": "docs/historical/COUNT-E3-MODULE-CONTRIBUTION-001_RESULT.md",
+    "historical_sha256": "025ed3a5d0764ceeddc215c3018c0359f77fb9aae4197dab7cd5dbdcb67966fa",
+    "published_sha256": "299b467ee2a83e22f0f181426b74054176ff958cd8c322ef3f47e7b6c12493af",
+    "numeric_results_changed": false
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-001/E3_DIRECT_ABLATION.csv",
+    "historical_path": "docs/historical/COUNT-E3-MODULE-CONTRIBUTION-001_E3_DIRECT_ABLATION.csv",
+    "historical_sha256": "0e3855bd29e47c071176cabd2ee617143bd6f73f795a1a558e3aef60cb7979d3",
+    "published_sha256": "5dceab003cc9f1b3369a531c277761d4e11b607ca0487c6ec7b2dbe180a9817c",
+    "numeric_results_changed": false
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/RESULT.md",
+    "historical_path": "docs/historical/COUNT-E3-MODULE-CONTRIBUTION-002-50_RESULT.md",
+    "historical_sha256": "b494147fa851eb7ceb91a1c60af9caec2955544b4c544e398a90037e4f85e929",
+    "published_sha256": "b7ef3d5cfad6c907b23d82aaa9a5933ef6178623e599839e62aa8e6822aecd85",
+    "numeric_results_changed": false
+  },
+  {
+    "path": "baseline/evidence/COUNT-E3-MODULE-CONTRIBUTION-002-50/E3_DIRECT_ABLATION_50.csv",
+    "historical_path": "docs/historical/COUNT-E3-MODULE-CONTRIBUTION-002-50_E3_DIRECT_ABLATION_50.csv",
+    "historical_sha256": "8205bdb70bfbb50d49e03c4a1cb8d8e054b9ea94bb5f6c0de35fdc35bff27b11",
+    "published_sha256": "8b4a2580aceaea52f3bd93c51e617993d574e8ab8223850e1c5ac9652b7fdb73",
+    "numeric_results_changed": false
+  }
+]

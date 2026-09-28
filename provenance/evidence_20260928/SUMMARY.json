@@ -1,0 +1,38 @@
+{
+  "schema": "shared-evidence-bridge-v1",
+  "base_release_commit": "39acc115e3abb0d13eeb12edf636f53309fceba6",
+  "historical_execution_commit": null,
+  "historical_commit_status": "not recorded; packaging commit is not an execution commit",
+  "counts": {
+    "K32": 1000,
+    "BP_gene_none": 1000,
+    "BP_spot_mean": 1000,
+    "IVCSC": 1000,
+    "IVCSC_bz2": 1000,
+    "CSR_ZSTD19": 1000,
+    "CSC_ZSTD19": 1000,
+    "H5AD_GZIP4": 1000,
+    "CSR_BZIP2_9": 1000,
+    "Pcodec": 1000,
+    "E3_full": 50,
+    "E3_no_sharing": 50,
+    "E3_no_spatial": 50,
+    "E3_no_support": 50,
+    "E3_no_value": 50
+  },
+  "receipt_blobs": 61144,
+  "receipt_paths": 89848,
+  "archive_integrity_issues": [],
+  "claim_limit": "Recorded configurations only; no complete historical software reproduction chain, fairness certification, or universal superiority.",
+  "legacy_ivcsc_cases": 113,
+  "current_release_validation": {
+    "report": "validation/E3_VALIDATION_20260928.json",
+    "sha256": "9cd6031bb079702c30a7096f5204b8a492f2d61811bf4376fec6e91c23a15480",
+    "q1_headers_checked": 50,
+    "fresh_archive_only_decodes": 5,
+    "new_encodes": 0,
+    "scope": "NCBI180 five E3 arms; current release environment"
+  },
+  "archive_audit_new_codec_runs": 0,
+  "configuration_pin_mismatches": []
+}

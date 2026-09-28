@@ -1,0 +1,595 @@
+{
+  "scope": "current repaired release: dependency load and five archive-only decodes; not cohort rerun or historical environment reconstruction",
+  "python": "3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]",
+  "executable": "C:\\Users\\zhang\\anaconda3\\python.exe",
+  "value_worker_sha256": "035336138a5fade53861f43a7b3c58d60d32c545eab6b491f714f07b8e756e06",
+  "runtime_modules": [
+    {
+      "path": "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\evidence\\COUNT-E1-100\\runtime\\io047.py",
+      "name": "matched_io047"
+    },
+    {
+      "path": "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\qpatchcodec\\frozen_runtime\\entropy.py",
+      "name": "matched_q_entropy"
+    },
+    {
+      "path": "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\sharedcodec\\model.py",
+      "name": "matched_shared_model"
+    },
+    {
+      "path": "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\qpatchcodec\\model.py",
+      "name": "value_k_model"
+    },
+    {
+      "path": "dynamic",
+      "name": "value_k_qshare"
+    },
+    {
+      "path": "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\qpatchcodec\\values.py",
+      "name": "matched_q_values"
+    }
+  ],
+  "q1_archives": [
+    {
+      "sample_id": "INT17",
+      "mode": 1,
+      "genes": 17943,
+      "exceptions": 17943,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "MEND124",
+      "mode": 1,
+      "genes": 32285,
+      "exceptions": 32285,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "MEND140",
+      "mode": 1,
+      "genes": 33538,
+      "exceptions": 33538,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "MEND23",
+      "mode": 1,
+      "genes": 23803,
+      "exceptions": 23803,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "MEND24",
+      "mode": 1,
+      "genes": 26437,
+      "exceptions": 26437,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "MEND84",
+      "mode": 1,
+      "genes": 32285,
+      "exceptions": 32285,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "MISC14",
+      "mode": 1,
+      "genes": 17922,
+      "exceptions": 17922,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI176",
+      "mode": 1,
+      "genes": 14264,
+      "exceptions": 14264,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI180",
+      "mode": 1,
+      "genes": 14594,
+      "exceptions": 14594,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI289",
+      "mode": 1,
+      "genes": 13208,
+      "exceptions": 13208,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI299",
+      "mode": 1,
+      "genes": 13113,
+      "exceptions": 13113,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI337",
+      "mode": 1,
+      "genes": 23371,
+      "exceptions": 23371,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI383",
+      "mode": 1,
+      "genes": 23371,
+      "exceptions": 23371,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI410",
+      "mode": 1,
+      "genes": 23371,
+      "exceptions": 23371,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI435",
+      "mode": 1,
+      "genes": 32285,
+      "exceptions": 32285,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI452",
+      "mode": 1,
+      "genes": 22127,
+      "exceptions": 22127,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI491",
+      "mode": 1,
+      "genes": 20613,
+      "exceptions": 20613,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI542",
+      "mode": 1,
+      "genes": 32285,
+      "exceptions": 32285,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI629",
+      "mode": 1,
+      "genes": 36601,
+      "exceptions": 36601,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI709",
+      "mode": 1,
+      "genes": 36601,
+      "exceptions": 36601,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI729",
+      "mode": 1,
+      "genes": 31053,
+      "exceptions": 31053,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI761",
+      "mode": 1,
+      "genes": 15383,
+      "exceptions": 15383,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI770",
+      "mode": 1,
+      "genes": 17138,
+      "exceptions": 17138,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI796",
+      "mode": 1,
+      "genes": 33217,
+      "exceptions": 33217,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI812",
+      "mode": 1,
+      "genes": 36612,
+      "exceptions": 36612,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "NCBI844",
+      "mode": 1,
+      "genes": 31053,
+      "exceptions": 31053,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "SPA14",
+      "mode": 1,
+      "genes": 15981,
+      "exceptions": 15981,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "SPA149",
+      "mode": 1,
+      "genes": 15645,
+      "exceptions": 15645,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "SPA33",
+      "mode": 1,
+      "genes": 39739,
+      "exceptions": 39739,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "SPA37",
+      "mode": 1,
+      "genes": 39739,
+      "exceptions": 39739,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "SPA58",
+      "mode": 1,
+      "genes": 17641,
+      "exceptions": 17641,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "SPA8",
+      "mode": 1,
+      "genes": 15288,
+      "exceptions": 15288,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "SPA96",
+      "mode": 1,
+      "genes": 17973,
+      "exceptions": 17973,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX110",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX111",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX117",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX118",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX124",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX126",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX127",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX128",
+      "mode": 1,
+      "genes": 18085,
+      "exceptions": 18085,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX129",
+      "mode": 1,
+      "genes": 19059,
+      "exceptions": 19059,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX131",
+      "mode": 1,
+      "genes": 19059,
+      "exceptions": 19059,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX135",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX136",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX137",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX50",
+      "mode": 1,
+      "genes": 17943,
+      "exceptions": 17943,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "TENX96",
+      "mode": 1,
+      "genes": 541,
+      "exceptions": 541,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "ZEN47",
+      "mode": 1,
+      "genes": 36601,
+      "exceptions": 36601,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    },
+    {
+      "sample_id": "ZEN65",
+      "mode": 1,
+      "genes": 68886,
+      "exceptions": 68886,
+      "all_gene_exceptions": true,
+      "paid_shared_centres": 32
+    }
+  ],
+  "decode_checks": [
+    {
+      "sample_id": "NCBI180",
+      "arm": "full",
+      "command": [
+        "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\e3_worker.py",
+        "decode_standard",
+        "--package",
+        "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\archives\\NCBI180\\full\\archive.cnt",
+        "--output",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\full",
+        "--report",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\full.json"
+      ],
+      "returncode": 0,
+      "report": {
+        "archive_only": true,
+        "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+        "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+        "mapping_inverted": false,
+        "restored_shape": [
+          330,
+          14594
+        ]
+      },
+      "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+      "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+      "matches_manifest": true
+    },
+    {
+      "sample_id": "NCBI180",
+      "arm": "no_support",
+      "command": [
+        "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\e3_worker.py",
+        "decode_standard",
+        "--package",
+        "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\archives\\NCBI180\\no_support\\archive.cnt",
+        "--output",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\no_support",
+        "--report",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\no_support.json"
+      ],
+      "returncode": 0,
+      "report": {
+        "archive_only": true,
+        "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+        "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+        "mapping_inverted": false,
+        "restored_shape": [
+          330,
+          14594
+        ]
+      },
+      "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+      "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+      "matches_manifest": true
+    },
+    {
+      "sample_id": "NCBI180",
+      "arm": "no_value",
+      "command": [
+        "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\e3_worker.py",
+        "decode_no_value",
+        "--package",
+        "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\archives\\NCBI180\\no_value\\archive.cnt",
+        "--output",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\no_value",
+        "--report",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\no_value.json"
+      ],
+      "returncode": 0,
+      "report": {
+        "archive_only": true,
+        "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+        "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+        "restored_shape": [
+          330,
+          14594
+        ]
+      },
+      "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+      "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+      "matches_manifest": true
+    },
+    {
+      "sample_id": "NCBI180",
+      "arm": "no_spatial",
+      "command": [
+        "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\e3_worker.py",
+        "decode_standard",
+        "--package",
+        "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\archives\\NCBI180\\no_spatial\\archive.cnt",
+        "--output",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\no_spatial",
+        "--report",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\no_spatial.json"
+      ],
+      "returncode": 0,
+      "report": {
+        "archive_only": true,
+        "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+        "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+        "mapping_inverted": false,
+        "restored_shape": [
+          330,
+          14594
+        ]
+      },
+      "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+      "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+      "matches_manifest": true
+    },
+    {
+      "sample_id": "NCBI180",
+      "arm": "no_sharing",
+      "command": [
+        "C:\\Users\\zhang\\anaconda3\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "E:\\count压缩\\outputs\\SHARED_RELEASE_PROVENANCE_20260923\\shared-release\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\e3_worker.py",
+        "decode_standard",
+        "--package",
+        "E:\\count压缩\\baseline\\evidence\\COUNT-E3-MODULE-CONTRIBUTION-002-50\\archives\\NCBI180\\no_sharing\\archive.cnt",
+        "--output",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\no_sharing",
+        "--report",
+        "E:\\count压缩\\outputs\\SHARED_EVIDENCE_REPAIR_20260928\\e3_validation\\no_sharing.json"
+      ],
+      "returncode": 0,
+      "report": {
+        "archive_only": true,
+        "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+        "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+        "mapping_inverted": false,
+        "restored_shape": [
+          330,
+          14594
+        ]
+      },
+      "canonical_sha256": "46b182f39719b9f6fd7a67cab21e0341338e2101d37bcb6a9c9cfca93a9ca9cd",
+      "metadata_sha256": "ae71f7e49cb1a9ef0f817e2f2556229ee5c98b32da8949d85f8827c811ccb69a",
+      "matches_manifest": true
+    }
+  ]
+}

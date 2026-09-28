@@ -1,5 +1,7 @@
 # Production Shared 源码交付
 
+**2026-09-28 修订：** [冻结运行映射、比较器契约及 E3 更正](provenance/REPRODUCIBILITY_CONTRACT.md)。补入遗漏的 E3 worker 与逐例证据；历史运行 commit 未记录，不能将发布 commit 当作运行 commit，也不宣称完整软件复现链闭合。
+
 这是原项目源码的逐字节归档，不是重写实现。SOURCE_MANIFEST.json记录原位置、文件大小与SHA256；HISTORICAL_PIN_CHECKS.json核对历史固定哈希。
 
 ## 先选版本
